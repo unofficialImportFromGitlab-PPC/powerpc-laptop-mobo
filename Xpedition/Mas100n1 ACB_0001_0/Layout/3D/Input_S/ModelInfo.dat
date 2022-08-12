@@ -1,0 +1,1329 @@
+Version: 1
+RefDes: 25
+FactPartName: "MOLEX-53780-12"
+SubSeriesName: "MOLEX-537801270"
+PartNum: "MOLEX-537801270"
+Height: 0
+Mass: 9999
+Package: "MOLEX-537801270"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\MOLEX-537801270\MOLEX-537801270.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\MOLEX-537801270\MOLEX-537801270.etd"
+
+
+RefDes: 22
+FactPartName: "MOLEX-52271-12"
+SubSeriesName: "MOLEX-522711279"
+PartNum: "MOLEX-522711279"
+Height: 0
+Mass: 9999
+Package: "MOLEX-522711279"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\MOLEX-522711279\MOLEX-522711279.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\MOLEX-522711279\MOLEX-522711279.etd"
+
+
+RefDes: 7
+FactPartName: "HIROSE-DF13A-40DP-1_25"
+SubSeriesName: "HIROSE-DF13A-40DP"
+PartNum: "HIROSE-DF13A-40DP"
+Height: 0
+Mass: 9999
+Package: "HIROSE-DF13A-40DP"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\HIROSE-DF13A-40DP\HIROSE-DF13A-40DP.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\HIROSE-DF13A-40DP\HIROSE-DF13A-40DP.etd"
+
+
+RefDes: 2
+FactPartName: "CUI-SJ-43504-SMT-TR"
+SubSeriesName: "CUI-SJ-43504-SMT-TR"
+PartNum: "CUI-SJ-43504-SMT-TR"
+Height: 0
+Mass: 9999
+Package: "CUI-SJ-43504-SMT-TR"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\CUI-SJ-43504-SMT-TR\CUI-SJ-43504-SMT-TR.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\CUI-SJ-43504-SMT-TR\CUI-SJ-43504-SMT-TR.etd"
+
+
+RefDes: 17
+FactPartName: "LQFN-40-EP-7_1X5_1"
+SubSeriesName: "LQFN-40-5x7"
+PartNum: "LQFN-40-5x7"
+Height: 0
+Mass: 9999
+Package: "LQFN-40-5x7"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\LQFN-40-5x7\LQFN-40-5x7.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\LQFN-40-5x7\LQFN-40-5x7.etd"
+
+
+RefDes: 57
+FactPartName: "SOD123-AK"
+SubSeriesName: "CircuitWorks-SOD123"
+PartNum: "CircuitWorks-SOD123"
+Height: 0
+Mass: 9999
+Package: "CircuitWorks-SOD123"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\CircuitWorks-SOD123\CircuitWorks-SOD123.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\CircuitWorks-SOD123\CircuitWorks-SOD123.etd"
+
+
+RefDes: 21
+FactPartName: "MOLEX-50511-12"
+SubSeriesName: "MOLEX-50511-12"
+PartNum: "MOLEX-50511-12"
+Height: 0
+Mass: 9999
+Package: "MOLEX-50511-12"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\MOLEX-50511-12\MOLEX-50511-12.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\MOLEX-50511-12\MOLEX-50511-12.etd"
+
+
+RefDes: 65
+FactPartName: "SSOT6-P-0_95"
+SubSeriesName: "User Library-SSOT-6"
+PartNum: "User Library-SSOT-6"
+Height: 0
+Mass: 9999
+Package: "User Library-SSOT-6"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\User Library-SSOT-6\User Library-SSOT-6.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\User Library-SSOT-6\User Library-SSOT-6.etd"
+
+
+RefDes: 54
+FactPartName: "SMC-AK"
+SubSeriesName: "SMC"
+PartNum: "SMC"
+Height: 0
+Mass: 9999
+Package: "SMC"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\SMC\SMC.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\SMC\SMC.etd"
+
+
+RefDes: 11
+FactPartName: "IND-COILTRONICS-DR73"
+SubSeriesName: "Ind DR73-74"
+PartNum: "Ind DR73-74"
+Height: 0
+Mass: 9999
+Package: "Ind DR73-74"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\Ind DR73-74\Ind DR73-74.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\Ind DR73-74\Ind DR73-74.etd"
+
+
+RefDes: 14
+FactPartName: "LED0603-AK"
+SubSeriesName: "User Library-LED SMD0603"
+PartNum: "User Library-LED SMD0603"
+Height: 0
+Mass: 9999
+Package: "User Library-LED SMD0603"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\User Library-LED SMD0603\User Library-LED SMD0603.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\User Library-LED SMD0603\User Library-LED SMD0603.etd"
+
+
+RefDes: 53
+FactPartName: "SMB-AK"
+SubSeriesName: "SMB"
+PartNum: "SMB"
+Height: 0
+Mass: 9999
+Package: "SMB"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\SMB\SMB.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\SMB\SMB.etd"
+
+
+RefDes: 70
+FactPartName: "TSOP-48"
+SubSeriesName: "TSOP-48"
+PartNum: "TSOP-48"
+Height: 0
+Mass: 9999
+Package: "TSOP-48"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\TSOP-48\TSOP-48.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\TSOP-48\TSOP-48.etd"
+
+
+RefDes: 43
+FactPartName: "RC0201"
+SubSeriesName: "RESC-0201"
+PartNum: "RESC-0201"
+Height: 0
+Mass: 9999
+Package: "RESC-0201"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\RESC-0201\RESC-0201.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\RESC-0201\RESC-0201.etd"
+
+
+RefDes: 59
+FactPartName: "SOT-223-6"
+SubSeriesName: "SOT-223-6"
+PartNum: "SOT-223-6"
+Height: 0
+Mass: 9999
+Package: "SOT-223-6"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\SOT-223-6\SOT-223-6.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\SOT-223-6\SOT-223-6.etd"
+
+
+RefDes: 48
+FactPartName: "RC1210"
+SubSeriesName: "User Library-R_1210"
+PartNum: "User Library-R_1210"
+Height: 0
+Mass: 9999
+Package: "User Library-R_1210"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\User Library-R_1210\User Library-R_1210.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\User Library-R_1210\User Library-R_1210.etd"
+
+
+RefDes: 49
+FactPartName: "RC1808"
+SubSeriesName: "User Library-1808(4520M) Res"
+PartNum: "User Library-1808(4520M) Res"
+Height: 0
+Mass: 9999
+Package: "User Library-1808(4520M) Res"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\User Library-1808(4520M) Res\User Library-1808(4520M) Res.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\User Library-1808(4520M) Res\User Library-1808(4520M) Res.etd"
+
+
+RefDes: 50
+FactPartName: "RC2010"
+SubSeriesName: "RESC-2010"
+PartNum: "RESC-2010"
+Height: 0
+Mass: 9999
+Package: "RESC-2010"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\RESC-2010\RESC-2010.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\RESC-2010\RESC-2010.etd"
+
+
+RefDes: 44
+FactPartName: "RC0402"
+SubSeriesName: "RESC-0402"
+PartNum: "RESC-0402"
+Height: 0
+Mass: 9999
+Package: "RESC-0402"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\RESC-0402\RESC-0402.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\RESC-0402\RESC-0402.etd"
+
+
+RefDes: 47
+FactPartName: "RC1206"
+SubSeriesName: "c1206"
+PartNum: "c1206"
+Height: 0
+Mass: 9999
+Package: "c1206"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\c1206\c1206.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\c1206\c1206.etd"
+
+
+RefDes: 51
+FactPartName: "RC2512"
+SubSeriesName: "User Library-2512 SMD Resistor"
+PartNum: "User Library-2512 SMD Resistor"
+Height: 0
+Mass: 9999
+Package: "User Library-2512 SMD Resistor"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\User Library-2512 SMD Resistor\User Library-2512 SMD Resistor.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\User Library-2512 SMD Resistor\User Library-2512 SMD Resistor.etd"
+
+
+RefDes: 45
+FactPartName: "RC0603"
+SubSeriesName: "User Library-R_0603"
+PartNum: "User Library-R_0603"
+Height: 0
+Mass: 9999
+Package: "User Library-R_0603"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\User Library-R_0603\User Library-R_0603.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\User Library-R_0603\User Library-R_0603.etd"
+
+
+RefDes: 20
+FactPartName: "LQFP-80-0_4"
+SubSeriesName: "LQFP-80-P0_4"
+PartNum: "LQFP-80-P0_4"
+Height: 0
+Mass: 9999
+Package: "LQFP-80-P0_4"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\LQFP-80-P0_4\LQFP-80-P0_4.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\LQFP-80-P0_4\LQFP-80-P0_4.etd"
+
+
+RefDes: 1
+FactPartName: "CE-8X8_3"
+SubSeriesName: "CAPAE-D8.0x10.2"
+PartNum: "CAPAE-D8.0x10.2"
+Height: 0
+Mass: 9999
+Package: "CAPAE-D8.0x10.2"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\CAPAE-D8.0x10.2\CAPAE-D8.0x10.2.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\CAPAE-D8.0x10.2\CAPAE-D8.0x10.2.etd"
+
+
+RefDes: 79
+FactPartName: "WSON-8-2_1X2_1"
+SubSeriesName: "Wson-8"
+PartNum: "Wson-8"
+Height: 0
+Mass: 9999
+Package: "Wson-8"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\Wson-8\Wson-8.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\Wson-8\Wson-8.etd"
+
+
+RefDes: 62
+FactPartName: "SSOP-24"
+SubSeriesName: "SSOP-24"
+PartNum: "SSOP-24"
+Height: 0
+Mass: 9999
+Package: "SSOP-24"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\SSOP-24\SSOP-24.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\SSOP-24\SSOP-24.etd"
+
+
+RefDes: 46
+FactPartName: "RC0805"
+SubSeriesName: "r0805"
+PartNum: "r0805"
+Height: 0
+Mass: 9999
+Package: "r0805"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\r0805\r0805.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\r0805\r0805.etd"
+
+
+RefDes: 82
+FactPartName: "XC-OSC-NZ2520S"
+SubSeriesName: "Oscil-KC2520K"
+PartNum: "Oscil-KC2520K"
+Height: 0
+Mass: 9999
+Package: "Oscil-KC2520K"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\Oscil-KC2520K\Oscil-KC2520K.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\Oscil-KC2520K\Oscil-KC2520K.etd"
+
+
+RefDes: 68
+FactPartName: "TE-2013022-1"
+SubSeriesName: "TE-sodimm204-2013022-1"
+PartNum: "TE-sodimm204-2013022-1"
+Height: 0
+Mass: 9999
+Package: "TE-sodimm204-2013022-1"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\TE-sodimm204-2013022-1\TE-sodimm204-2013022-1.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\TE-sodimm204-2013022-1\TE-sodimm204-2013022-1.etd"
+
+
+RefDes: 67
+FactPartName: "TE-2-2013310-1"
+SubSeriesName: "TE-sodimm204-2013310-2"
+PartNum: "TE-sodimm204-2013310-2"
+Height: 0
+Mass: 9999
+Package: "TE-sodimm204-2013310-2"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\TE-sodimm204-2013310-2\TE-sodimm204-2013310-2.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\TE-sodimm204-2013310-2\TE-sodimm204-2013310-2.etd"
+
+
+RefDes: 30
+FactPartName: "PCI-MM70-314-310B1-2-R300"
+SubSeriesName: "PCI-mm70-314b2-1-r500"
+PartNum: "PCI-mm70-314b2-1-r500"
+Height: 0
+Mass: 9999
+Package: "PCI-mm70-314b2-1-r500"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\PCI-mm70-314b2-1-r500\PCI-mm70-314b2-1-r500.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\PCI-mm70-314b2-1-r500\PCI-mm70-314b2-1-r500.etd"
+
+
+RefDes: 71
+FactPartName: "TSOP-56"
+SubSeriesName: "TSOP1-56"
+PartNum: "TSOP1-56"
+Height: 0
+Mass: 9999
+Package: "TSOP1-56"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\TSOP1-56\TSOP1-56.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\TSOP1-56\TSOP1-56.etd"
+
+
+RefDes: 61
+FactPartName: "SOT-23-6"
+SubSeriesName: "sot23-6"
+PartNum: "sot23-6"
+Height: 0
+Mass: 9999
+Package: "sot23-6"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\sot23-6\sot23-6.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\sot23-6\sot23-6.etd"
+
+
+RefDes: 73
+FactPartName: "TSSOP-14"
+SubSeriesName: "TSSOP14"
+PartNum: "TSSOP14"
+Height: 0
+Mass: 9999
+Package: "TSSOP14"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\TSSOP14\TSSOP14.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\TSSOP14\TSSOP14.etd"
+
+
+RefDes: 34
+FactPartName: "PIN-100MLS-6DL"
+SubSeriesName: "70468471"
+PartNum: "70468471"
+Height: 0
+Mass: 9999
+Package: "70468471"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\70468471\70468471.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\70468471\70468471.etd"
+
+
+RefDes: 74
+FactPartName: "TSSOP-16"
+SubSeriesName: "Tssop-16"
+PartNum: "Tssop-16"
+Height: 0
+Mass: 9999
+Package: "Tssop-16"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\Tssop-16\Tssop-16.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\Tssop-16\Tssop-16.etd"
+
+
+RefDes: 75
+FactPartName: "TSSOP-24"
+SubSeriesName: "User Library-TSSOP24_(JEDEC_MO-153)"
+PartNum: "User Library-TSSOP24_(JEDEC_MO-153)"
+Height: 0
+Mass: 9999
+Package: "User Library-TSSOP24_(JEDEC_MO-153)"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\User Library-TSSOP24_(JEDEC_MO-153)\User Library-TSSOP24_(JEDEC_MO-153).prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\User Library-TSSOP24_(JEDEC_MO-153)\User Library-TSSOP24_(JEDEC_MO-153).etd"
+
+
+RefDes: 3
+FactPartName: "DFN-10-3_0X3_0"
+SubSeriesName: "User Library-DFN-10"
+PartNum: "User Library-DFN-10"
+Height: 0
+Mass: 9999
+Package: "User Library-DFN-10"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\User Library-DFN-10\User Library-DFN-10.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\User Library-DFN-10\User Library-DFN-10.etd"
+
+
+RefDes: 76
+FactPartName: "TSSOP-38"
+SubSeriesName: "TSSOP-38"
+PartNum: "TSSOP-38"
+Height: 0
+Mass: 9999
+Package: "TSSOP-38"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\TSSOP-38\TSSOP-38.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\TSSOP-38\TSSOP-38.etd"
+
+
+RefDes: 77
+FactPartName: "TSSOP-48"
+SubSeriesName: "User Library-TSSOP-48"
+PartNum: "User Library-TSSOP-48"
+Height: 0
+Mass: 9999
+Package: "User Library-TSSOP-48"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\User Library-TSSOP-48\User Library-TSSOP-48.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\User Library-TSSOP-48\User Library-TSSOP-48.etd"
+
+
+RefDes: 39
+FactPartName: "QFN-40-5X5-P0_4-EP"
+SubSeriesName: "QFN-40-5X5-EP"
+PartNum: "QFN-40-5X5-EP"
+Height: 0
+Mass: 9999
+Package: "QFN-40-5X5-EP"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\QFN-40-5X5-EP\QFN-40-5X5-EP.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\QFN-40-5X5-EP\QFN-40-5X5-EP.etd"
+
+
+RefDes: 72
+FactPartName: "TSOT-6"
+SubSeriesName: "User Library-TSOT-23-6(S6)"
+PartNum: "User Library-TSOT-23-6(S6)"
+Height: 0
+Mass: 9999
+Package: "User Library-TSOT-23-6(S6)"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\User Library-TSOT-23-6(S6)\User Library-TSOT-23-6(S6).prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\User Library-TSOT-23-6(S6)\User Library-TSOT-23-6(S6).etd"
+
+
+RefDes: 12
+FactPartName: "IND-VISHAY-IHLP2525"
+SubSeriesName: "IND-VISHAY-IHLP2525"
+PartNum: "IND-VISHAY-IHLP2525"
+Height: 0
+Mass: 9999
+Package: "IND-VISHAY-IHLP2525"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\IND-VISHAY-IHLP2525\IND-VISHAY-IHLP2525.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\IND-VISHAY-IHLP2525\IND-VISHAY-IHLP2525.etd"
+
+
+RefDes: 4
+FactPartName: "DSW-GDH8"
+SubSeriesName: "DSW-GDH8"
+PartNum: "DSW-GDH8"
+Height: 0
+Mass: 9999
+Package: "DSW-GDH8"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\DSW-GDH8\DSW-GDH8.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\DSW-GDH8\DSW-GDH8.etd"
+
+
+RefDes: 15
+FactPartName: "LGA-133-15X15"
+SubSeriesName: "LGA-133-15X15"
+PartNum: "LGA-133-15X15"
+Height: 0
+Mass: 9999
+Package: "LGA-133-15X15"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\LGA-133-15X15\LGA-133-15X15.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\LGA-133-15X15\LGA-133-15X15.etd"
+
+
+RefDes: 58
+FactPartName: "SOT-143"
+SubSeriesName: "User Library-SOT143-1"
+PartNum: "User Library-SOT143-1"
+Height: 0
+Mass: 9999
+Package: "User Library-SOT143-1"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\User Library-SOT143-1\User Library-SOT143-1.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\User Library-SOT143-1\User Library-SOT143-1.etd"
+
+
+RefDes: 36
+FactPartName: "QFN-16-3X3-EP"
+SubSeriesName: "QFN-16_3x3"
+PartNum: "QFN-16_3x3"
+Height: 0
+Mass: 9999
+Package: "QFN-16_3x3"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\QFN-16_3x3\QFN-16_3x3.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\QFN-16_3x3\QFN-16_3x3.etd"
+
+
+RefDes: 78
+FactPartName: "USOP-8"
+SubSeriesName: "uSOP-8"
+PartNum: "uSOP-8"
+Height: 0
+Mass: 9999
+Package: "uSOP-8"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\uSOP-8\uSOP-8.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\uSOP-8\uSOP-8.etd"
+
+
+RefDes: 81
+FactPartName: "XC-HC49S"
+SubSeriesName: "hc49us"
+PartNum: "hc49us"
+Height: 0
+Mass: 9999
+Package: "hc49us"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\hc49us\hc49us.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\hc49us\hc49us.etd"
+
+
+RefDes: 16
+FactPartName: "LGA-196-15X15"
+SubSeriesName: "LGA-133-15X15"
+PartNum: "LGA-133-15X15"
+Height: 0
+Mass: 9999
+Package: "LGA-133-15X15"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\LGA-133-15X15\LGA-133-15X15.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\LGA-133-15X15\LGA-133-15X15.etd"
+
+
+RefDes: 64
+FactPartName: "SSOT-6"
+SubSeriesName: "User Library-SSOT-6"
+PartNum: "User Library-SSOT-6"
+Height: 0
+Mass: 9999
+Package: "User Library-SSOT-6"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\User Library-SSOT-6\User Library-SSOT-6.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\User Library-SSOT-6\User Library-SSOT-6.etd"
+
+
+RefDes: 38
+FactPartName: "QFN-36-6X6-EP"
+SubSeriesName: "QFN-36-6x6"
+PartNum: "QFN-36-6x6"
+Height: 0
+Mass: 9999
+Package: "QFN-36-6x6"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\QFN-36-6x6\QFN-36-6x6.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\QFN-36-6x6\QFN-36-6x6.etd"
+
+
+RefDes: 18
+FactPartName: "LQFP-100"
+SubSeriesName: "User Library-LQFP-100-11"
+PartNum: "User Library-LQFP-100-11"
+Height: 0
+Mass: 9999
+Package: "User Library-LQFP-100-11"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\User Library-LQFP-100-11\User Library-LQFP-100-11.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\User Library-LQFP-100-11\User Library-LQFP-100-11.etd"
+
+
+RefDes: 6
+FactPartName: "FCI-SFW30R"
+SubSeriesName: "FCI-sfw30r"
+PartNum: "FCI-sfw30r"
+Height: 0
+Mass: 9999
+Package: "FCI-sfw30r"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\FCI-sfw30r\FCI-sfw30r.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\FCI-sfw30r\FCI-sfw30r.etd"
+
+
+RefDes: 10
+FactPartName: "IND-BOURNS-SRU1028"
+SubSeriesName: "IND-BOURNS-SRU1028"
+PartNum: "IND-BOURNS-SRU1028"
+Height: 0
+Mass: 9999
+Package: "IND-BOURNS-SRU1028"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\IND-BOURNS-SRU1028\IND-BOURNS-SRU1028.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\IND-BOURNS-SRU1028\IND-BOURNS-SRU1028.etd"
+
+
+RefDes: 9
+FactPartName: "IND-BOURNS-SLC1175"
+SubSeriesName: "IND-Coilcraft-SLC1175"
+PartNum: "IND-Coilcraft-SLC1175"
+Height: 0
+Mass: 9999
+Package: "IND-Coilcraft-SLC1175"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\IND-Coilcraft-SLC1175\IND-Coilcraft-SLC1175.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\IND-Coilcraft-SLC1175\IND-Coilcraft-SLC1175.etd"
+
+
+RefDes: 8
+FactPartName: "HIROSE-DM3-AT"
+SubSeriesName: "HIROSE-DM3AT-SF-PEJM5"
+PartNum: "HIROSE-DM3AT-SF-PEJM5"
+Height: 0
+Mass: 9999
+Package: "HIROSE-DM3AT-SF-PEJM5"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\HIROSE-DM3AT-SF-PEJM5\HIROSE-DM3AT-SF-PEJM5.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\HIROSE-DM3AT-SF-PEJM5\HIROSE-DM3AT-SF-PEJM5.etd"
+
+
+RefDes: 24
+FactPartName: "MOLEX-53398-2"
+SubSeriesName: "Molex-53398-0271"
+PartNum: "Molex-53398-0271"
+Height: 0
+Mass: 9999
+Package: "Molex-53398-0271"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\Molex-53398-0271\Molex-53398-0271.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\Molex-53398-0271\Molex-53398-0271.etd"
+
+
+RefDes: 5
+FactPartName: "FCI-MDT180M01001"
+SubSeriesName: "MOLEX-mdt180e0x001-REVG1"
+PartNum: "MOLEX-mdt180e0x001-REVG1"
+Height: 0
+Mass: 9999
+Package: "MOLEX-mdt180e0x001-REVG1"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\MOLEX-mdt180e0x001-REVG1\MOLEX-mdt180e0x001-REVG1.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\MOLEX-mdt180e0x001-REVG1\MOLEX-mdt180e0x001-REVG1.etd"
+
+
+RefDes: 80
+FactPartName: "XC-ABS07"
+SubSeriesName: "xc_abs07"
+PartNum: "xc_abs07"
+Height: 0
+Mass: 9999
+Package: "xc_abs07"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\xc_abs07\xc_abs07.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\xc_abs07\xc_abs07.etd"
+
+
+RefDes: 0
+FactPartName: "CE-6_3X6_3"
+SubSeriesName: "CELS5.3X5.3_H5_3"
+PartNum: "CELS5.3X5.3_H5_3"
+Height: 0
+Mass: 9999
+Package: "CELS5.3X5.3_H5_3"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\CELS5.3X5.3_H5_3\CELS5.3X5.3_H5_3.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\CELS5.3X5.3_H5_3\CELS5.3X5.3_H5_3.etd"
+
+
+RefDes: 63
+FactPartName: "SSOP-8"
+SubSeriesName: "User Library-SSOP-8-1"
+PartNum: "User Library-SSOP-8-1"
+Height: 0
+Mass: 9999
+Package: "User Library-SSOP-8-1"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\User Library-SSOP-8-1\User Library-SSOP-8-1.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\User Library-SSOP-8-1\User Library-SSOP-8-1.etd"
+
+
+RefDes: 29
+FactPartName: "MSOP-8-EP"
+SubSeriesName: "MSOP8"
+PartNum: "MSOP8"
+Height: 0
+Mass: 9999
+Package: "MSOP8"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\MSOP8\MSOP8.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\MSOP8\MSOP8.etd"
+
+
+RefDes: 23
+FactPartName: "MOLEX-52746-4"
+SubSeriesName: "MOLEX-527460471"
+PartNum: "MOLEX-527460471"
+Height: 0
+Mass: 9999
+Package: "MOLEX-527460471"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\MOLEX-527460471\MOLEX-527460471.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\MOLEX-527460471\MOLEX-527460471.etd"
+
+
+RefDes: 27
+FactPartName: "MOLEX-USB-483950003"
+SubSeriesName: "MOLEX-USB-483950003"
+PartNum: "MOLEX-USB-483950003"
+Height: 0
+Mass: 9999
+Package: "MOLEX-USB-483950003"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\MOLEX-USB-483950003\MOLEX-USB-483950003.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\MOLEX-USB-483950003\MOLEX-USB-483950003.etd"
+
+
+RefDes: 69
+FactPartName: "TE-HDMI-571-2041481-1"
+SubSeriesName: "TE-HDMI-2041481-1"
+PartNum: "TE-HDMI-2041481-1"
+Height: 0
+Mass: 9999
+Package: "TE-HDMI-2041481-1"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\TE-HDMI-2041481-1\TE-HDMI-2041481-1.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\TE-HDMI-2041481-1\TE-HDMI-2041481-1.etd"
+
+
+RefDes: 66
+FactPartName: "TANT-D"
+SubSeriesName: "CAPM-TANTD-YL"
+PartNum: "CAPM-TANTD-YL"
+Height: 0
+Mass: 9999
+Package: "CAPM-TANTD-YL"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\CAPM-TANTD-YL\CAPM-TANTD-YL.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\CAPM-TANTD-YL\CAPM-TANTD-YL.etd"
+
+
+RefDes: 52
+FactPartName: "SC-70-5"
+SubSeriesName: "sc70-5"
+PartNum: "sc70-5"
+Height: 0
+Mass: 9999
+Package: "sc70-5"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\sc70-5\sc70-5.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\sc70-5\sc70-5.etd"
+
+
+RefDes: 60
+FactPartName: "SOT-23"
+SubSeriesName: "SOT23"
+PartNum: "SOT23"
+Height: 0
+Mass: 9999
+Package: "SOT23"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\SOT23\SOT23.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\SOT23\SOT23.etd"
+
+
+RefDes: 31
+FactPartName: "PIN-100MLS-14"
+SubSeriesName: "pin-100mls-12"
+PartNum: "pin-100mls-12"
+Height: 0
+Mass: 9999
+Package: "pin-100mls-12"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\pin-100mls-12\pin-100mls-12.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\pin-100mls-12\pin-100mls-12.etd"
+
+
+RefDes: 41
+FactPartName: "QFN-68-EP_8X8"
+SubSeriesName: "QFN-68-8x8"
+PartNum: "QFN-68-8x8"
+Height: 0
+Mass: 9999
+Package: "QFN-68-8x8"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\QFN-68-8x8\QFN-68-8x8.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\QFN-68-8x8\QFN-68-8x8.etd"
+
+
+RefDes: 40
+FactPartName: "QFN-48-EP"
+SubSeriesName: "QFN48_7x7"
+PartNum: "QFN48_7x7"
+Height: 0
+Mass: 9999
+Package: "QFN48_7x7"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\QFN48_7x7\QFN48_7x7.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\QFN48_7x7\QFN48_7x7.etd"
+
+
+RefDes: 55
+FactPartName: "SO-16"
+SubSeriesName: "SO16"
+PartNum: "SO16"
+Height: 0
+Mass: 9999
+Package: "SO16"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\SO16\SO16.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\SO16\SO16.etd"
+
+
+RefDes: 26
+FactPartName: "MOLEX-54132-060-30"
+SubSeriesName: "Molex-541323062"
+PartNum: "Molex-541323062"
+Height: 0
+Mass: 9999
+Package: "Molex-541323062"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\Molex-541323062\Molex-541323062.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\Molex-541323062\Molex-541323062.etd"
+
+
+RefDes: 13
+FactPartName: "JST-B3B-XH-A1-3"
+SubSeriesName: "B3B-XH-A-3"
+PartNum: "B3B-XH-A-3"
+Height: 0
+Mass: 9999
+Package: "B3B-XH-A-3"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\B3B-XH-A-3\B3B-XH-A-3.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\B3B-XH-A-3\B3B-XH-A-3.etd"
+
+
+RefDes: 28
+FactPartName: "MSOP-10"
+SubSeriesName: "MSOP-10"
+PartNum: "MSOP-10"
+Height: 0
+Mass: 9999
+Package: "MSOP-10"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\MSOP-10\MSOP-10.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\MSOP-10\MSOP-10.etd"
+
+
+RefDes: 42
+FactPartName: "QFN-76-EP_9X9"
+SubSeriesName: "QFN-76-EP_9x9"
+PartNum: "QFN-76-EP_9x9"
+Height: 0
+Mass: 9999
+Package: "QFN-76-EP_9x9"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\QFN-76-EP_9x9\QFN-76-EP_9x9.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\QFN-76-EP_9x9\QFN-76-EP_9x9.etd"
+
+
+RefDes: 35
+FactPartName: "PIN-100MLS-8"
+SubSeriesName: "strip8m"
+PartNum: "strip8m"
+Height: 0
+Mass: 9999
+Package: "strip8m"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\strip8m\strip8m.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\strip8m\strip8m.etd"
+
+
+RefDes: 19
+FactPartName: "LQFP-48"
+SubSeriesName: "LQFP48"
+PartNum: "LQFP48"
+Height: 0
+Mass: 9999
+Package: "LQFP48"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\LQFP48\LQFP48.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\LQFP48\LQFP48.etd"
+
+
+RefDes: 37
+FactPartName: "QFN-32-EP"
+SubSeriesName: "QFN32-FT232RQ"
+PartNum: "QFN32-FT232RQ"
+Height: 0
+Mass: 9999
+Package: "QFN32-FT232RQ"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\QFN32-FT232RQ\QFN32-FT232RQ.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\QFN32-FT232RQ\QFN32-FT232RQ.etd"
+
+
+RefDes: 56
+FactPartName: "SO-8"
+SubSeriesName: "SO8"
+PartNum: "SO8"
+Height: 0
+Mass: 9999
+Package: "SO8"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\SO8\SO8.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\SO8\SO8.etd"
+
+
+RefDes: 32
+FactPartName: "PIN-100MLS-2"
+SubSeriesName: "strip2m"
+PartNum: "strip2m"
+Height: 0
+Mass: 9999
+Package: "strip2m"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\strip2m\strip2m.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\strip2m\strip2m.etd"
+
+
+RefDes: 33
+FactPartName: "PIN-100MLS-3"
+SubSeriesName: "strip3m"
+PartNum: "strip3m"
+Height: 0
+Mass: 9999
+Package: "strip3m"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\Packages\User\strip3m\strip3m.prt"
+PTD: "D:\Pd-Master\Library_RSM_PadsVx\3DModels\PartDB\User\strip3m\strip3m.etd"
+
+

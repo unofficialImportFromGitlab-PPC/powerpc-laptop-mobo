@@ -1,0 +1,291 @@
+.FILETYPE ExtendedPrint SetupFile
+.VERSION "VB99.0"
+.CREATOR "Xpedition Layout PDF Output"
+.DATE "Wednesday, March 17, 2021 12:18 PM"
+
+.BaseUnits "1NM"
+
+.FillText Yes
+.FitDrawing No
+.PDFFileName "D:\\Pd-Master\\Mas\\Mas100n1 ACB_0001_0\\Output\\PDF\\Mas100n1 ACUBE_PORTABILE R_0 Montaggio"
+
+
+.SheetName "Assembly_TOP"
+ ..ProcessSheet Yes
+ ..UseLayering Yes
+ ..Mirror No
+ ..PageSize None
+ ..Orientation BestFit
+ ..ScaleFactor 1.000000
+ ..CurrentView No
+ ..HeaderText
+   ...CommentLine ""
+ ..TrailerText
+   ...CommentLine ""
+ ..LayerOrder
+   ...LayerName "Assembly - Top"
+   ...LayerName "Detailed Views"
+   ...LayerName "Assembly - Bottom"
+   ...LayerName "Silkscreen - Top"
+   ...LayerName "Silkscreen - Bottom"
+   ...LayerName "Die Pins - Top"
+   ...LayerName "Die Pins - Bottom"
+   ...LayerName "Bond Wires - Top"
+   ...LayerName "Bond Wires - Bottom"
+   ...LayerName "Design Origin"
+   ...LayerName "NCDrill Origin"
+   ...LayerName "Drill Drawing - Through"
+   ...LayerName "Holes"
+   ...LayerName "Top"
+   ...LayerName "Pin Numbers Lyr 2"
+   ...LayerName "Pin Numbers Lyr 3"
+   ...LayerName "Pin Numbers Lyr 4"
+   ...LayerName "Pin Numbers Lyr 5"
+   ...LayerName "Pin Numbers Lyr 6"
+   ...LayerName "Pin Numbers Lyr 7"
+   ...LayerName "Pin Numbers Lyr 8"
+   ...LayerName "Pin Numbers Lyr 9"
+   ...LayerName "Bottom"
+   ...LayerName "Solderpaste - Top"
+   ...LayerName "Solderpaste - Bottom"
+   ...LayerName "Soldermask - Top"
+   ...LayerName "Soldermask - Bottom"
+   ...LayerName "Cavity"
+   ...LayerName "Contour"
+   ...LayerName "DRC Window"
+   ...LayerName "Design Outline"
+   ...LayerName "Route Border"
+   ...LayerName "Manufacturing Outline"
+   ...LayerName "Test Fixture Outline"
+   ...LayerName "Redline Layer"
+   ...LayerName "Lyr 1"
+   ...LayerName "Lyr 2"
+   ...LayerName "Lyr 3"
+   ...LayerName "Lyr 4"
+   ...LayerName "Meccanica"
+   ...LayerName "Cartiglio"
+   ...LayerName "Quote"
+   ...LayerName "Lyr 5"
+   ...LayerName "Lyr 6"
+   ...LayerName "Lyr 7"
+   ...LayerName "Lyr 8"
+   ...LayerName "Lyr 9"
+   ...LayerName "Lyr 10"
+   ...LayerName "Logo-LS"
+   ...LayerName "Logo-SK"
+   ...LayerName "Logo-LC"
+   ...LayerName "FOOTPRINT"
+   ...LayerName "ASSY"
+   ...LayerName "NewScanner"
+   ...LayerName "Drill Chart - Through"
+   ...LayerName "DXF_Cartiglio"
+
+ ..ConductiveLayer 1
+   ...ProcessLayer No
+   ...ConductiveItem Bondpads
+   ...ConductiveItem EmbeddedCapPads
+   ...ConductiveItem EmbeddedResPads
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem Thieving
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem PlaneObstruct
+   ...ConductiveItem PlaneShape
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem RouteObstruct
+   ...ConductiveItem RuleArea
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaHoles
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 2
+   ...ProcessLayer No
+
+ ..ConductiveLayer 3
+   ...ProcessLayer No
+
+ ..ConductiveLayer 4
+   ...ProcessLayer No
+
+ ..ConductiveLayer 5
+   ...ProcessLayer No
+
+ ..ConductiveLayer 6
+   ...ProcessLayer No
+
+ ..ConductiveLayer 7
+   ...ProcessLayer No
+
+ ..ConductiveLayer 8
+   ...ProcessLayer No
+
+ ..ConductiveLayer 9
+   ...ProcessLayer No
+
+ ..ConductiveLayer 10
+   ...ProcessLayer No
+ ..BoardItem BoardOutline
+ ..BoardCellType Buried
+ ..BoardCellType Connector
+ ..BoardCellType DiscreteAxial
+ ..BoardCellType DiscreteChip
+ ..BoardCellType DiscreteOther
+ ..BoardCellType DiscreteRadial
+ ..BoardCellType EdgeConnector
+ ..BoardCellType EmbeddedPassive
+ ..BoardCellType General
+ ..BoardCellType Graphic
+ ..BoardCellType ICBareDie
+ ..BoardCellType ICBGA
+ ..BoardCellType ICDIP
+ ..BoardCellType ICFlipChip
+ ..BoardCellType ICLCC
+ ..BoardCellType ICOther
+ ..BoardCellType ICPGA
+ ..BoardCellType ICPLCC
+ ..BoardCellType ICSIP
+ ..BoardCellType ICSOIC
+ ..BoardCellType Jumper
+ ..BoardCellType Mechanical
+ ..BoardCellType TestPoint
+ ..CellItemsSide Both
+   ...CellItemsLayer 1
+   ...CellItem AssemblyOutline
+   ...CellItem AssemblyReferenceDesignator
+
+.SheetName "Assembly_BOTTOM"
+ ..ProcessSheet Yes
+ ..UseLayering Yes
+ ..Mirror Yes
+ ..PageSize None
+ ..Orientation BestFit
+ ..ScaleFactor 1.000000
+ ..CurrentView No
+ ..HeaderText
+   ...CommentLine ""
+ ..TrailerText
+   ...CommentLine ""
+ ..LayerOrder
+   ...LayerName "Assembly - Bottom"
+   ...LayerName "Assembly - Top"
+   ...LayerName "Detailed Views"
+   ...LayerName "Silkscreen - Top"
+   ...LayerName "Silkscreen - Bottom"
+   ...LayerName "Die Pins - Top"
+   ...LayerName "Die Pins - Bottom"
+   ...LayerName "Bond Wires - Top"
+   ...LayerName "Bond Wires - Bottom"
+   ...LayerName "Design Origin"
+   ...LayerName "NCDrill Origin"
+   ...LayerName "Drill Drawing - Through"
+   ...LayerName "Holes"
+   ...LayerName "Top"
+   ...LayerName "Pin Numbers Lyr 2"
+   ...LayerName "Pin Numbers Lyr 3"
+   ...LayerName "Pin Numbers Lyr 4"
+   ...LayerName "Pin Numbers Lyr 5"
+   ...LayerName "Pin Numbers Lyr 6"
+   ...LayerName "Pin Numbers Lyr 7"
+   ...LayerName "Pin Numbers Lyr 8"
+   ...LayerName "Pin Numbers Lyr 9"
+   ...LayerName "Bottom"
+   ...LayerName "Solderpaste - Top"
+   ...LayerName "Solderpaste - Bottom"
+   ...LayerName "Soldermask - Top"
+   ...LayerName "Soldermask - Bottom"
+   ...LayerName "Cavity"
+   ...LayerName "Contour"
+   ...LayerName "DRC Window"
+   ...LayerName "Design Outline"
+   ...LayerName "Route Border"
+   ...LayerName "Manufacturing Outline"
+   ...LayerName "Test Fixture Outline"
+   ...LayerName "Redline Layer"
+   ...LayerName "Lyr 1"
+   ...LayerName "Lyr 2"
+   ...LayerName "Lyr 3"
+   ...LayerName "Lyr 4"
+   ...LayerName "Meccanica"
+   ...LayerName "Cartiglio"
+   ...LayerName "Quote"
+   ...LayerName "Lyr 5"
+   ...LayerName "Lyr 6"
+   ...LayerName "Lyr 7"
+   ...LayerName "Lyr 8"
+   ...LayerName "Lyr 9"
+   ...LayerName "Lyr 10"
+   ...LayerName "Logo-LS"
+   ...LayerName "Logo-SK"
+   ...LayerName "Logo-LC"
+   ...LayerName "FOOTPRINT"
+   ...LayerName "ASSY"
+   ...LayerName "NewScanner"
+   ...LayerName "Drill Chart - Through"
+   ...LayerName "DXF_Cartiglio"
+
+ ..ConductiveLayer 2
+   ...ProcessLayer No
+
+ ..ConductiveLayer 1
+   ...ProcessLayer No
+
+ ..ConductiveLayer 3
+   ...ProcessLayer No
+
+ ..ConductiveLayer 4
+   ...ProcessLayer No
+
+ ..ConductiveLayer 5
+   ...ProcessLayer No
+
+ ..ConductiveLayer 6
+   ...ProcessLayer No
+
+ ..ConductiveLayer 7
+   ...ProcessLayer No
+
+ ..ConductiveLayer 8
+   ...ProcessLayer No
+
+ ..ConductiveLayer 9
+   ...ProcessLayer No
+
+ ..ConductiveLayer 10
+   ...ProcessLayer No
+ ..BoardItem BoardOutline
+ ..BoardCellType Buried
+ ..BoardCellType Connector
+ ..BoardCellType DiscreteAxial
+ ..BoardCellType DiscreteChip
+ ..BoardCellType DiscreteOther
+ ..BoardCellType DiscreteRadial
+ ..BoardCellType EdgeConnector
+ ..BoardCellType EmbeddedPassive
+ ..BoardCellType General
+ ..BoardCellType Graphic
+ ..BoardCellType ICBareDie
+ ..BoardCellType ICBGA
+ ..BoardCellType ICDIP
+ ..BoardCellType ICFlipChip
+ ..BoardCellType ICLCC
+ ..BoardCellType ICOther
+ ..BoardCellType ICPGA
+ ..BoardCellType ICPLCC
+ ..BoardCellType ICSIP
+ ..BoardCellType ICSOIC
+ ..BoardCellType Jumper
+ ..BoardCellType Mechanical
+ ..BoardCellType TestPoint
+ ..CellItemsSide Both
+   ...CellItemsLayer 10
+   ...CellItem AssemblyOutline
+   ...CellItem AssemblyReferenceDesignator
+
+.OutputVariants NO
+.VariantList "Master"
+
+.EzPrintConfigFilePath "C:\\SPB_Data\\mgc\\ezprint\\defaultEzPrintConfig.xml"

@@ -1,0 +1,926 @@
+
+;
+; The following is an extraction of the NetlistBackAnno.txt file limited
+; to those changes from the last forward annotation that involved changes
+; of reference designator regardless of pin or gate swap within the same part.
+; The exception being a local Common DataBase job which performs an implicit
+; forward annotation after every back annotation.
+; Changes could result from one or more runs of ECO/Renumber Ref Des
+; and/or one or more runs of Route/Swap/Gates and/or one or more runs of
+; Place/Automatic/Swap by Part Number.  If it is desired to document just
+; the changes from one or more runs of ECO/Renumber Ref Des, run Forward
+; Annotation to bring the schematic/netlist into sync with the board,
+; make the runs of ECO/Renumber Ref Des, and then run Back Annotation.
+; The first column represents the old reference designator.
+; The second represents the new reference designator using a tab as a separator
+; since references designators may have included spaces.  Leading spaces have
+; been added to reference designators in order to improve readability
+; NOTICE:
+;
+; 1. The file format is subject to change per product release.
+; 2. The information is valid until the user makes changes that require
+; back annotation.
+; 3. For more complete information on all changes the user should reference
+; the NetlistBackAnno.txt file.
+; 
+;  <Fwd Anno Ref><tab> <New Ref>
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      04:05 PM Wednesday, October 07, 2020
+ Job Name: D:\Vb-master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      04:16 PM Wednesday, October 07, 2020
+ Job Name: D:\Vb-master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        01:35 PM Friday, October 09, 2020
+ Job Name: D:\Vb-master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        06:02 PM Monday, October 12, 2020
+ Job Name: D:\Vb-master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        06:13 PM Monday, October 12, 2020
+ Job Name: D:\Vb-master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        06:27 PM Monday, October 12, 2020
+ Job Name: D:\Vb-master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       12:26 PM Tuesday, October 13, 2020
+ Job Name: D:\Vb-master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       04:51 PM Tuesday, October 13, 2020
+ Job Name: D:\Vb-master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       04:52 PM Tuesday, October 13, 2020
+ Job Name: D:\Vb-master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       05:29 PM Tuesday, October 13, 2020
+ Job Name: D:\Vb-master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       05:54 PM Tuesday, October 13, 2020
+ Job Name: D:\Vb-master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       05:54 PM Tuesday, October 13, 2020
+ Job Name: D:\Vb-master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       06:05 PM Tuesday, October 13, 2020
+ Job Name: D:\Vb-master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       06:20 PM Tuesday, October 13, 2020
+ Job Name: D:\Vb-master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      08:59 AM Wednesday, October 14, 2020
+ Job Name: D:\Vb-master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      10:08 AM Wednesday, October 14, 2020
+ Job Name: D:\Vb-master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      10:26 AM Wednesday, October 14, 2020
+ Job Name: D:\Vb-master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      10:31 AM Wednesday, October 14, 2020
+ Job Name: D:\Vb-master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:27 PM Thursday, October 22, 2020
+Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0 - Copia - Copia\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:28 PM Thursday, October 22, 2020
+Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0 - Copia - Copia\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:32 PM Thursday, October 22, 2020
+Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0 - Copia - Copia\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:33 PM Thursday, October 22, 2020
+Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0 - Copia - Copia\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       05:22 PM Thursday, October 22, 2020
+Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0 - Copia - Copia\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       05:24 PM Thursday, October 22, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       05:38 PM Thursday, October 22, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        09:05 AM Friday, October 23, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        09:41 AM Friday, October 23, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        09:53 AM Friday, October 23, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        10:10 AM Friday, October 23, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        10:30 AM Friday, October 23, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        11:01 AM Friday, October 23, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        03:00 PM Friday, October 23, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        05:33 PM Friday, October 23, 2020
+Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0 - Copia - Copia\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        05:50 PM Friday, October 23, 2020
+Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0 - Copia - Copia\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        05:58 PM Friday, October 23, 2020
+Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0 - Copia - Copia\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        10:28 AM Monday, October 26, 2020
+Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0 - Copia - Copia\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        11:45 AM Monday, October 26, 2020
+Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0 - Copia - Copia\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        11:45 AM Monday, October 26, 2020
+Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0 - Copia - Copia\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:27 AM Tuesday, October 27, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:27 AM Tuesday, October 27, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:30 AM Tuesday, October 27, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:33 AM Tuesday, October 27, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:33 AM Tuesday, October 27, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:38 AM Tuesday, October 27, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:42 AM Tuesday, October 27, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:44 AM Tuesday, October 27, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:48 AM Tuesday, October 27, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:22 AM Tuesday, October 27, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:47 PM Tuesday, October 27, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:47 PM Tuesday, October 27, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       05:49 PM Tuesday, October 27, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      10:46 AM Wednesday, October 28, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      10:46 AM Wednesday, October 28, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      10:48 AM Wednesday, October 28, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      11:02 AM Wednesday, October 28, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      11:10 AM Wednesday, October 28, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      11:58 AM Wednesday, October 28, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      02:08 PM Wednesday, October 28, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      02:09 PM Wednesday, October 28, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      02:46 PM Wednesday, October 28, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      05:33 PM Wednesday, October 28, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:25 AM Thursday, October 29, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:25 AM Thursday, October 29, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:04 PM Thursday, October 29, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        07:18 PM Friday, October 30, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       12:10 PM Tuesday, November 03, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       04:52 PM Tuesday, November 03, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      03:16 PM Wednesday, November 04, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      05:38 PM Thursday, November 05, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:18 PM Friday, November 06, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       05:35 PM Friday, November 06, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       05:44 PM Friday, November 06, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:04 PM Monday, November 09, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       05:54 PM Monday, November 09, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:51 AM Tuesday, November 10, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:33 AM Tuesday, November 10, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       05:28 PM Tuesday, November 10, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      03:26 PM Wednesday, November 11, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       12:13 PM Friday, November 13, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       04:16 PM Friday, November 13, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       04:54 PM Friday, November 13, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      09:43 AM Saturday, November 14, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       12:56 PM Monday, November 16, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:44 PM Monday, November 16, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       05:16 PM Monday, November 16, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       06:38 PM Monday, November 16, 2020
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:44 PM Tuesday, December 29, 2020
+Job Name: D:\Pd-Master\1 Lavori\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      11:47 AM Thursday, December 31, 2020
+Job Name: D:\Pd-Master\1 Lavori\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:27 AM Tuesday, January 05, 2021
+ Job Name: D:\PD-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:33 AM Tuesday, January 05, 2021
+ Job Name: D:\PD-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       12:10 PM Tuesday, January 05, 2021
+ Job Name: D:\PD-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       01:52 PM Tuesday, January 05, 2021
+ Job Name: D:\PD-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:37 PM Tuesday, January 05, 2021
+ Job Name: D:\PD-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:14 AM Thursday, January 07, 2021
+ Job Name: D:\PD-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:35 AM Thursday, January 07, 2021
+ Job Name: D:\PD-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:02 AM Thursday, January 07, 2021
+ Job Name: D:\PD-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:02 AM Thursday, January 07, 2021
+ Job Name: D:\PD-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       12:30 PM Thursday, January 07, 2021
+ Job Name: D:\PD-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       04:34 PM Saturday, January 09, 2021
+ Job Name: D:\PD-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        01:44 PM Monday, January 11, 2021
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        01:53 PM Monday, January 11, 2021
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        02:40 PM Monday, January 11, 2021
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        03:03 PM Monday, January 11, 2021
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        03:04 PM Monday, January 11, 2021
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        03:19 PM Monday, January 11, 2021
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        03:32 PM Monday, January 11, 2021
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        03:53 PM Monday, January 11, 2021
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        04:03 PM Monday, January 11, 2021
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        04:34 PM Monday, January 11, 2021
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:35 AM Tuesday, January 12, 2021
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:42 AM Tuesday, January 12, 2021
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:07 AM Tuesday, January 12, 2021
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:53 AM Tuesday, January 12, 2021
+ Job Name: D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+

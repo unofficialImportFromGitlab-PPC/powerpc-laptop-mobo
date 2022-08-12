@@ -1,0 +1,1 @@
+importedFromAltium_174a_noSym.brd

@@ -1,0 +1,238 @@
+[2021.01.28 13:23:02] [0000m.00s.016ms] [0] WELCOME
+[2021.01.28 13:23:02] [0000m.00s.046ms] [1] iCDB Server ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:17235852 created 2020-09-21 12:40:31, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2021.01.28 13:23:02] [0000m.00s.046ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2021.01.28 13:23:02] [0000m.00s.046ms] [1] Base flow version [VX.2.7]
+[2021.01.28 13:23:02] [0000m.00s.046ms] [1] Install Id [2125238], Flow Id [PADS Professional VX.2.7], Full Flow Name [PADS Pro Tools VX.2.7], Exact Access Date [2020/02/01]
+[2021.01.28 13:23:02] [0000m.00s.046ms] [1] UPDATE Install Info, Install Id [2239435], UPDATE Name [PADS Pro Tools VX.2.7 - Update 7]
+[2021.01.28 13:23:02] [0000m.00s.052ms] [1] Machine [SHINA]  IP [10.46.0.78,127.0.0.1,192.168.1.148]  User [Administrator]  PID [17736]
+[2021.01.28 13:23:02] [0000m.00s.053ms] [1] Operating system [Microsoft Windows 10 Home Premium Edition, 64-bit (build 19042)]
+[2021.01.28 13:23:02] [0000m.00s.053ms] [1] Current working dir [D:\PD-Master\Mas\Mas100n1 ACB_0001_0]
+[2021.01.28 13:23:02] [0000m.00s.053ms] [1] PATH [C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\bin;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\jre\default\bin;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSProVX.2.7\MGC_HOME.ixw\bin;C:\MentorGraphics\PADSProVX.2.7\MGC_HOME.ixw\lib;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\wg\win64\lib;C:\Windows;C:\Windows;C:\Windows;C:\Windows;C:\Windows;C:\Windows;%MGC_HOME%\lib;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Cadence\SPB_16.6\tools\pcb\bin;C:\Cadence\SPB_16.6\tools\bin;C:\Cadence\SPB_16.6\tools\libutil\bin;C:\Cadence\SPB_16.6\tools\fet\bin;C:\Cadence\SPB_16.6\tools\specctra\bin;C:\Cadence\SPB_16.6\tools\pspice;C:\Cadence\SPB_16.6\tools\capture;C:\Cadence\SPB_16.6\openaccess\bin\win32\opt;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\Users\Administrator\AppData\Roaming\Dashlane\6.2021.0.35401\bin\Firefox_Extension\{442718d9-475e-452a-b3e1-fb1ee16b8e9f}\components;C:\Users\Administrator\AppData\Roaming\Dashlane\6.2021.0.35401\ucrt;C:\Users\Administrator\AppData\Roaming\Dashlane\6.2021.0.35401\bin\Qt;C:\Users\Administrator\AppData\Roaming\Dashlane\6.2021.0.35401\bin\Ssl;C:\Program Files (x86)\interCAD;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common3D\win64\lib]
+[2021.01.28 13:23:02] [0000m.00s.053ms] [1] SDD_HOME [C:\MentorGraphics\PADSProVX.2.7\SDD_HOME] on file system [NTFS]
+[2021.01.28 13:23:02] [0000m.00s.053ms] [1] SDD_PLATFORM [win64]
+[2021.01.28 13:23:02] [0000m.00s.053ms] [1] WDIR [C:\WDIR\PADSProVX.2.7;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\standard;]
+[2021.01.28 13:23:02] [0000m.00s.053ms] [1] Local iCDB working dir [C:\WDIR\PADSProVX.2.7\iCDB] on file system [NTFS]
+[2021.01.28 13:23:02] [0000m.00s.053ms] [1] S: Config file name [ServerWG.cfg]
+[2021.01.28 13:23:02] [0000m.00s.053ms] [2] S: Loading config files
+[2021.01.28 13:23:02] [0000m.00s.057ms] [1] Config file [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\keyin.icdb\cdbsvr\ServerWG.cfg] not found
+[2021.01.28 13:23:02] [0000m.00s.057ms] [1] Config: Non-default value [System.SingleUserMode] = [no]
+[2021.01.28 13:23:02] [0000m.00s.058ms] [3] S: Config loaded
+[2021.01.28 13:23:02] [0000m.00s.067ms] [0] S: Project path [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\keyin.icdb] on file system [NTFS]
+[2021.01.28 13:23:02] [0000m.00s.067ms] [0] S: Project file (.prj) path [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.prj] on file system [NTFS]
+[2021.01.28 13:23:02] [0000m.00s.067ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2021.01.28 13:23:02] [0000m.00s.067ms] [0] S: Multi-user mode (config)
+[2021.01.28 13:23:02] [0000m.00s.067ms] [0] S: Event polling mode autodetection
+[2021.01.28 13:23:02] [0000m.00s.068ms] [0] S: Started up automatically by iCDB Client: SHINA:Administrator:21168
+[2021.01.28 13:23:02] [0000m.00s.068ms] [0] S: Auto close mode
+[2021.01.28 13:23:02] [0000m.00s.068ms] [0] S: Database ID [1fc1-835f-2546-968d-b133-1101-2331-1060-2caa-2333-1339-89a8]
+[2021.01.28 13:23:02] [0000m.00s.068ms] [0] PathTranslator: BEGIN dumping
+[2021.01.28 13:23:02] [0000m.00s.068ms] [0] PathTranslator: Local -> global path prefix list
+[2021.01.28 13:23:02] [0000m.00s.068ms] [0] PathTranslator: [HP LaserJet 5200 PCL6 Class Driver,LocalsplOnly] -> [\\SHINA\HP LaserJet 5200 PCL6 Class Driver]
+[2021.01.28 13:23:02] [0000m.00s.068ms] [0] PathTranslator: [C:\WINDOWS\system32\spool\drivers] -> [\\SHINA\print$]
+[2021.01.28 13:23:02] [0000m.00s.068ms] [0] PathTranslator: [J:\] -> [\\192.168.1.81\Librerie\]
+[2021.01.28 13:23:02] [0000m.00s.068ms] [0] PathTranslator: [K:\] -> [\\192.168.1.81\Commesse\]
+[2021.01.28 13:23:02] [0000m.00s.068ms] [0] PathTranslator: [L:\] -> [\\192.168.1.81\Software\]
+[2021.01.28 13:23:02] [0000m.00s.068ms] [0] PathTranslator: [M:\] -> [\\192.168.1.81\Amministrazione\]
+[2021.01.28 13:23:02] [0000m.00s.068ms] [0] PathTranslator: [N:\] -> [\\192.168.1.81\Gestione Informatica\]
+[2021.01.28 13:23:02] [0000m.00s.068ms] [0] PathTranslator: [O:\] -> [\\192.168.1.81\ArchiviGestionale\]
+[2021.01.28 13:23:02] [0000m.00s.068ms] [0] PathTranslator: [P:\] -> [\\192.168.1.81\Privato\]
+[2021.01.28 13:23:02] [0000m.00s.068ms] [0] PathTranslator: [Q:\] -> [\\192.168.1.81\Cancelleria\]
+[2021.01.28 13:23:02] [0000m.00s.068ms] [0] PathTranslator: [Y:\] -> [\\192.168.1.81\ArchiviGestionale\]
+[2021.01.28 13:23:02] [0000m.00s.068ms] [0] PathTranslator: Global -> local path prefix list
+[2021.01.28 13:23:02] [0000m.00s.068ms] [0] PathTranslator: [\\SHINA\HP LaserJet 5200 PCL6 Class Driver] -> [HP LaserJet 5200 PCL6 Class Driver,LocalsplOnly]
+[2021.01.28 13:23:02] [0000m.00s.068ms] [0] PathTranslator: [\\192.168.1.81\Gestione Informatica\] -> [N:\]
+[2021.01.28 13:23:02] [0000m.00s.068ms] [0] PathTranslator: [\\192.168.1.81\ArchiviGestionale\] -> [O:\]
+[2021.01.28 13:23:02] [0000m.00s.068ms] [0] PathTranslator: [\\192.168.1.81\ArchiviGestionale\] -> [Y:\]
+[2021.01.28 13:23:02] [0000m.00s.068ms] [0] PathTranslator: [\\192.168.1.81\Amministrazione\] -> [M:\]
+[2021.01.28 13:23:02] [0000m.00s.068ms] [0] PathTranslator: [\\192.168.1.81\Cancelleria\] -> [Q:\]
+[2021.01.28 13:23:02] [0000m.00s.068ms] [0] PathTranslator: [\\192.168.1.81\Librerie\] -> [J:\]
+[2021.01.28 13:23:02] [0000m.00s.068ms] [0] PathTranslator: [\\192.168.1.81\Commesse\] -> [K:\]
+[2021.01.28 13:23:02] [0000m.00s.068ms] [0] PathTranslator: [\\192.168.1.81\Software\] -> [L:\]
+[2021.01.28 13:23:02] [0000m.00s.068ms] [0] PathTranslator: [\\192.168.1.81\Privato\] -> [P:\]
+[2021.01.28 13:23:02] [0000m.00s.068ms] [0] PathTranslator: [\\SHINA\print$] -> [C:\WINDOWS\system32\spool\drivers]
+[2021.01.28 13:23:02] [0000m.00s.068ms] [0] PathTranslator: END dumping
+[2021.01.28 13:23:02] [0000m.00s.068ms] [0] S: START
+[2021.01.28 13:23:02] [0000m.00s.068ms] [0] S: Server startup lock file created
+[2021.01.28 13:23:02] [0000m.00s.069ms] [0] S: Listening for client connections on port [10000]
+[2021.01.28 13:23:02] [0000m.00s.069ms] [0] S: Server network ID [Shina:10.46.0.78,192.168.1.148,Shina:10000]
+[2021.01.28 13:23:02] [0000m.00s.069ms] [0] S: Server GUID [10c2-2e73-4eb0-ef4d-6aca-210c-aca2-1060-fdd9-2333-1339-89a8]
+[2021.01.28 13:23:02] [0000m.00s.070ms] [0] S: Project GUID [1fc1-835f-2546-968d-b133-1101-2331-1060-2caa-2333-1339-89a8]
+[2021.01.28 13:23:02] [0000m.00s.070ms] [0] S: Wrote data to server address file
+[2021.01.28 13:23:02] [0000m.00s.071ms] [0] S: Server startup lock file removed
+[2021.01.28 13:23:02] [0000m.00s.071ms] [1] ProjectBackupManager: Setting project file (.prj) path: [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.prj]
+[2021.01.28 13:23:02] [0000m.00s.257ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2021.01.28 13:23:02] [0000m.00s.257ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\iCDB\win64\bin]
+[2021.01.28 13:23:02] [0000m.00s.257ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\bin]
+[2021.01.28 13:23:02] [0000m.00s.259ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2021.01.28 13:23:02] [0000m.00s.259ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2021.01.28 13:23:02] [0000m.00s.259ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2021.01.28 13:23:02] [0000m.00s.259ms] [0] S: Local disc access time: 33 us
+[2021.01.28 13:23:02] [0000m.00s.259ms] [0] S: File server access time: 25 us
+[2021.01.28 13:23:02] [0000m.00s.295ms] [0] Single file [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\keyin.icdb\icdb.dat] size [159440 (155.7 kB)]
+[2021.01.28 13:23:02] [0000m.00s.295ms] [1] Single file [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\keyin.icdb\icdb.dat] opened in read-write mode
+[2021.01.28 13:23:02] [0000m.00s.295ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.01.28 13:23:02] [0000m.00s.295ms] [0] Database GUARD OK: [159440]
+[2021.01.28 13:23:02] [0000m.00s.296ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.01.28 13:23:02] [0000m.00s.296ms] [0] Database GUARD OK: [159440]
+[2021.01.28 13:23:02] [0000m.00s.296ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.01.28 13:23:02] [0000m.00s.296ms] [0] Database GUARD OK: [159440]
+[2021.01.28 13:23:02] [0000m.00s.296ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.01.28 13:23:02] [0000m.00s.296ms] [0] Database GUARD OK: [159440]
+[2021.01.28 13:23:02] [0000m.00s.297ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.01.28 13:23:02] [0000m.00s.297ms] [0] Database GUARD OK: [159440]
+[2021.01.28 13:23:02] [0000m.00s.297ms] [0] SingleFile: [ecaf-b783-6ba0-3096] SFI version check [1009] [1009]
+[2021.01.28 13:23:02] [0000m.00s.298ms] [0] SingleFile: [ecaf-b783-6ba0-3096] Database SFI header has been read in [1ms 205us]
+[2021.01.28 13:23:02] [0000m.00s.301ms] [0] iCDB Server PI: Server & plugin session [666]
+[2021.01.28 13:23:02] [0000m.00s.301ms] [0] iCDB Server PI: Opening database [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\keyin.icdb]
+[2021.01.28 13:23:02] [0000m.00s.301ms] [0] iCDB Server PI: Database [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\keyin.icdb] opened
+[2021.01.28 13:23:02] [0000m.00s.345ms] [0] iCDB Database: Checking existence of constraint definitions
+[2021.01.28 13:23:02] [0000m.00s.345ms] [0] iCDB Database: Checking constraint definitions version
+[2021.01.28 13:23:02] [0000m.00s.374ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.69] up to date
+[2021.01.28 13:23:02] [0000m.00s.380ms] [0] iCDB Server PI: Initializing plugins
+[2021.01.28 13:23:02] [0000m.00s.380ms] [0] iCDB Server PI: Plugins initialized
+[2021.01.28 13:23:02] [0000m.00s.380ms] [0] S: iCDB database loaded
+[2021.01.28 13:23:02] [0000m.00s.381ms] [0] S: Starting threads
+[2021.01.28 13:23:02] [0000m.00s.381ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2021.01.28 13:23:02] [0000m.00s.381ms] [0] BT: Listening for broadcast messages on port [10000]
+[2021.01.28 13:23:02] [0000m.00s.382ms] [0] IT: Session [667] for host [Shina] user [Administrator] client type[0] clsvrPluginID[0] with process ID [21168] created
+[2021.01.28 13:23:02] [0000m.00s.386ms] [1] SC[667]: Registered sub-client [Expedition PE_275527546] with ID [1] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 13:23:02] [0000m.00s.387ms] [0] MWT: WindowProc: WM_NCCREATE
+[2021.01.28 13:23:02] [0000m.00s.481ms] [1] SC[667]: Registered sub-client [EEVM_EEVM_380777072] with ID [2] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 13:23:02] [0000m.00s.482ms] [1] CMT: There are [1] clients now: 667
+[2021.01.28 13:23:02] [0000m.00s.483ms] [1] SC[667]: UnRegistered sub-client [EEVM_EEVM_380777072] with ID [2] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 13:23:05] [0000m.03s.022ms] [1] SC[667]: Registered sub-client [JobPrefsDBPI_275530703] with ID [3] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 13:23:05] [0000m.03s.028ms] [1] SC[667]: UnRegistered sub-client [JobPrefsDBPI_275530703] with ID [3] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 13:23:07] [0000m.05s.783ms] [1] SC[667]: Registered sub-client [JobPrefsDBPI_275533468] with ID [4] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 13:23:07] [0000m.05s.787ms] [1] SC[667]: UnRegistered sub-client [JobPrefsDBPI_275533468] with ID [4] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 13:23:10] [0000m.08s.117ms] [1] SC[667]: Registered sub-client [JobPrefsDBPI_275535812] with ID [5] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 13:23:10] [0000m.08s.150ms] [1] SC[667]: UnRegistered sub-client [JobPrefsDBPI_275535812] with ID [5] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 13:23:11] [0000m.09s.776ms] [1] PrjBackupMgr: Successfully created Project Backup [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\ProjectBackup\backups\2021-01-28 13.23.02 - auto.zip] with GUID [6dab-56fb-f8e1-66c9-6aca-210c-aca2-1060-7338-2333-1339-89a8]
+[2021.01.28 13:23:11] [0000m.09s.776ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[6dab-56fb-f8e1-66c9-6aca-210c-aca2-1060-7338-2333-1339-89a8] CreationTime[Thursday, January 28, 2021 12:23:02] Type[Autosave] Creator[iCDB Server (2021-01-28 13.23.02-17736)] ApplicationName[iCDB Server (2021-01-28 13.23.02-17736)] UserName[Administrator] MachineName[SHINA] Description[Autosave] FullFlowName[PADS Pro Tools VX.2.7; PADS Pro Tools VX.2.7 - Update 7] FlowId[PADSProVX.2.7] GBSInstallId[2125238; 2239435] GBSBuildId[17235852] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[D:\PD-Master\Mas\Mas100n1 ACB_0001_0\ProjectBackup\backups\2021-01-28 13.23.02 - auto.zip] BackupFileSize[92027317] Persistent[FALSE]
+[2021.01.28 13:23:12] [0000m.10s.750ms] [1] SC[667]: Registered sub-client [JobPrefsDBPI_275538437] with ID [6] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 13:23:12] [0000m.10s.783ms] [1] SC[667]: UnRegistered sub-client [JobPrefsDBPI_275538437] with ID [6] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 13:23:12] [0000m.10s.871ms] [1] SC[667]: Registered sub-client [ExpeditionCrossProber] with ID [7] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 13:23:12] [0000m.10s.875ms] [1] SC[667]: Registered sub-client [StartServerClientaec] with ID [8] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 13:23:12] [0000m.10s.876ms] [1] SC[667]: UnRegistered sub-client [StartServerClientaec] with ID [8] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 13:23:33] [0000m.31s.808ms] [0] DFAMT: File server access time: 47 us
+[2021.01.28 13:48:05] [0025m.03s.126ms] [1] SC[667]: Registered sub-client [JobPrefsDBPI_277030812] with ID [9] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 13:48:05] [0025m.03s.130ms] [1] SC[667]: UnRegistered sub-client [JobPrefsDBPI_277030812] with ID [9] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 13:48:05] [0025m.03s.237ms] [1] SC[667]: Registered sub-client [NetClassDBPI_277030921] with ID [10] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 13:48:05] [0025m.03s.252ms] [1] SC[667]: UnRegistered sub-client [NetClassDBPI_277030921] with ID [10] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 13:48:05] [0025m.03s.256ms] [1] SC[667]: Registered sub-client [JobPrefsDBPI_277030937] with ID [11] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 13:48:05] [0025m.03s.260ms] [1] SC[667]: UnRegistered sub-client [JobPrefsDBPI_277030937] with ID [11] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 13:48:11] [0025m.09s.405ms] [1] SC[667]: Registered sub-client [JobPrefsDBPI_277037093] with ID [12] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 13:48:11] [0025m.09s.483ms] [1] SC[667]: UnRegistered sub-client [JobPrefsDBPI_277037093] with ID [12] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 13:48:11] [0025m.09s.672ms] [0] IT: Session [668] for host [Shina] user [Administrator] client type[0] clsvrPluginID[0] with process ID [17416] created
+[2021.01.28 13:48:11] [0025m.09s.672ms] [1] SC[668]: Registered sub-client [JobPrefsDBPI_277037312] with ID [1] for session ID [668] host [Shina] user [Administrator] process ID [17416]
+[2021.01.28 13:48:11] [0025m.09s.679ms] [0] IT: Session [669] for host [Shina] user [Administrator] client type[0] clsvrPluginID[0] with process ID [5820] created
+[2021.01.28 13:48:11] [0025m.09s.679ms] [1] SC[669]: Registered sub-client [JobPrefsDBPI_277037312] with ID [1] for session ID [669] host [Shina] user [Administrator] process ID [5820]
+[2021.01.28 13:48:11] [0025m.09s.694ms] [1] CMT: There are [3] clients now: 667, 668, 669
+[2021.01.28 13:48:11] [0025m.09s.868ms] [1] SC[669]: Registered sub-client [JobPrefsDBPI_277037453] with ID [2] for session ID [669] host [Shina] user [Administrator] process ID [5820]
+[2021.01.28 13:48:11] [0025m.09s.868ms] [1] SC[668]: Registered sub-client [JobPrefsDBPI_277037453] with ID [2] for session ID [668] host [Shina] user [Administrator] process ID [17416]
+[2021.01.28 13:48:11] [0025m.09s.880ms] [0] IT: Session [670] for host [Shina] user [Administrator] client type[0] clsvrPluginID[0] with process ID [9596] created
+[2021.01.28 13:48:11] [0025m.09s.881ms] [1] SC[669]: Registered sub-client [NetClassDBPI_277037562] with ID [3] for session ID [669] host [Shina] user [Administrator] process ID [5820]
+[2021.01.28 13:48:11] [0025m.09s.881ms] [1] SC[670]: Registered sub-client [JobPrefsDBPI_277037421] with ID [1] for session ID [670] host [Shina] user [Administrator] process ID [9596]
+[2021.01.28 13:48:12] [0025m.09s.900ms] [1] SC[669]: Registered sub-client [Expedition_277037593] with ID [4] for session ID [669] host [Shina] user [Administrator] process ID [5820]
+[2021.01.28 13:48:12] [0025m.09s.904ms] [1] SC[670]: Registered sub-client [NetClassDBPI_277037593] with ID [2] for session ID [670] host [Shina] user [Administrator] process ID [9596]
+[2021.01.28 13:48:12] [0025m.09s.905ms] [1] SC[669]: UnRegistered sub-client [Expedition_277037593] with ID [4] for session ID [669] host [Shina] user [Administrator] process ID [5820]
+[2021.01.28 13:48:12] [0025m.09s.911ms] [1] CMT: There are [4] clients now: 667, 668, 669, 670
+[2021.01.28 13:48:12] [0025m.09s.980ms] [1] SC[670]: Registered sub-client [JobPrefsDBPI_277037671] with ID [3] for session ID [670] host [Shina] user [Administrator] process ID [9596]
+[2021.01.28 13:48:12] [0025m.10s.679ms] [0] IT: Session [671] for host [Shina] user [Administrator] client type[0] clsvrPluginID[0] with process ID [3132] created
+[2021.01.28 13:48:12] [0025m.10s.680ms] [1] SC[671]: Registered sub-client [JobPrefsDBPI_277038328] with ID [1] for session ID [671] host [Shina] user [Administrator] process ID [3132]
+[2021.01.28 13:48:12] [0025m.10s.766ms] [1] SC[671]: Registered sub-client [JobPrefsDBPI_277038453] with ID [2] for session ID [671] host [Shina] user [Administrator] process ID [3132]
+[2021.01.28 13:48:12] [0025m.10s.778ms] [1] SC[671]: Registered sub-client [NetClassDBPI_277038468] with ID [3] for session ID [671] host [Shina] user [Administrator] process ID [3132]
+[2021.01.28 13:48:12] [0025m.10s.787ms] [1] CMT: There are [5] clients now: 667, 668, 669, 670, 671
+[2021.01.28 13:48:12] [0025m.10s.883ms] [1] SC[668]: Registered sub-client [NetClassDBPI_277038578] with ID [3] for session ID [668] host [Shina] user [Administrator] process ID [17416]
+[2021.01.28 13:48:13] [0025m.11s.014ms] [1] SC[671]: UnRegistered sub-client [JobPrefsDBPI_277038453] with ID [2] for session ID [671] host [Shina] user [Administrator] process ID [3132]
+[2021.01.28 13:48:13] [0025m.11s.017ms] [1] SC[671]: UnRegistered sub-client [JobPrefsDBPI_277038328] with ID [1] for session ID [671] host [Shina] user [Administrator] process ID [3132]
+[2021.01.28 13:48:13] [0025m.11s.025ms] [1] SC[671]: UnRegistered sub-client [NetClassDBPI_277038468] with ID [3] for session ID [671] host [Shina] user [Administrator] process ID [3132]
+[2021.01.28 13:48:13] [0025m.11s.116ms] [1] CMT: Removed client [671]
+[2021.01.28 13:48:13] [0025m.11s.116ms] [1] CMT: There are [4] clients now: 667, 668, 669, 670
+[2021.01.28 13:48:15] [0025m.13s.535ms] [1] SC[670]: UnRegistered sub-client [JobPrefsDBPI_277037671] with ID [3] for session ID [670] host [Shina] user [Administrator] process ID [9596]
+[2021.01.28 13:48:15] [0025m.13s.537ms] [1] SC[670]: UnRegistered sub-client [JobPrefsDBPI_277037421] with ID [1] for session ID [670] host [Shina] user [Administrator] process ID [9596]
+[2021.01.28 13:48:15] [0025m.13s.542ms] [1] SC[670]: UnRegistered sub-client [NetClassDBPI_277037593] with ID [2] for session ID [670] host [Shina] user [Administrator] process ID [9596]
+[2021.01.28 13:48:15] [0025m.13s.548ms] [1] CMT: Removed client [670]
+[2021.01.28 13:48:15] [0025m.13s.548ms] [1] CMT: There are [3] clients now: 667, 668, 669
+[2021.01.28 13:48:20] [0025m.18s.825ms] [1] SC[669]: UnRegistered sub-client [JobPrefsDBPI_277037453] with ID [2] for session ID [669] host [Shina] user [Administrator] process ID [5820]
+[2021.01.28 13:48:20] [0025m.18s.827ms] [1] SC[669]: UnRegistered sub-client [JobPrefsDBPI_277037312] with ID [1] for session ID [669] host [Shina] user [Administrator] process ID [5820]
+[2021.01.28 13:48:20] [0025m.18s.832ms] [1] SC[669]: UnRegistered sub-client [NetClassDBPI_277037562] with ID [3] for session ID [669] host [Shina] user [Administrator] process ID [5820]
+[2021.01.28 13:48:20] [0025m.18s.833ms] [1] CMT: Removed client [669]
+[2021.01.28 13:48:20] [0025m.18s.833ms] [1] CMT: There are [2] clients now: 667, 668
+[2021.01.28 13:48:24] [0025m.22s.297ms] [1] SC[668]: UnRegistered sub-client [JobPrefsDBPI_277037453] with ID [2] for session ID [668] host [Shina] user [Administrator] process ID [17416]
+[2021.01.28 13:48:24] [0025m.22s.299ms] [1] SC[668]: UnRegistered sub-client [JobPrefsDBPI_277037312] with ID [1] for session ID [668] host [Shina] user [Administrator] process ID [17416]
+[2021.01.28 13:48:24] [0025m.22s.305ms] [1] SC[668]: UnRegistered sub-client [NetClassDBPI_277038578] with ID [3] for session ID [668] host [Shina] user [Administrator] process ID [17416]
+[2021.01.28 13:48:24] [0025m.22s.362ms] [1] CMT: Removed client [668]
+[2021.01.28 13:48:24] [0025m.22s.362ms] [1] CMT: There are [1] clients now: 667
+[2021.01.28 13:58:52] [0035m.50s.848ms] [1] SC[667]: Registered sub-client [JobPrefsDBPI_277678531] with ID [13] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 13:58:52] [0035m.50s.852ms] [1] SC[667]: UnRegistered sub-client [JobPrefsDBPI_277678531] with ID [13] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 13:58:53] [0035m.50s.969ms] [1] SC[667]: Registered sub-client [NetClassDBPI_277678656] with ID [14] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 13:58:53] [0035m.50s.984ms] [1] SC[667]: UnRegistered sub-client [NetClassDBPI_277678656] with ID [14] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 13:58:53] [0035m.50s.987ms] [1] SC[667]: Registered sub-client [JobPrefsDBPI_277678671] with ID [15] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 13:58:53] [0035m.50s.992ms] [1] SC[667]: UnRegistered sub-client [JobPrefsDBPI_277678671] with ID [15] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 13:58:55] [0035m.53s.565ms] [1] SC[667]: Registered sub-client [JobPrefsDBPI_277681250] with ID [16] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 13:58:55] [0035m.53s.643ms] [1] SC[667]: UnRegistered sub-client [JobPrefsDBPI_277681250] with ID [16] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 13:58:55] [0035m.53s.784ms] [0] IT: Session [672] for host [Shina] user [Administrator] client type[0] clsvrPluginID[0] with process ID [11080] created
+[2021.01.28 13:58:55] [0035m.53s.785ms] [1] SC[672]: Registered sub-client [JobPrefsDBPI_277681421] with ID [1] for session ID [672] host [Shina] user [Administrator] process ID [11080]
+[2021.01.28 13:58:55] [0035m.53s.791ms] [0] IT: Session [673] for host [Shina] user [Administrator] client type[0] clsvrPluginID[0] with process ID [14312] created
+[2021.01.28 13:58:55] [0035m.53s.792ms] [1] SC[673]: Registered sub-client [JobPrefsDBPI_277681421] with ID [1] for session ID [673] host [Shina] user [Administrator] process ID [14312]
+[2021.01.28 13:58:55] [0035m.53s.846ms] [1] CMT: There are [3] clients now: 667, 672, 673
+[2021.01.28 13:58:55] [0035m.53s.862ms] [0] IT: Session [674] for host [Shina] user [Administrator] client type[0] clsvrPluginID[0] with process ID [8384] created
+[2021.01.28 13:58:55] [0035m.53s.863ms] [1] SC[674]: Registered sub-client [JobPrefsDBPI_277681500] with ID [1] for session ID [674] host [Shina] user [Administrator] process ID [8384]
+[2021.01.28 13:58:55] [0035m.53s.872ms] [1] SC[672]: Registered sub-client [JobPrefsDBPI_277681562] with ID [2] for session ID [672] host [Shina] user [Administrator] process ID [11080]
+[2021.01.28 13:58:55] [0035m.53s.878ms] [1] SC[673]: Registered sub-client [JobPrefsDBPI_277681562] with ID [2] for session ID [673] host [Shina] user [Administrator] process ID [14312]
+[2021.01.28 13:58:55] [0035m.53s.884ms] [1] SC[672]: Registered sub-client [NetClassDBPI_277681578] with ID [3] for session ID [672] host [Shina] user [Administrator] process ID [11080]
+[2021.01.28 13:58:55] [0035m.53s.885ms] [1] SC[674]: Registered sub-client [NetClassDBPI_277681578] with ID [2] for session ID [674] host [Shina] user [Administrator] process ID [8384]
+[2021.01.28 13:58:56] [0035m.53s.890ms] [1] SC[673]: Registered sub-client [NetClassDBPI_277681578] with ID [3] for session ID [673] host [Shina] user [Administrator] process ID [14312]
+[2021.01.28 13:58:56] [0035m.53s.954ms] [1] CMT: There are [4] clients now: 667, 672, 673, 674
+[2021.01.28 13:58:56] [0035m.53s.969ms] [1] SC[674]: Registered sub-client [JobPrefsDBPI_277681656] with ID [3] for session ID [674] host [Shina] user [Administrator] process ID [8384]
+[2021.01.28 13:58:56] [0035m.54s.184ms] [1] SC[673]: UnRegistered sub-client [JobPrefsDBPI_277681562] with ID [2] for session ID [673] host [Shina] user [Administrator] process ID [14312]
+[2021.01.28 13:58:56] [0035m.54s.186ms] [1] SC[673]: UnRegistered sub-client [JobPrefsDBPI_277681421] with ID [1] for session ID [673] host [Shina] user [Administrator] process ID [14312]
+[2021.01.28 13:58:56] [0035m.54s.191ms] [1] SC[673]: UnRegistered sub-client [NetClassDBPI_277681578] with ID [3] for session ID [673] host [Shina] user [Administrator] process ID [14312]
+[2021.01.28 13:58:56] [0035m.54s.289ms] [1] CMT: Removed client [673]
+[2021.01.28 13:58:56] [0035m.54s.289ms] [1] CMT: There are [3] clients now: 667, 672, 674
+[2021.01.28 13:58:56] [0035m.54s.792ms] [0] IT: Session [675] for host [Shina] user [Administrator] client type[0] clsvrPluginID[0] with process ID [14672] created
+[2021.01.28 13:58:56] [0035m.54s.793ms] [1] SC[675]: Registered sub-client [JobPrefsDBPI_277682437] with ID [1] for session ID [675] host [Shina] user [Administrator] process ID [14672]
+[2021.01.28 13:58:56] [0035m.54s.841ms] [1] CMT: There are [4] clients now: 667, 672, 674, 675
+[2021.01.28 13:58:56] [0035m.54s.882ms] [1] SC[675]: Registered sub-client [JobPrefsDBPI_277682562] with ID [2] for session ID [675] host [Shina] user [Administrator] process ID [14672]
+[2021.01.28 13:58:57] [0035m.54s.894ms] [1] SC[675]: Registered sub-client [NetClassDBPI_277682578] with ID [3] for session ID [675] host [Shina] user [Administrator] process ID [14672]
+[2021.01.28 13:58:57] [0035m.54s.912ms] [1] SC[675]: Registered sub-client [Expedition_277682593] with ID [4] for session ID [675] host [Shina] user [Administrator] process ID [14672]
+[2021.01.28 13:58:57] [0035m.54s.916ms] [1] SC[675]: UnRegistered sub-client [Expedition_277682593] with ID [4] for session ID [675] host [Shina] user [Administrator] process ID [14672]
+[2021.01.28 13:58:59] [0035m.57s.510ms] [1] SC[674]: UnRegistered sub-client [JobPrefsDBPI_277681656] with ID [3] for session ID [674] host [Shina] user [Administrator] process ID [8384]
+[2021.01.28 13:58:59] [0035m.57s.512ms] [1] SC[674]: UnRegistered sub-client [JobPrefsDBPI_277681500] with ID [1] for session ID [674] host [Shina] user [Administrator] process ID [8384]
+[2021.01.28 13:58:59] [0035m.57s.517ms] [1] SC[674]: UnRegistered sub-client [NetClassDBPI_277681578] with ID [2] for session ID [674] host [Shina] user [Administrator] process ID [8384]
+[2021.01.28 13:58:59] [0035m.57s.596ms] [1] CMT: Removed client [674]
+[2021.01.28 13:58:59] [0035m.57s.596ms] [1] CMT: There are [3] clients now: 667, 672, 675
+[2021.01.28 13:59:06] [0036m.04s.059ms] [1] SC[675]: UnRegistered sub-client [JobPrefsDBPI_277682562] with ID [2] for session ID [675] host [Shina] user [Administrator] process ID [14672]
+[2021.01.28 13:59:06] [0036m.04s.061ms] [1] SC[675]: UnRegistered sub-client [JobPrefsDBPI_277682437] with ID [1] for session ID [675] host [Shina] user [Administrator] process ID [14672]
+[2021.01.28 13:59:06] [0036m.04s.066ms] [1] SC[675]: UnRegistered sub-client [NetClassDBPI_277682578] with ID [3] for session ID [675] host [Shina] user [Administrator] process ID [14672]
+[2021.01.28 13:59:06] [0036m.04s.083ms] [1] CMT: Removed client [675]
+[2021.01.28 13:59:06] [0036m.04s.083ms] [1] CMT: There are [2] clients now: 667, 672
+[2021.01.28 13:59:07] [0036m.05s.601ms] [1] SC[672]: UnRegistered sub-client [JobPrefsDBPI_277681562] with ID [2] for session ID [672] host [Shina] user [Administrator] process ID [11080]
+[2021.01.28 13:59:07] [0036m.05s.603ms] [1] SC[672]: UnRegistered sub-client [JobPrefsDBPI_277681421] with ID [1] for session ID [672] host [Shina] user [Administrator] process ID [11080]
+[2021.01.28 13:59:07] [0036m.05s.608ms] [1] SC[672]: UnRegistered sub-client [NetClassDBPI_277681578] with ID [3] for session ID [672] host [Shina] user [Administrator] process ID [11080]
+[2021.01.28 13:59:07] [0036m.05s.628ms] [1] CMT: Removed client [672]
+[2021.01.28 13:59:07] [0036m.05s.628ms] [1] CMT: There are [1] clients now: 667
+[2021.01.28 14:17:27] [0054m.25s.689ms] [1] SC[667]: UnRegistered sub-client [ExpeditionCrossProber] with ID [7] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 14:17:29] [0054m.27s.433ms] [1] SC[667]: UnRegistered sub-client [Expedition PE_275527546] with ID [1] for session ID [667] host [Shina] user [Administrator] process ID [21168]
+[2021.01.28 14:17:29] [0054m.27s.496ms] [1] CMT: Removed client [667]
+[2021.01.28 14:17:29] [0054m.27s.496ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2021.01.28 14:17:31] [0054m.28s.920ms] [0] CMT: Starting server auto-close
+[2021.01.28 14:17:31] [0054m.28s.981ms] [0] S: Closing server
+[2021.01.28 14:17:31] [0054m.29s.074ms] [0] iCDB Server PI: Closing plugins
+[2021.01.28 14:17:31] [0054m.29s.074ms] [0] iCDB Server PI: Plugins closed
+[2021.01.28 14:17:31] [0054m.29s.074ms] [0] iCDB Server PI: Unloading database
+[2021.01.28 14:17:31] [0054m.29s.074ms] [0] iCDB Server PI: Saving storage
+[2021.01.28 14:17:31] [0054m.29s.074ms] [0] iCDB Server PI: Closing database
+[2021.01.28 14:17:31] [0054m.29s.132ms] [1] iCDB Server PI: Stats: Database defragmentation: max[3] avg[1] holes[0%] data[98%]
+[2021.01.28 14:17:31] [0054m.29s.132ms] [1] iCDB Server PI: Stats: Database file size [160640 (156.9 kB)]
+[2021.01.28 14:17:31] [0054m.29s.170ms] [0] iCDB Server PI: Database closed
+[2021.01.28 14:17:31] [0054m.29s.170ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [41070] ticks
+[2021.01.28 14:17:31] [0054m.29s.170ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [4107] microseconds
+[2021.01.28 14:17:31] [0054m.29s.170ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [174]
+[2021.01.28 14:17:31] [0054m.29s.170ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [42366] commands per second
+[2021.01.28 14:17:31] [0054m.29s.170ms] [1] iCDB Server PI: Stats: Mem[14438400]
+[2021.01.28 14:17:31] [0054m.29s.170ms] [1] iCDB Server PI: Stats: MemPeak[33165312]
+[2021.01.28 14:17:31] [0054m.29s.170ms] [0] Single file [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\keyin.icdb\icdb.dat] closed with size [160640 (156.9 kB)]
+[2021.01.28 14:17:31] [0054m.29s.356ms] [0] MWT: Destroy the shutdown block reason.
+[2021.01.28 14:17:31] [0054m.29s.359ms] [0] MWT: STOP
+[2021.01.28 14:17:31] [0054m.29s.359ms] [0] S: STOP

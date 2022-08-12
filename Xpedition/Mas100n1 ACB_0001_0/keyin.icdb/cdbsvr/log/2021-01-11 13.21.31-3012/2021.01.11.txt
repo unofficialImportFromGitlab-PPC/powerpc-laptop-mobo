@@ -1,0 +1,244 @@
+[2021.01.11 13:21:31] [0000m.00s.011ms] [0] WELCOME
+[2021.01.11 13:21:31] [0000m.00s.011ms] [1] iCDB Server ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:17235852 created 2020-09-21 12:40:31, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2021.01.11 13:21:31] [0000m.00s.011ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2021.01.11 13:21:31] [0000m.00s.011ms] [1] Base flow version [VX.2.7]
+[2021.01.11 13:21:31] [0000m.00s.011ms] [1] Install Id [2125238], Flow Id [PADS Professional VX.2.7], Full Flow Name [PADS Pro Tools VX.2.7], Exact Access Date [2020/02/01]
+[2021.01.11 13:21:31] [0000m.00s.012ms] [1] UPDATE Install Info, Install Id [2239435], UPDATE Name [PADS Pro Tools VX.2.7 - Update 7]
+[2021.01.11 13:21:31] [0000m.00s.017ms] [1] Machine [DESKTOP-CUVV7JD]  IP [127.0.0.1,192.168.1.159]  User [Shina]  PID [3012]
+[2021.01.11 13:21:31] [0000m.00s.017ms] [1] Operating system [Microsoft Windows 10 Business Edition, 64-bit (build 19041)]
+[2021.01.11 13:21:31] [0000m.00s.017ms] [1] Current working dir [D:\Pd-Master\Mas\Mas100n1 ACB_0001_0]
+[2021.01.11 13:21:31] [0000m.00s.017ms] [1] PATH [C:\MentorGraphics64\PADSProVX.2.7\SDD_HOME\common\win64\bin;C:\MentorGraphics64\PADSProVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics64\PADSProVX.2.7\SDD_HOME\common\win64\jre\default\bin;C:\MentorGraphics64\PADSProVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics64\PADSProVX.2.7\MGC_HOME.ixw\bin;C:\MentorGraphics64\PADSProVX.2.7\MGC_HOME.ixw\lib;C:\MentorGraphics64\PADSProVX.2.7\SDD_HOME\wg\win64\lib;%MGC_HOME%\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Cadence\SPB_16.6\tools\pcb\bin;C:\Cadence\SPB_16.6\tools\bin;C:\Cadence\SPB_16.6\tools\libutil\bin;C:\Cadence\SPB_16.6\tools\fet\bin;C:\Cadence\SPB_16.6\tools\specctra\bin;C:\Cadence\SPB_16.6\tools\pspice;C:\Cadence\SPB_16.6\tools\capture;C:\Cadence\SPB_16.6\openaccess\bin\win32\opt;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Windows;C:\Users\Shina\AppData\Local\Microsoft\WindowsApps;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\Program Files (x86)\interCAD;C:\MentorGraphics64\PADSProVX.2.7\SDD_HOME\common3D\win64\lib]
+[2021.01.11 13:21:31] [0000m.00s.017ms] [1] SDD_HOME [C:\MentorGraphics64\PADSProVX.2.7\SDD_HOME] on file system [NTFS]
+[2021.01.11 13:21:31] [0000m.00s.017ms] [1] SDD_PLATFORM [win64]
+[2021.01.11 13:21:31] [0000m.00s.017ms] [1] WDIR [C:\WDIR\PADSProVX.2.7;C:\MentorGraphics64\PADSProVX.2.7\SDD_HOME\standard;]
+[2021.01.11 13:21:31] [0000m.00s.017ms] [1] Local iCDB working dir [C:\WDIR\PADSProVX.2.7\iCDB] on file system [NTFS]
+[2021.01.11 13:21:31] [0000m.00s.017ms] [1] S: Config file name [ServerWG.cfg]
+[2021.01.11 13:21:31] [0000m.00s.017ms] [2] S: Loading config files
+[2021.01.11 13:21:31] [0000m.00s.019ms] [1] Config file [D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\keyin.icdb\cdbsvr\ServerWG.cfg] not found
+[2021.01.11 13:21:31] [0000m.00s.019ms] [1] Config: Non-default value [System.SingleUserMode] = [no]
+[2021.01.11 13:21:31] [0000m.00s.020ms] [3] S: Config loaded
+[2021.01.11 13:21:31] [0000m.00s.026ms] [0] S: Project path [D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\keyin.icdb] on file system [NTFS]
+[2021.01.11 13:21:31] [0000m.00s.026ms] [0] S: Project file (.prj) path [D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.prj] on file system [NTFS]
+[2021.01.11 13:21:31] [0000m.00s.026ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2021.01.11 13:21:31] [0000m.00s.026ms] [0] S: Multi-user mode (config)
+[2021.01.11 13:21:31] [0000m.00s.026ms] [0] S: Event polling mode autodetection
+[2021.01.11 13:21:31] [0000m.00s.027ms] [0] S: Started up automatically by iCDB Client: DESKTOP-CUVV7JD:Shina:4020
+[2021.01.11 13:21:31] [0000m.00s.027ms] [0] S: Auto close mode
+[2021.01.11 13:21:31] [0000m.00s.027ms] [0] S: Database ID [4383-9a39-9e19-ea63-bc24-cff0-d24c-ff50-7ce4-4433-62ef-cf98]
+[2021.01.11 13:21:31] [0000m.00s.027ms] [0] PathTranslator: BEGIN dumping
+[2021.01.11 13:21:31] [0000m.00s.027ms] [0] PathTranslator: Local -> global path prefix list
+[2021.01.11 13:21:31] [0000m.00s.027ms] [0] PathTranslator: [HP Universal Printing PCL 6,LocalsplOnly] -> [\\DESKTOP-CUVV7JD\HP Universal Printing PCL 6]
+[2021.01.11 13:21:31] [0000m.00s.027ms] [0] PathTranslator: [C:\Windows\system32\spool\drivers] -> [\\DESKTOP-CUVV7JD\print$]
+[2021.01.11 13:21:31] [0000m.00s.027ms] [0] PathTranslator: [K:\] -> [\\QNAP-TS420\Commesse\]
+[2021.01.11 13:21:31] [0000m.00s.027ms] [0] PathTranslator: [L:\] -> [\\QNAP-TS420\Privato\]
+[2021.01.11 13:21:31] [0000m.00s.027ms] [0] PathTranslator: [M:\] -> [\\QNAP-TS420\Amministrazione\]
+[2021.01.11 13:21:31] [0000m.00s.027ms] [0] PathTranslator: [N:\] -> [\\QNAP-TS420\Gestione Informatica\]
+[2021.01.11 13:21:31] [0000m.00s.027ms] [0] PathTranslator: Global -> local path prefix list
+[2021.01.11 13:21:31] [0000m.00s.027ms] [0] PathTranslator: [\\DESKTOP-CUVV7JD\HP Universal Printing PCL 6] -> [HP Universal Printing PCL 6,LocalsplOnly]
+[2021.01.11 13:21:31] [0000m.00s.027ms] [0] PathTranslator: [\\QNAP-TS420\Gestione Informatica\] -> [N:\]
+[2021.01.11 13:21:31] [0000m.00s.027ms] [0] PathTranslator: [\\QNAP-TS420\Amministrazione\] -> [M:\]
+[2021.01.11 13:21:31] [0000m.00s.027ms] [0] PathTranslator: [\\DESKTOP-CUVV7JD\print$] -> [C:\Windows\system32\spool\drivers]
+[2021.01.11 13:21:31] [0000m.00s.027ms] [0] PathTranslator: [\\QNAP-TS420\Commesse\] -> [K:\]
+[2021.01.11 13:21:31] [0000m.00s.027ms] [0] PathTranslator: [\\QNAP-TS420\Privato\] -> [L:\]
+[2021.01.11 13:21:31] [0000m.00s.027ms] [0] PathTranslator: END dumping
+[2021.01.11 13:21:31] [0000m.00s.027ms] [0] S: START
+[2021.01.11 13:21:31] [0000m.00s.027ms] [0] S: Server startup lock file created
+[2021.01.11 13:21:31] [0000m.00s.027ms] [0] S: Listening for client connections on port [10002]
+[2021.01.11 13:21:31] [0000m.00s.028ms] [0] S: Server network ID [DESKTOP-CUVV7JD:192.168.1.159,DESKTOP-CUVV7JD:10002]
+[2021.01.11 13:21:31] [0000m.00s.028ms] [0] S: Server GUID [79dd-4c05-36b6-0c6e-bc24-cff0-d24c-ff50-f9a5-4433-62ef-cf98]
+[2021.01.11 13:21:31] [0000m.00s.028ms] [0] S: Project GUID [4383-9a39-9e19-ea63-bc24-cff0-d24c-ff50-7ce4-4433-62ef-cf98]
+[2021.01.11 13:21:31] [0000m.00s.029ms] [0] S: Wrote data to server address file
+[2021.01.11 13:21:31] [0000m.00s.029ms] [0] S: Server startup lock file removed
+[2021.01.11 13:21:31] [0000m.00s.029ms] [1] ProjectBackupManager: Setting project file (.prj) path: [D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.prj]
+[2021.01.11 13:21:31] [0000m.00s.038ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2021.01.11 13:21:31] [0000m.00s.038ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics64\PADSProVX.2.7\SDD_HOME\iCDB\win64\bin]
+[2021.01.11 13:21:31] [0000m.00s.038ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics64\PADSProVX.2.7\SDD_HOME\common\win64\bin]
+[2021.01.11 13:21:31] [0000m.00s.039ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2021.01.11 13:21:31] [0000m.00s.039ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2021.01.11 13:21:31] [0000m.00s.039ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2021.01.11 13:21:31] [0000m.00s.039ms] [0] S: Local disc access time: 26 us
+[2021.01.11 13:21:31] [0000m.00s.039ms] [0] S: File server access time: 55 us
+[2021.01.11 13:21:31] [0000m.00s.040ms] [0] Single file [D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\keyin.icdb\icdb.dat] size [156664 (153.0 kB)]
+[2021.01.11 13:21:31] [0000m.00s.040ms] [1] Single file [D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\keyin.icdb\icdb.dat] opened in read-write mode
+[2021.01.11 13:21:31] [0000m.00s.040ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.01.11 13:21:31] [0000m.00s.040ms] [0] Database GUARD OK: [156664]
+[2021.01.11 13:21:31] [0000m.00s.040ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.01.11 13:21:31] [0000m.00s.040ms] [0] Database GUARD OK: [156664]
+[2021.01.11 13:21:31] [0000m.00s.040ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.01.11 13:21:31] [0000m.00s.041ms] [0] Database GUARD OK: [156664]
+[2021.01.11 13:21:31] [0000m.00s.041ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.01.11 13:21:31] [0000m.00s.041ms] [0] Database GUARD OK: [156664]
+[2021.01.11 13:21:31] [0000m.00s.041ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.01.11 13:21:31] [0000m.00s.041ms] [0] Database GUARD OK: [156664]
+[2021.01.11 13:21:31] [0000m.00s.041ms] [0] SingleFile: [6c9c-9e6d-c345-ba6c] SFI version check [1009] [1009]
+[2021.01.11 13:21:31] [0000m.00s.041ms] [0] SingleFile: [6c9c-9e6d-c345-ba6c] Database SFI header has been read in [766us]
+[2021.01.11 13:21:31] [0000m.00s.044ms] [0] iCDB Server PI: Server & plugin session [428]
+[2021.01.11 13:21:31] [0000m.00s.044ms] [0] iCDB Server PI: Opening database [D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\keyin.icdb]
+[2021.01.11 13:21:31] [0000m.00s.044ms] [0] iCDB Server PI: Database [D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\keyin.icdb] opened
+[2021.01.11 13:21:31] [0000m.00s.060ms] [0] iCDB Database: Checking existence of constraint definitions
+[2021.01.11 13:21:31] [0000m.00s.060ms] [0] iCDB Database: Checking constraint definitions version
+[2021.01.11 13:21:31] [0000m.00s.077ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.69] up to date
+[2021.01.11 13:21:31] [0000m.00s.103ms] [0] iCDB Server PI: Initializing plugins
+[2021.01.11 13:21:31] [0000m.00s.103ms] [0] iCDB Server PI: Plugins initialized
+[2021.01.11 13:21:31] [0000m.00s.103ms] [0] S: iCDB database loaded
+[2021.01.11 13:21:31] [0000m.00s.104ms] [0] S: Starting threads
+[2021.01.11 13:21:31] [0000m.00s.104ms] [0] BT: Listening for broadcast messages on port [10000]
+[2021.01.11 13:21:31] [0000m.00s.104ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2021.01.11 13:21:31] [0000m.00s.105ms] [0] IT: Session [429] for host [DESKTOP-CUVV7JD] user [Shina] client type[0] clsvrPluginID[0] with process ID [4020] created
+[2021.01.11 13:21:31] [0000m.00s.106ms] [1] SC[429]: Registered sub-client [Expedition PE_2340370625] with ID [1] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 13:21:31] [0000m.00s.107ms] [0] MWT: WindowProc: WM_NCCREATE
+[2021.01.11 13:21:31] [0000m.00s.169ms] [1] SC[429]: Registered sub-client [EEVM_EEVM_293191184] with ID [2] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 13:21:31] [0000m.00s.169ms] [1] SC[429]: UnRegistered sub-client [EEVM_EEVM_293191184] with ID [2] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 13:21:31] [0000m.00s.204ms] [1] CMT: There are [1] clients now: 429
+[2021.01.11 13:21:32] [0000m.00s.906ms] [1] SC[429]: Registered sub-client [JobPrefsDBPI_2340371625] with ID [3] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 13:21:32] [0000m.00s.911ms] [1] SC[429]: UnRegistered sub-client [JobPrefsDBPI_2340371625] with ID [3] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 13:21:34] [0000m.03s.312ms] [1] SC[429]: Registered sub-client [JobPrefsDBPI_2340374031] with ID [4] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 13:21:34] [0000m.03s.314ms] [1] SC[429]: UnRegistered sub-client [JobPrefsDBPI_2340374031] with ID [4] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 13:21:34] [0000m.03s.349ms] [1] PrjBackupMgr: Successfully created Project Backup [D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\ProjectBackup\backups\2021-01-11 13.21.31 - auto.zip] with GUID [9220-8f55-2bae-8a37-bc24-cff0-d24c-ff50-7af6-4433-62ef-cf98]
+[2021.01.11 13:21:34] [0000m.03s.349ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[9220-8f55-2bae-8a37-bc24-cff0-d24c-ff50-7af6-4433-62ef-cf98] CreationTime[Monday, January 11, 2021 12:21:31] Type[Autosave] Creator[iCDB Server (2021-01-11 13.21.31-3012)] ApplicationName[iCDB Server (2021-01-11 13.21.31-3012)] UserName[Shina] MachineName[DESKTOP-CUVV7JD] Description[Autosave] FullFlowName[PADS Pro Tools VX.2.7; PADS Pro Tools VX.2.7 - Update 7] FlowId[PADSProVX.2.7] GBSInstallId[2125238; 2239435] GBSBuildId[17235852] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\ProjectBackup\backups\2021-01-11 13.21.31 - auto.zip] BackupFileSize[81842188] Persistent[FALSE]
+[2021.01.11 13:21:47] [0000m.15s.887ms] [1] SC[429]: Registered sub-client [JobPrefsDBPI_2340386609] with ID [5] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 13:21:47] [0000m.15s.901ms] [1] SC[429]: UnRegistered sub-client [JobPrefsDBPI_2340386609] with ID [5] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 13:21:47] [0000m.16s.057ms] [1] SC[429]: Registered sub-client [JobPrefsDBPI_2340386765] with ID [6] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 13:21:47] [0000m.16s.071ms] [1] SC[429]: UnRegistered sub-client [JobPrefsDBPI_2340386765] with ID [6] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 13:21:47] [0000m.16s.133ms] [1] SC[429]: Registered sub-client [ExpeditionCrossProber] with ID [7] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 13:21:47] [0000m.16s.135ms] [1] SC[429]: Registered sub-client [StartServerClient1a7c] with ID [8] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 13:21:47] [0000m.16s.135ms] [1] SC[429]: UnRegistered sub-client [StartServerClient1a7c] with ID [8] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 13:22:01] [0000m.29s.566ms] [0] DFAMT: File server access time: 97 us
+[2021.01.11 13:24:09] [0002m.38s.385ms] [0] IT: Session [430] for host [DESKTOP-CUVV7JD] user [Shina] client type[0] clsvrPluginID[0] with process ID [1032] created
+[2021.01.11 13:24:09] [0002m.38s.385ms] [1] SC[430]: Registered sub-client [Shina (BE CES)] with ID [1] for session ID [430] host [DESKTOP-CUVV7JD] user [Shina] process ID [1032]
+[2021.01.11 13:24:09] [0002m.38s.399ms] [1] CMT: There are [2] clients now: 429, 430
+[2021.01.11 13:24:11] [0002m.40s.522ms] [1] SC[430]: Registered sub-client [StartServerClientb80] with ID [2] for session ID [430] host [DESKTOP-CUVV7JD] user [Shina] process ID [1032]
+[2021.01.11 13:24:11] [0002m.40s.523ms] [1] SC[430]: UnRegistered sub-client [StartServerClientb80] with ID [2] for session ID [430] host [DESKTOP-CUVV7JD] user [Shina] process ID [1032]
+[2021.01.11 13:43:52] [0022m.21s.240ms] [1] SC[430]: UnRegistered sub-client [Shina (BE CES)] with ID [1] for session ID [430] host [DESKTOP-CUVV7JD] user [Shina] process ID [1032]
+[2021.01.11 13:43:52] [0022m.21s.265ms] [1] CMT: Removed client [430]
+[2021.01.11 13:43:52] [0022m.21s.265ms] [1] CMT: There are [1] clients now: 429
+[2021.01.11 13:43:52] [0022m.21s.331ms] [1] SC[429]: Registered sub-client [JobPrefsDBPI_2341712046] with ID [9] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 13:43:52] [0022m.21s.336ms] [1] SC[429]: UnRegistered sub-client [JobPrefsDBPI_2341712046] with ID [9] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 13:44:02] [0022m.30s.843ms] [1] SC[429]: Registered sub-client [EEVM_EEVM_24231496] with ID [10] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 13:44:02] [0022m.30s.843ms] [1] SC[429]: UnRegistered sub-client [EEVM_EEVM_24231496] with ID [10] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 13:44:02] [0022m.30s.977ms] [0] IT: Session [431] for host [DESKTOP-CUVV7JD] user [Shina] client type[0] clsvrPluginID[0] with process ID [6896] created
+[2021.01.11 13:44:02] [0022m.30s.978ms] [1] SC[431]: Registered sub-client [Expedition_2341721656] with ID [1] for session ID [431] host [DESKTOP-CUVV7JD] user [Shina] process ID [6896]
+[2021.01.11 13:44:02] [0022m.31s.041ms] [1] CMT: There are [2] clients now: 429, 431
+[2021.01.11 13:44:02] [0022m.31s.159ms] [1] SC[431]: UnRegistered sub-client [Expedition_2341721656] with ID [1] for session ID [431] host [DESKTOP-CUVV7JD] user [Shina] process ID [6896]
+[2021.01.11 13:44:02] [0022m.31s.257ms] [1] CMT: Removed client [431]
+[2021.01.11 13:44:02] [0022m.31s.257ms] [1] CMT: There are [1] clients now: 429
+[2021.01.11 13:45:13] [0023m.41s.981ms] [0] IT: Session [432] for host [DESKTOP-CUVV7JD] user [Shina] client type[0] clsvrPluginID[0] with process ID [13488] created
+[2021.01.11 13:45:13] [0023m.41s.981ms] [1] SC[432]: Registered sub-client [Shina (BE CES)] with ID [1] for session ID [432] host [DESKTOP-CUVV7JD] user [Shina] process ID [13488]
+[2021.01.11 13:45:13] [0023m.41s.995ms] [1] CMT: There are [2] clients now: 429, 432
+[2021.01.11 13:45:15] [0023m.44s.287ms] [1] SC[432]: Registered sub-client [StartServerClient37f4] with ID [2] for session ID [432] host [DESKTOP-CUVV7JD] user [Shina] process ID [13488]
+[2021.01.11 13:45:15] [0023m.44s.287ms] [1] SC[432]: UnRegistered sub-client [StartServerClient37f4] with ID [2] for session ID [432] host [DESKTOP-CUVV7JD] user [Shina] process ID [13488]
+[2021.01.11 13:45:58] [0024m.27s.411ms] [1] SC[432]: UnRegistered sub-client [Shina (BE CES)] with ID [1] for session ID [432] host [DESKTOP-CUVV7JD] user [Shina] process ID [13488]
+[2021.01.11 13:45:58] [0024m.27s.420ms] [1] CMT: Removed client [432]
+[2021.01.11 13:45:58] [0024m.27s.420ms] [1] CMT: There are [1] clients now: 429
+[2021.01.11 13:45:58] [0024m.27s.469ms] [1] SC[429]: Registered sub-client [JobPrefsDBPI_2341838187] with ID [11] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 13:45:58] [0024m.27s.474ms] [1] SC[429]: UnRegistered sub-client [JobPrefsDBPI_2341838187] with ID [11] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 13:52:31] [0031m.00s.237ms] [0] IT: Session [433] for host [DESKTOP-CUVV7JD] user [Shina] client type[0] clsvrPluginID[0] with process ID [10824] created
+[2021.01.11 13:52:31] [0031m.00s.237ms] [1] SC[433]: Registered sub-client [Shina (BE CES)] with ID [1] for session ID [433] host [DESKTOP-CUVV7JD] user [Shina] process ID [10824]
+[2021.01.11 13:52:31] [0031m.00s.268ms] [1] CMT: There are [2] clients now: 429, 433
+[2021.01.11 13:52:33] [0031m.02s.472ms] [1] SC[433]: Registered sub-client [StartServerClient2fb4] with ID [2] for session ID [433] host [DESKTOP-CUVV7JD] user [Shina] process ID [10824]
+[2021.01.11 13:52:33] [0031m.02s.472ms] [1] SC[433]: UnRegistered sub-client [StartServerClient2fb4] with ID [2] for session ID [433] host [DESKTOP-CUVV7JD] user [Shina] process ID [10824]
+[2021.01.11 13:53:18] [0031m.46s.573ms] [1] SC[433]: UnRegistered sub-client [Shina (BE CES)] with ID [1] for session ID [433] host [DESKTOP-CUVV7JD] user [Shina] process ID [10824]
+[2021.01.11 13:53:18] [0031m.46s.633ms] [1] CMT: Removed client [433]
+[2021.01.11 13:53:18] [0031m.46s.633ms] [1] CMT: There are [1] clients now: 429
+[2021.01.11 13:53:18] [0031m.46s.666ms] [1] SC[429]: Registered sub-client [JobPrefsDBPI_2342277375] with ID [12] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 13:53:18] [0031m.46s.671ms] [1] SC[429]: UnRegistered sub-client [JobPrefsDBPI_2342277375] with ID [12] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 13:53:21] [0031m.50s.470ms] [1] SC[429]: Registered sub-client [EEVM_EEVM_24231496] with ID [13] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 13:53:21] [0031m.50s.470ms] [1] SC[429]: UnRegistered sub-client [EEVM_EEVM_24231496] with ID [13] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 13:53:22] [0031m.50s.617ms] [0] IT: Session [434] for host [DESKTOP-CUVV7JD] user [Shina] client type[0] clsvrPluginID[0] with process ID [20192] created
+[2021.01.11 13:53:22] [0031m.50s.617ms] [1] SC[434]: Registered sub-client [Expedition_2342281281] with ID [1] for session ID [434] host [DESKTOP-CUVV7JD] user [Shina] process ID [20192]
+[2021.01.11 13:53:22] [0031m.50s.618ms] [1] CMT: There are [2] clients now: 429, 434
+[2021.01.11 13:53:22] [0031m.50s.799ms] [1] SC[434]: UnRegistered sub-client [Expedition_2342281281] with ID [1] for session ID [434] host [DESKTOP-CUVV7JD] user [Shina] process ID [20192]
+[2021.01.11 13:53:22] [0031m.50s.835ms] [1] CMT: Removed client [434]
+[2021.01.11 13:53:22] [0031m.50s.835ms] [1] CMT: There are [1] clients now: 429
+[2021.01.11 14:26:22] [0064m.50s.918ms] [0] IT: Session [435] for host [DESKTOP-CUVV7JD] user [Shina] client type[0] clsvrPluginID[0] with process ID [3208] created
+[2021.01.11 14:26:22] [0064m.50s.919ms] [1] SC[435]: Registered sub-client [Shina (BE CES)] with ID [1] for session ID [435] host [DESKTOP-CUVV7JD] user [Shina] process ID [3208]
+[2021.01.11 14:26:22] [0064m.50s.961ms] [1] CMT: There are [2] clients now: 429, 435
+[2021.01.11 14:26:24] [0064m.52s.941ms] [1] SC[435]: Registered sub-client [StartServerClient2ecc] with ID [2] for session ID [435] host [DESKTOP-CUVV7JD] user [Shina] process ID [3208]
+[2021.01.11 14:26:24] [0064m.52s.941ms] [1] SC[435]: UnRegistered sub-client [StartServerClient2ecc] with ID [2] for session ID [435] host [DESKTOP-CUVV7JD] user [Shina] process ID [3208]
+[2021.01.11 14:29:17] [0067m.46s.110ms] [1] SC[435]: UnRegistered sub-client [Shina (BE CES)] with ID [1] for session ID [435] host [DESKTOP-CUVV7JD] user [Shina] process ID [3208]
+[2021.01.11 14:29:17] [0067m.46s.127ms] [1] SC[429]: Registered sub-client [JobPrefsDBPI_2344436843] with ID [14] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 14:29:17] [0067m.46s.133ms] [1] SC[429]: UnRegistered sub-client [JobPrefsDBPI_2344436843] with ID [14] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 14:29:17] [0067m.46s.156ms] [1] CMT: Removed client [435]
+[2021.01.11 14:29:17] [0067m.46s.156ms] [1] CMT: There are [1] clients now: 429
+[2021.01.11 14:30:32] [0069m.01s.138ms] [0] IT: Session [436] for host [DESKTOP-CUVV7JD] user [Shina] client type[0] clsvrPluginID[0] with process ID [9508] created
+[2021.01.11 14:30:32] [0069m.01s.139ms] [1] SC[436]: Registered sub-client [Shina (BE CES)] with ID [1] for session ID [436] host [DESKTOP-CUVV7JD] user [Shina] process ID [9508]
+[2021.01.11 14:30:32] [0069m.01s.184ms] [1] CMT: There are [2] clients now: 429, 436
+[2021.01.11 14:30:34] [0069m.03s.326ms] [1] SC[436]: Registered sub-client [StartServerClient2168] with ID [2] for session ID [436] host [DESKTOP-CUVV7JD] user [Shina] process ID [9508]
+[2021.01.11 14:30:34] [0069m.03s.326ms] [1] SC[436]: UnRegistered sub-client [StartServerClient2168] with ID [2] for session ID [436] host [DESKTOP-CUVV7JD] user [Shina] process ID [9508]
+[2021.01.11 14:40:16] [0078m.45s.437ms] [1] SC[436]: UnRegistered sub-client [Shina (BE CES)] with ID [1] for session ID [436] host [DESKTOP-CUVV7JD] user [Shina] process ID [9508]
+[2021.01.11 14:40:16] [0078m.45s.492ms] [1] CMT: Removed client [436]
+[2021.01.11 14:40:16] [0078m.45s.492ms] [1] CMT: There are [1] clients now: 429
+[2021.01.11 14:40:16] [0078m.45s.512ms] [1] SC[429]: Registered sub-client [JobPrefsDBPI_2345096234] with ID [15] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 14:40:16] [0078m.45s.517ms] [1] SC[429]: UnRegistered sub-client [JobPrefsDBPI_2345096234] with ID [15] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 14:40:21] [0078m.49s.809ms] [1] SC[429]: Registered sub-client [EEVM_EEVM_24231496] with ID [16] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 14:40:21] [0078m.49s.809ms] [1] SC[429]: UnRegistered sub-client [EEVM_EEVM_24231496] with ID [16] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 14:40:21] [0078m.49s.936ms] [0] IT: Session [437] for host [DESKTOP-CUVV7JD] user [Shina] client type[0] clsvrPluginID[0] with process ID [21108] created
+[2021.01.11 14:40:21] [0078m.49s.937ms] [1] SC[437]: Registered sub-client [Expedition_2345100625] with ID [1] for session ID [437] host [DESKTOP-CUVV7JD] user [Shina] process ID [21108]
+[2021.01.11 14:40:21] [0078m.50s.014ms] [1] CMT: There are [2] clients now: 429, 437
+[2021.01.11 14:40:21] [0078m.50s.118ms] [1] SC[437]: UnRegistered sub-client [Expedition_2345100625] with ID [1] for session ID [437] host [DESKTOP-CUVV7JD] user [Shina] process ID [21108]
+[2021.01.11 14:40:21] [0078m.50s.123ms] [1] CMT: Removed client [437]
+[2021.01.11 14:40:21] [0078m.50s.123ms] [1] CMT: There are [1] clients now: 429
+[2021.01.11 14:40:34] [0079m.03s.052ms] [0] IT: Session [438] for host [DESKTOP-CUVV7JD] user [Shina] client type[0] clsvrPluginID[0] with process ID [9700] created
+[2021.01.11 14:40:34] [0079m.03s.052ms] [1] SC[438]: Registered sub-client [Shina (BE CES)] with ID [1] for session ID [438] host [DESKTOP-CUVV7JD] user [Shina] process ID [9700]
+[2021.01.11 14:40:34] [0079m.03s.143ms] [1] CMT: There are [2] clients now: 429, 438
+[2021.01.11 14:40:36] [0079m.05s.340ms] [1] SC[438]: Registered sub-client [StartServerClienta58] with ID [2] for session ID [438] host [DESKTOP-CUVV7JD] user [Shina] process ID [9700]
+[2021.01.11 14:40:36] [0079m.05s.341ms] [1] SC[438]: UnRegistered sub-client [StartServerClienta58] with ID [2] for session ID [438] host [DESKTOP-CUVV7JD] user [Shina] process ID [9700]
+[2021.01.11 14:43:50] [0082m.18s.863ms] [1] SC[438]: UnRegistered sub-client [Shina (BE CES)] with ID [1] for session ID [438] host [DESKTOP-CUVV7JD] user [Shina] process ID [9700]
+[2021.01.11 14:43:50] [0082m.18s.929ms] [1] SC[429]: Registered sub-client [JobPrefsDBPI_2345309640] with ID [17] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 14:43:50] [0082m.18s.934ms] [1] SC[429]: UnRegistered sub-client [JobPrefsDBPI_2345309640] with ID [17] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 14:43:50] [0082m.18s.941ms] [1] CMT: Removed client [438]
+[2021.01.11 14:43:50] [0082m.18s.941ms] [1] CMT: There are [1] clients now: 429
+[2021.01.11 14:54:24] [0092m.53s.224ms] [0] IT: Session [439] for host [DESKTOP-CUVV7JD] user [Shina] client type[0] clsvrPluginID[0] with process ID [8172] created
+[2021.01.11 14:54:24] [0092m.53s.224ms] [1] SC[439]: Registered sub-client [Shina (BE CES)] with ID [1] for session ID [439] host [DESKTOP-CUVV7JD] user [Shina] process ID [8172]
+[2021.01.11 14:54:24] [0092m.53s.271ms] [1] CMT: There are [2] clients now: 429, 439
+[2021.01.11 14:54:27] [0092m.55s.562ms] [1] SC[439]: Registered sub-client [StartServerClient48d0] with ID [2] for session ID [439] host [DESKTOP-CUVV7JD] user [Shina] process ID [8172]
+[2021.01.11 14:54:27] [0092m.55s.563ms] [1] SC[439]: UnRegistered sub-client [StartServerClient48d0] with ID [2] for session ID [439] host [DESKTOP-CUVV7JD] user [Shina] process ID [8172]
+[2021.01.11 15:03:23] [0101m.51s.885ms] [1] SC[439]: UnRegistered sub-client [Shina (BE CES)] with ID [1] for session ID [439] host [DESKTOP-CUVV7JD] user [Shina] process ID [8172]
+[2021.01.11 15:03:23] [0101m.51s.921ms] [1] CMT: Removed client [439]
+[2021.01.11 15:03:23] [0101m.51s.921ms] [1] CMT: There are [1] clients now: 429
+[2021.01.11 15:03:23] [0101m.51s.940ms] [1] SC[429]: Registered sub-client [JobPrefsDBPI_2346482656] with ID [18] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 15:03:23] [0101m.51s.945ms] [1] SC[429]: UnRegistered sub-client [JobPrefsDBPI_2346482656] with ID [18] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 15:03:26] [0101m.54s.902ms] [1] SC[429]: Registered sub-client [EEVM_EEVM_24231496] with ID [19] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 15:03:26] [0101m.54s.902ms] [1] SC[429]: UnRegistered sub-client [EEVM_EEVM_24231496] with ID [19] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 15:03:26] [0101m.55s.035ms] [0] IT: Session [440] for host [DESKTOP-CUVV7JD] user [Shina] client type[0] clsvrPluginID[0] with process ID [20080] created
+[2021.01.11 15:03:26] [0101m.55s.035ms] [1] SC[440]: Registered sub-client [Expedition_2346485718] with ID [1] for session ID [440] host [DESKTOP-CUVV7JD] user [Shina] process ID [20080]
+[2021.01.11 15:03:26] [0101m.55s.064ms] [1] CMT: There are [2] clients now: 429, 440
+[2021.01.11 15:03:26] [0101m.55s.218ms] [1] SC[440]: UnRegistered sub-client [Expedition_2346485718] with ID [1] for session ID [440] host [DESKTOP-CUVV7JD] user [Shina] process ID [20080]
+[2021.01.11 15:03:26] [0101m.55s.280ms] [1] CMT: Removed client [440]
+[2021.01.11 15:03:26] [0101m.55s.280ms] [1] CMT: There are [1] clients now: 429
+[2021.01.11 15:03:29] [0101m.58s.182ms] [1] SC[429]: UnRegistered sub-client [ExpeditionCrossProber] with ID [7] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 15:03:31] [0102m.00s.277ms] [1] CRC equalize: S=2 I=944 IC=1306 C=941
+[2021.01.11 15:03:31] [0102m.00s.285ms] [1] SC[429]: UnRegistered sub-client [Expedition PE_2340370625] with ID [1] for session ID [429] host [DESKTOP-CUVV7JD] user [Shina] process ID [4020]
+[2021.01.11 15:03:31] [0102m.00s.372ms] [1] CMT: Removed client [429]
+[2021.01.11 15:03:31] [0102m.00s.372ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2021.01.11 15:03:33] [0102m.01s.565ms] [0] CMT: Starting server auto-close
+[2021.01.11 15:03:33] [0102m.01s.641ms] [0] S: Closing server
+[2021.01.11 15:03:33] [0102m.01s.826ms] [0] iCDB Server PI: Closing plugins
+[2021.01.11 15:03:33] [0102m.01s.826ms] [0] iCDB Server PI: Plugins closed
+[2021.01.11 15:03:33] [0102m.01s.826ms] [0] iCDB Server PI: Unloading database
+[2021.01.11 15:03:33] [0102m.01s.826ms] [0] iCDB Server PI: Saving storage
+[2021.01.11 15:03:33] [0102m.01s.826ms] [0] iCDB Server PI: Closing database
+[2021.01.11 15:03:33] [0102m.01s.862ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[102%] data[91%]
+[2021.01.11 15:03:33] [0102m.01s.863ms] [1] iCDB Server PI: Stats: Database file size [403352 (393.9 kB)]
+[2021.01.11 15:03:33] [0102m.01s.883ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2021.01.11 15:03:33] [0102m.01s.889ms] [0] iCDB Server PI: Database closed
+[2021.01.11 15:03:33] [0102m.01s.889ms] [0] iCDB Server PI: Defragmenting database
+[2021.01.11 15:03:33] [0102m.01s.889ms] [0] iCDB Server PI: Creating database [D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\keyin.icdb] backup to file [D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\keyin.icdb\cdbback\2021-01-11 15.03.33-3012-d.zip]
+[2021.01.11 15:03:33] [0102m.01s.924ms] [0] iCDB Server PI: Database backup: DONE
+[2021.01.11 15:03:33] [0102m.01s.967ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.01.11 15:03:33] [0102m.01s.967ms] [0] Database GUARD OK: [403352]
+[2021.01.11 15:03:33] [0102m.01s.967ms] [0] SingleFile: [6c9c-9e6d-c345-ba6c] SFI version check [1009] [1009]
+[2021.01.11 15:03:33] [0102m.01s.968ms] [0] SingleFile: [6c9c-9e6d-c345-ba6c] Database SFI header has been read in [1ms 224us]
+[2021.01.11 15:03:33] [0102m.02s.042ms] [1] iCDB Server PI: Stats: Database file sizes: before[403352 (393.9 kB)], after[156976 (153.3 kB)], gain[246376 (240.6 kB)]
+[2021.01.11 15:03:33] [0102m.02s.071ms] [0] Single file [D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\keyin.icdb\icdb.dat] closed with size [156976 (153.3 kB)]
+[2021.01.11 15:03:33] [0102m.02s.071ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2021.01.11 15:03:33] [0102m.02s.071ms] [1] BackupTransaction: Removing database backup [D:\Pd-Master\Mas\Mas100n1 ACB_0001_0\keyin.icdb\cdbback\2021-01-11 15.03.33-3012-d.zip]
+[2021.01.11 15:03:33] [0102m.02s.072ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [1381737] ticks
+[2021.01.11 15:03:33] [0102m.02s.072ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [138173] microseconds
+[2021.01.11 15:03:33] [0102m.02s.072ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [2149]
+[2021.01.11 15:03:33] [0102m.02s.072ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [15552] commands per second
+[2021.01.11 15:03:33] [0102m.02s.072ms] [1] iCDB Server PI: Stats: Mem[14491648]
+[2021.01.11 15:03:33] [0102m.02s.072ms] [1] iCDB Server PI: Stats: MemPeak[30806016]
+[2021.01.11 15:03:33] [0102m.02s.213ms] [0] MWT: Destroy the shutdown block reason.
+[2021.01.11 15:03:33] [0102m.02s.214ms] [0] MWT: STOP
+[2021.01.11 15:03:33] [0102m.02s.214ms] [0] S: STOP

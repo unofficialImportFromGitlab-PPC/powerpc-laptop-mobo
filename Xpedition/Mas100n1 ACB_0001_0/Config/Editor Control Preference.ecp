@@ -1,0 +1,93 @@
+.FILETYPE EDITOR_CONTROL_PROFILES
+.VERSION "0.02"
+
+.PROFILE_NAME "Editor Control Preference" "." ","
+
+..WINDOW_NAME "PlacePage"
+
+...SECTION_NAME "GeneralOptionsPlaceSettings"
+....CONTROL "OnlineDRC" "1"
+....CONTROL "ShoveParts" "0"
+....CONTROL "DisplayLocalNetlines" "0"
+....CONTROL "DynamicNetlinesOrdering" "1"
+....CONTROL "PartAlignementSetting" "1"
+....CONTROL "MaxNoOfPinsToDisplay" "INT_MAX"
+
+...SECTION_NAME "JumpersSettings"
+....CONTROL "PressSpaceToAddSpacers" "0"
+....CONTROL "JumperPlacementAngle" "1"
+
+..WINDOW_NAME "RoutePage"
+
+...SECTION_NAME "DialogsSettings"
+....CONTROL "EnableFilter" "0"
+
+...SECTION_NAME "PlowSettings"
+....CONTROL "PlowModeForced" "1"
+....CONTROL "PlowModeAngle" "1"
+....CONTROL "PlowModeRoute" "1"
+....CONTROL "Allow45DCorners" "1"
+....CONTROL "PreventLoops" "1"
+....CONTROL "DblClikcToAddVia" "1"
+....CONTROL "RoutingEffort" "2"
+....CONTROL "LayerBias" "1"
+....CONTROL "ViaCost" "2"
+....CONTROL "MaxViasAdded" "3"
+
+...SECTION_NAME "TraceAndViaEditBehaviorSettings"
+....CONTROL "TraceShoving" "1"
+....CONTROL "ViaShowing" "1"
+....CONTROL "AllowOddAngleEscape" "0"
+....CONTROL "PadJumping" "1"
+....CONTROL "ViaJumping" "1"
+....CONTROL "GlossMode" "1"
+....CONTROL "AlowTracesToJumpPadsAndHoles" "0"
+....CONTROL "RemoveExcessMeand ers" "1"
+....CONTROL "GlossAroundDeletedTracesOfVias" "1"
+....CONTROL "MoveViasToReduceTraceSegments" "1"
+
+...SECTION_NAME "ViasAndFanoutsSettings"
+....CONTROL "AutoTrimTroughVias" "1"
+....CONTROL "AllowOneAdditionalViaPerSMDPin" "1"
+....CONTROL "UsePlaceOutlinesAsViaObstructs" "0"
+....CONTROL "EnableFanout" "1"
+....CONTROL "MaxPinsPerLane" "3"
+....CONTROL "MaxLengthOfRestrictedExternLayers" "5.08"
+....CONTROL "MaxLengthOfRestrictedInternLayers" "0"
+
+...SECTION_NAME "GeneralOptionsRouteSettings"
+....CONTROL "StubLengths" "1"
+....CONTROL "LayerRestrictions" "1"
+....CONTROL "ViaRestrictions" "1"
+....CONTROL "MaxDelaysAndLengths" "1"
+....CONTROL "Radius" "0"
+....CONTROL "MinimumRadius" "0"
+
+..WINDOW_NAME "GridsPage"
+
+...SECTION_NAME "PartGridsSettings"
+....CONTROL "PrimaryPartGrid" "0.5"
+....CONTROL "SecondaryPartGrid" "0.5"
+....CONTROL "PlacementRelatedGridXOff" "0"
+....CONTROL "PlacementRelatedGridYOff" "0"
+....CONTROL "MinimumNumberOfPins" "2"
+....CONTROL "MountStyle" "3"
+....CONTROL "PartGridSnapSetting" "1"
+
+...SECTION_NAME "RouteGridsSettings"
+....CONTROL "RouteGrid" "0"
+....CONTROL "ViaGrid" ".1"
+....CONTROL "RouteRelatedGridXOff" "0"
+....CONTROL "RouteRelatedGridYOff" "0"
+
+...SECTION_NAME "OtherGridsSettings"
+....CONTROL "DrawingGrid" ".5"
+....CONTROL "JumperGrid" ".5"
+....CONTROL "TestpointGrid" "1.27"
+
+..WINDOW_NAME "CommonSettingsPage"
+
+...SECTION_NAME "CommonSettings"
+....CONTROL "InteractveDRC" "1"
+....CONTROL "InteractiveAutoSaveInteval" "10"
+....CONTROL "AutoRouteAutoSaveInterval" "10"

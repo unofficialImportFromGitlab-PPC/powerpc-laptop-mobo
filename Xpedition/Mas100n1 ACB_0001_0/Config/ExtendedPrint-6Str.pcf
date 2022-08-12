@@ -1,0 +1,1529 @@
+.FILETYPE ExtendedPrint SetupFile
+.VERSION "VB99.0"
+.CREATOR "Expedition PCB PDF Output"
+.DATE "Thursday, January 23, 2014 08:36 AM"
+
+.BaseUnits "1NM"
+
+.FillText Yes
+.FitDrawing No
+.PDFFileName "D:\\Vb-Master\\layout"
+
+.SheetName "Silkscreen_TOP"
+ ..ProcessSheet Yes
+ ..UseLayering No
+ ..PageSize None
+ ..Orientation BestFit
+ ..ScaleFactor 1.000000
+ ..CurrentView No
+ ..HeaderText
+   ...CommentLine ""
+ ..TrailerText
+   ...CommentLine ""
+ ..LayerOrder
+   ...LayerName "Silkscreen - Top"
+   ...LayerName "Detailed Views"
+   ...LayerName "Assembly - Top"
+   ...LayerName "Assembly - Bottom"
+   ...LayerName "Silkscreen - Bottom"
+   ...LayerName "Die Pins - Top"
+   ...LayerName "Die Pins - Bottom"
+   ...LayerName "Bond Wires - Top"
+   ...LayerName "Bond Wires - Bottom"
+   ...LayerName "Board Origin"
+   ...LayerName "NCDrill Origin"
+   ...LayerName "Drill Drawing - Through"
+   ...LayerName "Holes"
+   ...LayerName "Top"
+   ...LayerName "Bottom"
+   ...LayerName "Solderpaste - Top"
+   ...LayerName "Solderpaste - Bottom"
+   ...LayerName "Soldermask - Top"
+   ...LayerName "Soldermask - Bottom"
+   ...LayerName "Cavity"
+   ...LayerName "Contour"
+   ...LayerName "DRC Window"
+   ...LayerName "Board Outline"
+   ...LayerName "Route Border"
+   ...LayerName "Manufacturing Outline"
+   ...LayerName "Test Fixture Outline"
+   ...LayerName "Redline Layer"
+   ...LayerName "Lyr 1"
+   ...LayerName "Lyr 2"
+   ...LayerName "Lyr 3"
+   ...LayerName "Lyr 4"
+   ...LayerName "Meccanica"
+   ...LayerName "Cartiglio"
+   ...LayerName "Quote"
+   ...LayerName "Reserved Area"
+   ...LayerName "Meccanica-TOP"
+   ...LayerName "Meccanica-BOTTOM"
+   ...LayerName "Lyr 5"
+   ...LayerName "Lyr 6"
+
+ ..ConductiveLayer 3
+   ...ProcessLayer No
+
+ ..ConductiveLayer 1
+   ...ProcessLayer No
+
+ ..ConductiveLayer 2
+   ...ProcessLayer No
+
+ ..ConductiveLayer 4
+   ...ProcessLayer No
+
+ ..ConductiveLayer 5
+   ...ProcessLayer No
+
+ ..ConductiveLayer 6
+   ...ProcessLayer No
+ ..BoardItem BoardOutline
+ ..BoardCellType Buried
+ ..BoardCellType Connector
+ ..BoardCellType DiscreteAxial
+ ..BoardCellType DiscreteChip
+ ..BoardCellType DiscreteOther
+ ..BoardCellType DiscreteRadial
+ ..BoardCellType EdgeConnector
+ ..BoardCellType EmbeddedPassive
+ ..BoardCellType General
+ ..BoardCellType Graphic
+ ..BoardCellType ICBareDie
+ ..BoardCellType ICBGA
+ ..BoardCellType ICDIP
+ ..BoardCellType ICFlipChip
+ ..BoardCellType ICLCC
+ ..BoardCellType ICOther
+ ..BoardCellType ICPGA
+ ..BoardCellType ICPLCC
+ ..BoardCellType ICSIP
+ ..BoardCellType ICSOIC
+ ..BoardCellType Jumper
+ ..BoardCellType Mechanical
+ ..BoardCellType TestPoint
+ ..CellItemsSide Both
+   ...CellItemsLayer 1
+   ...CellItem SilkscreenOutline
+   ...CellItem SilkscreenReferenceDesignator
+ ..UserLayer "Cartiglio"
+
+.SheetName "Silkscreen_BOTTOM"
+ ..ProcessSheet Yes
+ ..UseLayering No
+ ..PageSize None
+ ..Orientation BestFit
+ ..ScaleFactor 1.000000
+ ..CurrentView No
+ ..HeaderText
+   ...CommentLine ""
+ ..TrailerText
+   ...CommentLine ""
+ ..LayerOrder
+   ...LayerName "Silkscreen - Bottom"
+   ...LayerName "Detailed Views"
+   ...LayerName "Assembly - Top"
+   ...LayerName "Assembly - Bottom"
+   ...LayerName "Silkscreen - Top"
+   ...LayerName "Die Pins - Top"
+   ...LayerName "Die Pins - Bottom"
+   ...LayerName "Bond Wires - Top"
+   ...LayerName "Bond Wires - Bottom"
+   ...LayerName "Board Origin"
+   ...LayerName "NCDrill Origin"
+   ...LayerName "Drill Drawing - Through"
+   ...LayerName "Holes"
+   ...LayerName "Top"
+   ...LayerName "Bottom"
+   ...LayerName "Solderpaste - Top"
+   ...LayerName "Solderpaste - Bottom"
+   ...LayerName "Soldermask - Top"
+   ...LayerName "Soldermask - Bottom"
+   ...LayerName "Cavity"
+   ...LayerName "Contour"
+   ...LayerName "DRC Window"
+   ...LayerName "Board Outline"
+   ...LayerName "Route Border"
+   ...LayerName "Manufacturing Outline"
+   ...LayerName "Test Fixture Outline"
+   ...LayerName "Redline Layer"
+   ...LayerName "Lyr 1"
+   ...LayerName "Lyr 2"
+   ...LayerName "Lyr 3"
+   ...LayerName "Lyr 4"
+   ...LayerName "Meccanica"
+   ...LayerName "Cartiglio"
+   ...LayerName "Quote"
+   ...LayerName "Reserved Area"
+   ...LayerName "Meccanica-TOP"
+   ...LayerName "Meccanica-BOTTOM"
+   ...LayerName "Lyr 5"
+   ...LayerName "Lyr 6"
+
+ ..ConductiveLayer 4
+   ...ProcessLayer No
+
+ ..ConductiveLayer 1
+   ...ProcessLayer No
+
+ ..ConductiveLayer 2
+   ...ProcessLayer No
+
+ ..ConductiveLayer 3
+   ...ProcessLayer No
+
+ ..ConductiveLayer 5
+   ...ProcessLayer No
+
+ ..ConductiveLayer 6
+   ...ProcessLayer No
+ ..BoardItem BoardOutline
+ ..BoardCellType Buried
+ ..BoardCellType Connector
+ ..BoardCellType DiscreteAxial
+ ..BoardCellType DiscreteChip
+ ..BoardCellType DiscreteOther
+ ..BoardCellType DiscreteRadial
+ ..BoardCellType EdgeConnector
+ ..BoardCellType EmbeddedPassive
+ ..BoardCellType General
+ ..BoardCellType Graphic
+ ..BoardCellType ICBareDie
+ ..BoardCellType ICBGA
+ ..BoardCellType ICDIP
+ ..BoardCellType ICFlipChip
+ ..BoardCellType ICLCC
+ ..BoardCellType ICOther
+ ..BoardCellType ICPGA
+ ..BoardCellType ICPLCC
+ ..BoardCellType ICSIP
+ ..BoardCellType ICSOIC
+ ..BoardCellType Jumper
+ ..BoardCellType Mechanical
+ ..BoardCellType TestPoint
+ ..CellItemsSide Both
+   ...CellItemsLayer 6
+   ...CellItem SilkscreenOutline
+   ...CellItem SilkscreenReferenceDesignator
+ ..UserLayer "Cartiglio"
+
+.SheetName "Top"
+ ..ProcessSheet Yes
+ ..UseLayering No
+ ..PageSize None
+ ..Orientation BestFit
+ ..ScaleFactor 1.000000
+ ..CurrentView No
+ ..HeaderText
+   ...CommentLine ""
+ ..TrailerText
+   ...CommentLine ""
+ ..LayerOrder
+   ...LayerName "Detailed Views"
+   ...LayerName "Assembly - Top"
+   ...LayerName "Assembly - Bottom"
+   ...LayerName "Silkscreen - Top"
+   ...LayerName "Silkscreen - Bottom"
+   ...LayerName "Die Pins - Top"
+   ...LayerName "Die Pins - Bottom"
+   ...LayerName "Bond Wires - Top"
+   ...LayerName "Bond Wires - Bottom"
+   ...LayerName "Board Origin"
+   ...LayerName "NCDrill Origin"
+   ...LayerName "Drill Drawing - Through"
+   ...LayerName "Holes"
+   ...LayerName "Top"
+   ...LayerName "Bottom"
+   ...LayerName "Solderpaste - Top"
+   ...LayerName "Solderpaste - Bottom"
+   ...LayerName "Soldermask - Top"
+   ...LayerName "Soldermask - Bottom"
+   ...LayerName "Cavity"
+   ...LayerName "Contour"
+   ...LayerName "DRC Window"
+   ...LayerName "Board Outline"
+   ...LayerName "Route Border"
+   ...LayerName "Manufacturing Outline"
+   ...LayerName "Test Fixture Outline"
+   ...LayerName "Redline Layer"
+   ...LayerName "Lyr 1"
+   ...LayerName "Lyr 2"
+   ...LayerName "Lyr 3"
+   ...LayerName "Lyr 4"
+   ...LayerName "Meccanica"
+   ...LayerName "Cartiglio"
+   ...LayerName "Quote"
+   ...LayerName "Reserved Area"
+   ...LayerName "Meccanica-TOP"
+   ...LayerName "Meccanica-BOTTOM"
+   ...LayerName "Lyr 5"
+   ...LayerName "Lyr 6"
+
+ ..ConductiveLayer 1
+   ...ProcessLayer Yes
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem PlaneShape
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 2
+   ...ProcessLayer No
+
+ ..ConductiveLayer 3
+   ...ProcessLayer No
+
+ ..ConductiveLayer 4
+   ...ProcessLayer No
+
+ ..ConductiveLayer 5
+   ...ProcessLayer No
+
+ ..ConductiveLayer 6
+   ...ProcessLayer No
+ ..BoardItem BoardOutline
+ ..BoardCellType Buried
+ ..BoardCellType Connector
+ ..BoardCellType DiscreteAxial
+ ..BoardCellType DiscreteChip
+ ..BoardCellType DiscreteOther
+ ..BoardCellType DiscreteRadial
+ ..BoardCellType EdgeConnector
+ ..BoardCellType EmbeddedPassive
+ ..BoardCellType General
+ ..BoardCellType Graphic
+ ..BoardCellType ICBareDie
+ ..BoardCellType ICBGA
+ ..BoardCellType ICDIP
+ ..BoardCellType ICFlipChip
+ ..BoardCellType ICLCC
+ ..BoardCellType ICOther
+ ..BoardCellType ICPGA
+ ..BoardCellType ICPLCC
+ ..BoardCellType ICSIP
+ ..BoardCellType ICSOIC
+ ..BoardCellType Jumper
+ ..BoardCellType Mechanical
+ ..BoardCellType TestPoint
+ ..UserLayer "Cartiglio"
+
+.SheetName "Interno1"
+ ..ProcessSheet Yes
+ ..UseLayering No
+ ..PageSize None
+ ..Orientation BestFit
+ ..ScaleFactor 1.000000
+ ..CurrentView No
+ ..HeaderText
+   ...CommentLine ""
+ ..TrailerText
+   ...CommentLine ""
+ ..LayerOrder
+   ...LayerName "Detailed Views"
+   ...LayerName "Assembly - Top"
+   ...LayerName "Assembly - Bottom"
+   ...LayerName "Silkscreen - Top"
+   ...LayerName "Silkscreen - Bottom"
+   ...LayerName "Die Pins - Top"
+   ...LayerName "Die Pins - Bottom"
+   ...LayerName "Bond Wires - Top"
+   ...LayerName "Bond Wires - Bottom"
+   ...LayerName "Board Origin"
+   ...LayerName "NCDrill Origin"
+   ...LayerName "Drill Drawing - Through"
+   ...LayerName "Holes"
+   ...LayerName "Top"
+   ...LayerName "Bottom"
+   ...LayerName "Solderpaste - Top"
+   ...LayerName "Solderpaste - Bottom"
+   ...LayerName "Soldermask - Top"
+   ...LayerName "Soldermask - Bottom"
+   ...LayerName "Cavity"
+   ...LayerName "Contour"
+   ...LayerName "DRC Window"
+   ...LayerName "Board Outline"
+   ...LayerName "Route Border"
+   ...LayerName "Manufacturing Outline"
+   ...LayerName "Test Fixture Outline"
+   ...LayerName "Redline Layer"
+   ...LayerName "Lyr 1"
+   ...LayerName "Lyr 2"
+   ...LayerName "Lyr 3"
+   ...LayerName "Lyr 4"
+   ...LayerName "Meccanica"
+   ...LayerName "Cartiglio"
+   ...LayerName "Quote"
+   ...LayerName "Reserved Area"
+   ...LayerName "Meccanica-TOP"
+   ...LayerName "Meccanica-BOTTOM"
+   ...LayerName "Lyr 5"
+   ...LayerName "Lyr 6"
+
+ ..ConductiveLayer 1
+   ...ProcessLayer No
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem PlaneShape
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 2
+   ...ProcessLayer Yes
+   ...ConductiveItem EtchedText
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+
+ ..ConductiveLayer 3
+   ...ProcessLayer No
+
+ ..ConductiveLayer 4
+   ...ProcessLayer No
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 5
+   ...ProcessLayer No
+
+ ..ConductiveLayer 6
+   ...ProcessLayer No
+ ..BoardItem BoardOutline
+ ..BoardCellType Buried
+ ..BoardCellType Connector
+ ..BoardCellType DiscreteAxial
+ ..BoardCellType DiscreteChip
+ ..BoardCellType DiscreteOther
+ ..BoardCellType DiscreteRadial
+ ..BoardCellType EdgeConnector
+ ..BoardCellType EmbeddedPassive
+ ..BoardCellType General
+ ..BoardCellType Graphic
+ ..BoardCellType ICBareDie
+ ..BoardCellType ICBGA
+ ..BoardCellType ICDIP
+ ..BoardCellType ICFlipChip
+ ..BoardCellType ICLCC
+ ..BoardCellType ICOther
+ ..BoardCellType ICPGA
+ ..BoardCellType ICPLCC
+ ..BoardCellType ICSIP
+ ..BoardCellType ICSOIC
+ ..BoardCellType Jumper
+ ..BoardCellType Mechanical
+ ..BoardCellType TestPoint
+ ..UserLayer "Cartiglio"
+
+.SheetName "Interno2"
+ ..ProcessSheet Yes
+ ..UseLayering No
+ ..PageSize None
+ ..Orientation BestFit
+ ..ScaleFactor 1.000000
+ ..CurrentView No
+ ..HeaderText
+   ...CommentLine ""
+ ..TrailerText
+   ...CommentLine ""
+ ..LayerOrder
+   ...LayerName "Detailed Views"
+   ...LayerName "Assembly - Top"
+   ...LayerName "Assembly - Bottom"
+   ...LayerName "Silkscreen - Top"
+   ...LayerName "Silkscreen - Bottom"
+   ...LayerName "Die Pins - Top"
+   ...LayerName "Die Pins - Bottom"
+   ...LayerName "Bond Wires - Top"
+   ...LayerName "Bond Wires - Bottom"
+   ...LayerName "Board Origin"
+   ...LayerName "NCDrill Origin"
+   ...LayerName "Drill Drawing - Through"
+   ...LayerName "Holes"
+   ...LayerName "Top"
+   ...LayerName "Bottom"
+   ...LayerName "Solderpaste - Top"
+   ...LayerName "Solderpaste - Bottom"
+   ...LayerName "Soldermask - Top"
+   ...LayerName "Soldermask - Bottom"
+   ...LayerName "Cavity"
+   ...LayerName "Contour"
+   ...LayerName "DRC Window"
+   ...LayerName "Board Outline"
+   ...LayerName "Route Border"
+   ...LayerName "Manufacturing Outline"
+   ...LayerName "Test Fixture Outline"
+   ...LayerName "Redline Layer"
+   ...LayerName "Lyr 1"
+   ...LayerName "Lyr 2"
+   ...LayerName "Lyr 3"
+   ...LayerName "Lyr 4"
+   ...LayerName "Meccanica"
+   ...LayerName "Cartiglio"
+   ...LayerName "Quote"
+   ...LayerName "Reserved Area"
+   ...LayerName "Meccanica-TOP"
+   ...LayerName "Meccanica-BOTTOM"
+   ...LayerName "Lyr 5"
+   ...LayerName "Lyr 6"
+
+ ..ConductiveLayer 1
+   ...ProcessLayer No
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem PlaneShape
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 2
+   ...ProcessLayer No
+   ...ConductiveItem EtchedText
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 3
+   ...ProcessLayer Yes
+   ...ConductiveItem EtchedText
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneShape
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 4
+   ...ProcessLayer No
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 5
+   ...ProcessLayer No
+
+ ..ConductiveLayer 6
+   ...ProcessLayer No
+ ..BoardItem BoardOutline
+ ..BoardCellType Buried
+ ..BoardCellType Connector
+ ..BoardCellType DiscreteAxial
+ ..BoardCellType DiscreteChip
+ ..BoardCellType DiscreteOther
+ ..BoardCellType DiscreteRadial
+ ..BoardCellType EdgeConnector
+ ..BoardCellType EmbeddedPassive
+ ..BoardCellType General
+ ..BoardCellType Graphic
+ ..BoardCellType ICBareDie
+ ..BoardCellType ICBGA
+ ..BoardCellType ICDIP
+ ..BoardCellType ICFlipChip
+ ..BoardCellType ICLCC
+ ..BoardCellType ICOther
+ ..BoardCellType ICPGA
+ ..BoardCellType ICPLCC
+ ..BoardCellType ICSIP
+ ..BoardCellType ICSOIC
+ ..BoardCellType Jumper
+ ..BoardCellType Mechanical
+ ..BoardCellType TestPoint
+ ..UserLayer "Cartiglio"
+
+.SheetName "Interno3"
+ ..ProcessSheet Yes
+ ..UseLayering No
+ ..PageSize None
+ ..Orientation BestFit
+ ..ScaleFactor 1.000000
+ ..CurrentView No
+ ..HeaderText
+   ...CommentLine ""
+ ..TrailerText
+   ...CommentLine ""
+ ..LayerOrder
+   ...LayerName "Detailed Views"
+   ...LayerName "Assembly - Top"
+   ...LayerName "Assembly - Bottom"
+   ...LayerName "Silkscreen - Top"
+   ...LayerName "Silkscreen - Bottom"
+   ...LayerName "Die Pins - Top"
+   ...LayerName "Die Pins - Bottom"
+   ...LayerName "Bond Wires - Top"
+   ...LayerName "Bond Wires - Bottom"
+   ...LayerName "Board Origin"
+   ...LayerName "NCDrill Origin"
+   ...LayerName "Drill Drawing - Through"
+   ...LayerName "Holes"
+   ...LayerName "Top"
+   ...LayerName "Bottom"
+   ...LayerName "Solderpaste - Top"
+   ...LayerName "Solderpaste - Bottom"
+   ...LayerName "Soldermask - Top"
+   ...LayerName "Soldermask - Bottom"
+   ...LayerName "Cavity"
+   ...LayerName "Contour"
+   ...LayerName "DRC Window"
+   ...LayerName "Board Outline"
+   ...LayerName "Route Border"
+   ...LayerName "Manufacturing Outline"
+   ...LayerName "Test Fixture Outline"
+   ...LayerName "Redline Layer"
+   ...LayerName "Lyr 1"
+   ...LayerName "Lyr 2"
+   ...LayerName "Lyr 3"
+   ...LayerName "Lyr 4"
+   ...LayerName "Meccanica"
+   ...LayerName "Cartiglio"
+   ...LayerName "Quote"
+   ...LayerName "Reserved Area"
+   ...LayerName "Meccanica-TOP"
+   ...LayerName "Meccanica-BOTTOM"
+   ...LayerName "Lyr 5"
+   ...LayerName "Lyr 6"
+
+ ..ConductiveLayer 1
+   ...ProcessLayer No
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem PlaneShape
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 2
+   ...ProcessLayer No
+   ...ConductiveItem EtchedText
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+
+ ..ConductiveLayer 3
+   ...ProcessLayer No
+
+ ..ConductiveLayer 4
+   ...ProcessLayer Yes
+   ...ConductiveItem EtchedText
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneShape
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 5
+   ...ProcessLayer No
+
+ ..ConductiveLayer 6
+   ...ProcessLayer No
+ ..BoardItem BoardOutline
+ ..BoardCellType Buried
+ ..BoardCellType Connector
+ ..BoardCellType DiscreteAxial
+ ..BoardCellType DiscreteChip
+ ..BoardCellType DiscreteOther
+ ..BoardCellType DiscreteRadial
+ ..BoardCellType EdgeConnector
+ ..BoardCellType EmbeddedPassive
+ ..BoardCellType General
+ ..BoardCellType Graphic
+ ..BoardCellType ICBareDie
+ ..BoardCellType ICBGA
+ ..BoardCellType ICDIP
+ ..BoardCellType ICFlipChip
+ ..BoardCellType ICLCC
+ ..BoardCellType ICOther
+ ..BoardCellType ICPGA
+ ..BoardCellType ICPLCC
+ ..BoardCellType ICSIP
+ ..BoardCellType ICSOIC
+ ..BoardCellType Jumper
+ ..BoardCellType Mechanical
+ ..BoardCellType TestPoint
+ ..UserLayer "Cartiglio"
+
+.SheetName "Interno4"
+ ..ProcessSheet Yes
+ ..UseLayering No
+ ..PageSize None
+ ..Orientation BestFit
+ ..ScaleFactor 1.000000
+ ..CurrentView No
+ ..HeaderText
+   ...CommentLine ""
+ ..TrailerText
+   ...CommentLine ""
+ ..LayerOrder
+   ...LayerName "Detailed Views"
+   ...LayerName "Assembly - Top"
+   ...LayerName "Assembly - Bottom"
+   ...LayerName "Silkscreen - Top"
+   ...LayerName "Silkscreen - Bottom"
+   ...LayerName "Die Pins - Top"
+   ...LayerName "Die Pins - Bottom"
+   ...LayerName "Bond Wires - Top"
+   ...LayerName "Bond Wires - Bottom"
+   ...LayerName "Board Origin"
+   ...LayerName "NCDrill Origin"
+   ...LayerName "Drill Drawing - Through"
+   ...LayerName "Holes"
+   ...LayerName "Top"
+   ...LayerName "Bottom"
+   ...LayerName "Solderpaste - Top"
+   ...LayerName "Solderpaste - Bottom"
+   ...LayerName "Soldermask - Top"
+   ...LayerName "Soldermask - Bottom"
+   ...LayerName "Cavity"
+   ...LayerName "Contour"
+   ...LayerName "DRC Window"
+   ...LayerName "Board Outline"
+   ...LayerName "Route Border"
+   ...LayerName "Manufacturing Outline"
+   ...LayerName "Test Fixture Outline"
+   ...LayerName "Redline Layer"
+   ...LayerName "Lyr 1"
+   ...LayerName "Lyr 2"
+   ...LayerName "Lyr 3"
+   ...LayerName "Lyr 4"
+   ...LayerName "Meccanica"
+   ...LayerName "Cartiglio"
+   ...LayerName "Quote"
+   ...LayerName "Reserved Area"
+   ...LayerName "Meccanica-TOP"
+   ...LayerName "Meccanica-BOTTOM"
+   ...LayerName "Lyr 5"
+   ...LayerName "Lyr 6"
+
+ ..ConductiveLayer 1
+   ...ProcessLayer No
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem PlaneShape
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 2
+   ...ProcessLayer No
+   ...ConductiveItem EtchedText
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+
+ ..ConductiveLayer 3
+   ...ProcessLayer No
+
+ ..ConductiveLayer 4
+   ...ProcessLayer No
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 5
+   ...ProcessLayer Yes
+   ...ConductiveItem EtchedText
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneShape
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 6
+   ...ProcessLayer No
+ ..BoardItem BoardOutline
+ ..BoardCellType Buried
+ ..BoardCellType Connector
+ ..BoardCellType DiscreteAxial
+ ..BoardCellType DiscreteChip
+ ..BoardCellType DiscreteOther
+ ..BoardCellType DiscreteRadial
+ ..BoardCellType EdgeConnector
+ ..BoardCellType EmbeddedPassive
+ ..BoardCellType General
+ ..BoardCellType Graphic
+ ..BoardCellType ICBareDie
+ ..BoardCellType ICBGA
+ ..BoardCellType ICDIP
+ ..BoardCellType ICFlipChip
+ ..BoardCellType ICLCC
+ ..BoardCellType ICOther
+ ..BoardCellType ICPGA
+ ..BoardCellType ICPLCC
+ ..BoardCellType ICSIP
+ ..BoardCellType ICSOIC
+ ..BoardCellType Jumper
+ ..BoardCellType Mechanical
+ ..BoardCellType TestPoint
+ ..UserLayer "Cartiglio"
+
+.SheetName "Bottom"
+ ..ProcessSheet Yes
+ ..UseLayering No
+ ..PageSize None
+ ..Orientation BestFit
+ ..ScaleFactor 1.000000
+ ..CurrentView No
+ ..HeaderText
+   ...CommentLine ""
+ ..TrailerText
+   ...CommentLine ""
+ ..LayerOrder
+   ...LayerName "Lyr 1"
+   ...LayerName "Detailed Views"
+   ...LayerName "Assembly - Top"
+   ...LayerName "Assembly - Bottom"
+   ...LayerName "Silkscreen - Top"
+   ...LayerName "Silkscreen - Bottom"
+   ...LayerName "Die Pins - Top"
+   ...LayerName "Die Pins - Bottom"
+   ...LayerName "Bond Wires - Top"
+   ...LayerName "Bond Wires - Bottom"
+   ...LayerName "Board Origin"
+   ...LayerName "NCDrill Origin"
+   ...LayerName "Drill Drawing - Through"
+   ...LayerName "Holes"
+   ...LayerName "Top"
+   ...LayerName "Bottom"
+   ...LayerName "Solderpaste - Top"
+   ...LayerName "Solderpaste - Bottom"
+   ...LayerName "Soldermask - Top"
+   ...LayerName "Soldermask - Bottom"
+   ...LayerName "Cavity"
+   ...LayerName "Contour"
+   ...LayerName "DRC Window"
+   ...LayerName "Board Outline"
+   ...LayerName "Route Border"
+   ...LayerName "Manufacturing Outline"
+   ...LayerName "Test Fixture Outline"
+   ...LayerName "Redline Layer"
+   ...LayerName "Lyr 2"
+   ...LayerName "Lyr 3"
+   ...LayerName "Lyr 4"
+   ...LayerName "Meccanica"
+   ...LayerName "Cartiglio"
+   ...LayerName "Quote"
+   ...LayerName "Reserved Area"
+   ...LayerName "Meccanica-TOP"
+   ...LayerName "Meccanica-BOTTOM"
+   ...LayerName "Lyr 5"
+   ...LayerName "Lyr 6"
+
+ ..ConductiveLayer 1
+   ...ProcessLayer No
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem PlaneShape
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 2
+   ...ProcessLayer No
+
+ ..ConductiveLayer 3
+   ...ProcessLayer No
+
+ ..ConductiveLayer 4
+   ...ProcessLayer No
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 5
+   ...ProcessLayer No
+
+ ..ConductiveLayer 6
+   ...ProcessLayer Yes
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneShape
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+ ..BoardItem BoardOutline
+ ..BoardCellType Buried
+ ..BoardCellType Connector
+ ..BoardCellType DiscreteAxial
+ ..BoardCellType DiscreteChip
+ ..BoardCellType DiscreteOther
+ ..BoardCellType DiscreteRadial
+ ..BoardCellType EdgeConnector
+ ..BoardCellType EmbeddedPassive
+ ..BoardCellType General
+ ..BoardCellType Graphic
+ ..BoardCellType ICBareDie
+ ..BoardCellType ICBGA
+ ..BoardCellType ICDIP
+ ..BoardCellType ICFlipChip
+ ..BoardCellType ICLCC
+ ..BoardCellType ICOther
+ ..BoardCellType ICPGA
+ ..BoardCellType ICPLCC
+ ..BoardCellType ICSIP
+ ..BoardCellType ICSOIC
+ ..BoardCellType Jumper
+ ..BoardCellType Mechanical
+ ..BoardCellType TestPoint
+ ..UserLayer "Cartiglio"
+
+.SheetName "Solder-TOP"
+ ..ProcessSheet Yes
+ ..UseLayering No
+ ..PageSize None
+ ..Orientation BestFit
+ ..ScaleFactor 1.000000
+ ..CurrentView No
+ ..HeaderText
+   ...CommentLine ""
+ ..TrailerText
+   ...CommentLine ""
+ ..LayerOrder
+   ...LayerName "Detailed Views"
+   ...LayerName "Assembly - Top"
+   ...LayerName "Assembly - Bottom"
+   ...LayerName "Silkscreen - Top"
+   ...LayerName "Silkscreen - Bottom"
+   ...LayerName "Die Pins - Top"
+   ...LayerName "Die Pins - Bottom"
+   ...LayerName "Bond Wires - Top"
+   ...LayerName "Bond Wires - Bottom"
+   ...LayerName "Board Origin"
+   ...LayerName "NCDrill Origin"
+   ...LayerName "Drill Drawing - Through"
+   ...LayerName "Holes"
+   ...LayerName "Top"
+   ...LayerName "Bottom"
+   ...LayerName "Solderpaste - Top"
+   ...LayerName "Solderpaste - Bottom"
+   ...LayerName "Soldermask - Top"
+   ...LayerName "Soldermask - Bottom"
+   ...LayerName "Cavity"
+   ...LayerName "Contour"
+   ...LayerName "DRC Window"
+   ...LayerName "Board Outline"
+   ...LayerName "Route Border"
+   ...LayerName "Manufacturing Outline"
+   ...LayerName "Test Fixture Outline"
+   ...LayerName "Redline Layer"
+   ...LayerName "Lyr 1"
+   ...LayerName "Lyr 2"
+   ...LayerName "Lyr 3"
+   ...LayerName "Lyr 4"
+   ...LayerName "Meccanica"
+   ...LayerName "Cartiglio"
+   ...LayerName "Quote"
+   ...LayerName "Reserved Area"
+   ...LayerName "Meccanica-TOP"
+   ...LayerName "Meccanica-BOTTOM"
+   ...LayerName "Lyr 5"
+   ...LayerName "Lyr 6"
+
+ ..ConductiveLayer 1
+   ...ProcessLayer No
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem PlaneShape
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 2
+   ...ProcessLayer No
+   ...ConductiveItem EtchedText
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 3
+   ...ProcessLayer No
+
+ ..ConductiveLayer 4
+   ...ProcessLayer No
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+ ..BoardItem BoardOutline
+ ..BoardItem SoldermaskTop
+ ..BoardCellType Buried
+ ..BoardCellType Connector
+ ..BoardCellType DiscreteAxial
+ ..BoardCellType DiscreteChip
+ ..BoardCellType DiscreteOther
+ ..BoardCellType DiscreteRadial
+ ..BoardCellType EdgeConnector
+ ..BoardCellType EmbeddedPassive
+ ..BoardCellType General
+ ..BoardCellType Graphic
+ ..BoardCellType ICBareDie
+ ..BoardCellType ICBGA
+ ..BoardCellType ICDIP
+ ..BoardCellType ICFlipChip
+ ..BoardCellType ICLCC
+ ..BoardCellType ICOther
+ ..BoardCellType ICPGA
+ ..BoardCellType ICPLCC
+ ..BoardCellType ICSIP
+ ..BoardCellType ICSOIC
+ ..BoardCellType Jumper
+ ..BoardCellType Mechanical
+ ..BoardCellType TestPoint
+ ..UserLayer "Cartiglio"
+
+.SheetName "Solder-BOTTOM"
+ ..ProcessSheet Yes
+ ..UseLayering No
+ ..PageSize None
+ ..Orientation BestFit
+ ..ScaleFactor 1.000000
+ ..CurrentView No
+ ..HeaderText
+   ...CommentLine ""
+ ..TrailerText
+   ...CommentLine ""
+ ..LayerOrder
+   ...LayerName "Detailed Views"
+   ...LayerName "Assembly - Top"
+   ...LayerName "Assembly - Bottom"
+   ...LayerName "Silkscreen - Top"
+   ...LayerName "Silkscreen - Bottom"
+   ...LayerName "Die Pins - Top"
+   ...LayerName "Die Pins - Bottom"
+   ...LayerName "Bond Wires - Top"
+   ...LayerName "Bond Wires - Bottom"
+   ...LayerName "Board Origin"
+   ...LayerName "NCDrill Origin"
+   ...LayerName "Drill Drawing - Through"
+   ...LayerName "Holes"
+   ...LayerName "Top"
+   ...LayerName "Bottom"
+   ...LayerName "Solderpaste - Top"
+   ...LayerName "Solderpaste - Bottom"
+   ...LayerName "Soldermask - Top"
+   ...LayerName "Soldermask - Bottom"
+   ...LayerName "Cavity"
+   ...LayerName "Contour"
+   ...LayerName "DRC Window"
+   ...LayerName "Board Outline"
+   ...LayerName "Route Border"
+   ...LayerName "Manufacturing Outline"
+   ...LayerName "Test Fixture Outline"
+   ...LayerName "Redline Layer"
+   ...LayerName "Lyr 1"
+   ...LayerName "Lyr 2"
+   ...LayerName "Lyr 3"
+   ...LayerName "Lyr 4"
+   ...LayerName "Meccanica"
+   ...LayerName "Cartiglio"
+   ...LayerName "Quote"
+   ...LayerName "Reserved Area"
+   ...LayerName "Meccanica-TOP"
+   ...LayerName "Meccanica-BOTTOM"
+   ...LayerName "Lyr 5"
+   ...LayerName "Lyr 6"
+
+ ..ConductiveLayer 1
+   ...ProcessLayer No
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem PlaneShape
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 2
+   ...ProcessLayer No
+   ...ConductiveItem EtchedText
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 3
+   ...ProcessLayer No
+
+ ..ConductiveLayer 4
+   ...ProcessLayer No
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+ ..BoardItem BoardOutline
+ ..BoardItem SoldermaskBottom
+ ..BoardCellType Buried
+ ..BoardCellType Connector
+ ..BoardCellType DiscreteAxial
+ ..BoardCellType DiscreteChip
+ ..BoardCellType DiscreteOther
+ ..BoardCellType DiscreteRadial
+ ..BoardCellType EdgeConnector
+ ..BoardCellType EmbeddedPassive
+ ..BoardCellType General
+ ..BoardCellType Graphic
+ ..BoardCellType ICBareDie
+ ..BoardCellType ICBGA
+ ..BoardCellType ICDIP
+ ..BoardCellType ICFlipChip
+ ..BoardCellType ICLCC
+ ..BoardCellType ICOther
+ ..BoardCellType ICPGA
+ ..BoardCellType ICPLCC
+ ..BoardCellType ICSIP
+ ..BoardCellType ICSOIC
+ ..BoardCellType Jumper
+ ..BoardCellType Mechanical
+ ..BoardCellType TestPoint
+ ..UserLayer "Cartiglio"
+
+.SheetName "Pasta-TOP"
+ ..ProcessSheet Yes
+ ..UseLayering No
+ ..PageSize None
+ ..Orientation BestFit
+ ..ScaleFactor 1.000000
+ ..CurrentView No
+ ..HeaderText
+   ...CommentLine ""
+ ..TrailerText
+   ...CommentLine ""
+ ..LayerOrder
+   ...LayerName "Detailed Views"
+   ...LayerName "Assembly - Top"
+   ...LayerName "Assembly - Bottom"
+   ...LayerName "Silkscreen - Top"
+   ...LayerName "Silkscreen - Bottom"
+   ...LayerName "Die Pins - Top"
+   ...LayerName "Die Pins - Bottom"
+   ...LayerName "Bond Wires - Top"
+   ...LayerName "Bond Wires - Bottom"
+   ...LayerName "Board Origin"
+   ...LayerName "NCDrill Origin"
+   ...LayerName "Drill Drawing - Through"
+   ...LayerName "Holes"
+   ...LayerName "Top"
+   ...LayerName "Bottom"
+   ...LayerName "Solderpaste - Top"
+   ...LayerName "Solderpaste - Bottom"
+   ...LayerName "Soldermask - Top"
+   ...LayerName "Soldermask - Bottom"
+   ...LayerName "Cavity"
+   ...LayerName "Contour"
+   ...LayerName "DRC Window"
+   ...LayerName "Board Outline"
+   ...LayerName "Route Border"
+   ...LayerName "Manufacturing Outline"
+   ...LayerName "Test Fixture Outline"
+   ...LayerName "Redline Layer"
+   ...LayerName "Lyr 1"
+   ...LayerName "Lyr 2"
+   ...LayerName "Lyr 3"
+   ...LayerName "Lyr 4"
+   ...LayerName "Meccanica"
+   ...LayerName "Cartiglio"
+   ...LayerName "Quote"
+   ...LayerName "Reserved Area"
+   ...LayerName "Meccanica-TOP"
+   ...LayerName "Meccanica-BOTTOM"
+   ...LayerName "Lyr 5"
+   ...LayerName "Lyr 6"
+
+ ..ConductiveLayer 1
+   ...ProcessLayer No
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem PlaneShape
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 2
+   ...ProcessLayer No
+   ...ConductiveItem EtchedText
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 3
+   ...ProcessLayer No
+
+ ..ConductiveLayer 4
+   ...ProcessLayer No
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+ ..BoardItem BoardOutline
+ ..BoardItem SolderpasteTop
+ ..BoardCellType Buried
+ ..BoardCellType Connector
+ ..BoardCellType DiscreteAxial
+ ..BoardCellType DiscreteChip
+ ..BoardCellType DiscreteOther
+ ..BoardCellType DiscreteRadial
+ ..BoardCellType EdgeConnector
+ ..BoardCellType EmbeddedPassive
+ ..BoardCellType General
+ ..BoardCellType Graphic
+ ..BoardCellType ICBareDie
+ ..BoardCellType ICBGA
+ ..BoardCellType ICDIP
+ ..BoardCellType ICFlipChip
+ ..BoardCellType ICLCC
+ ..BoardCellType ICOther
+ ..BoardCellType ICPGA
+ ..BoardCellType ICPLCC
+ ..BoardCellType ICSIP
+ ..BoardCellType ICSOIC
+ ..BoardCellType Jumper
+ ..BoardCellType Mechanical
+ ..BoardCellType TestPoint
+ ..UserLayer "Cartiglio"
+
+.SheetName "Pasta-BOTTOM"
+ ..ProcessSheet Yes
+ ..UseLayering No
+ ..PageSize None
+ ..Orientation BestFit
+ ..ScaleFactor 1.000000
+ ..CurrentView No
+ ..HeaderText
+   ...CommentLine ""
+ ..TrailerText
+   ...CommentLine ""
+ ..LayerOrder
+   ...LayerName "Detailed Views"
+   ...LayerName "Assembly - Top"
+   ...LayerName "Assembly - Bottom"
+   ...LayerName "Silkscreen - Top"
+   ...LayerName "Silkscreen - Bottom"
+   ...LayerName "Die Pins - Top"
+   ...LayerName "Die Pins - Bottom"
+   ...LayerName "Bond Wires - Top"
+   ...LayerName "Bond Wires - Bottom"
+   ...LayerName "Board Origin"
+   ...LayerName "NCDrill Origin"
+   ...LayerName "Drill Drawing - Through"
+   ...LayerName "Holes"
+   ...LayerName "Top"
+   ...LayerName "Bottom"
+   ...LayerName "Solderpaste - Top"
+   ...LayerName "Solderpaste - Bottom"
+   ...LayerName "Soldermask - Top"
+   ...LayerName "Soldermask - Bottom"
+   ...LayerName "Cavity"
+   ...LayerName "Contour"
+   ...LayerName "DRC Window"
+   ...LayerName "Board Outline"
+   ...LayerName "Route Border"
+   ...LayerName "Manufacturing Outline"
+   ...LayerName "Test Fixture Outline"
+   ...LayerName "Redline Layer"
+   ...LayerName "Lyr 1"
+   ...LayerName "Lyr 2"
+   ...LayerName "Lyr 3"
+   ...LayerName "Lyr 4"
+   ...LayerName "Meccanica"
+   ...LayerName "Cartiglio"
+   ...LayerName "Quote"
+   ...LayerName "Reserved Area"
+   ...LayerName "Meccanica-TOP"
+   ...LayerName "Meccanica-BOTTOM"
+   ...LayerName "Lyr 5"
+   ...LayerName "Lyr 6"
+
+ ..ConductiveLayer 1
+   ...ProcessLayer No
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem PlaneShape
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 2
+   ...ProcessLayer No
+   ...ConductiveItem EtchedText
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 3
+   ...ProcessLayer No
+
+ ..ConductiveLayer 4
+   ...ProcessLayer No
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+ ..BoardItem BoardOutline
+ ..BoardItem SolderpasteBottom
+ ..BoardCellType Buried
+ ..BoardCellType Connector
+ ..BoardCellType DiscreteAxial
+ ..BoardCellType DiscreteChip
+ ..BoardCellType DiscreteOther
+ ..BoardCellType DiscreteRadial
+ ..BoardCellType EdgeConnector
+ ..BoardCellType EmbeddedPassive
+ ..BoardCellType General
+ ..BoardCellType Graphic
+ ..BoardCellType ICBareDie
+ ..BoardCellType ICBGA
+ ..BoardCellType ICDIP
+ ..BoardCellType ICFlipChip
+ ..BoardCellType ICLCC
+ ..BoardCellType ICOther
+ ..BoardCellType ICPGA
+ ..BoardCellType ICPLCC
+ ..BoardCellType ICSIP
+ ..BoardCellType ICSOIC
+ ..BoardCellType Jumper
+ ..BoardCellType Mechanical
+ ..BoardCellType TestPoint
+ ..UserLayer "Cartiglio"
+
+.SheetName "Drill Drawing"
+ ..ProcessSheet Yes
+ ..UseLayering No
+ ..PageSize None
+ ..Orientation BestFit
+ ..ScaleFactor 1.000000
+ ..CurrentView No
+ ..HeaderText
+   ...CommentLine ""
+ ..TrailerText
+   ...CommentLine ""
+ ..LayerOrder
+   ...LayerName "Detailed Views"
+   ...LayerName "Assembly - Top"
+   ...LayerName "Assembly - Bottom"
+   ...LayerName "Silkscreen - Top"
+   ...LayerName "Silkscreen - Bottom"
+   ...LayerName "Die Pins - Top"
+   ...LayerName "Die Pins - Bottom"
+   ...LayerName "Bond Wires - Top"
+   ...LayerName "Bond Wires - Bottom"
+   ...LayerName "Board Origin"
+   ...LayerName "NCDrill Origin"
+   ...LayerName "Drill Drawing - Through"
+   ...LayerName "Holes"
+   ...LayerName "Top"
+   ...LayerName "Bottom"
+   ...LayerName "Solderpaste - Top"
+   ...LayerName "Solderpaste - Bottom"
+   ...LayerName "Soldermask - Top"
+   ...LayerName "Soldermask - Bottom"
+   ...LayerName "Cavity"
+   ...LayerName "Contour"
+   ...LayerName "DRC Window"
+   ...LayerName "Board Outline"
+   ...LayerName "Route Border"
+   ...LayerName "Manufacturing Outline"
+   ...LayerName "Test Fixture Outline"
+   ...LayerName "Redline Layer"
+   ...LayerName "Lyr 1"
+   ...LayerName "Lyr 2"
+   ...LayerName "Lyr 3"
+   ...LayerName "Lyr 4"
+   ...LayerName "Meccanica"
+   ...LayerName "Cartiglio"
+   ...LayerName "Quote"
+   ...LayerName "Reserved Area"
+   ...LayerName "Meccanica-TOP"
+   ...LayerName "Meccanica-BOTTOM"
+   ...LayerName "Lyr 5"
+   ...LayerName "Lyr 6"
+
+ ..ConductiveLayer 1
+   ...ProcessLayer No
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem PlaneShape
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 2
+   ...ProcessLayer No
+   ...ConductiveItem EtchedText
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 3
+   ...ProcessLayer No
+
+ ..ConductiveLayer 4
+   ...ProcessLayer No
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+ ..BoardItem BoardOutline
+ ..BoardItem DrillDrawingThru
+ ..BoardCellType Buried
+ ..BoardCellType Connector
+ ..BoardCellType DiscreteAxial
+ ..BoardCellType DiscreteChip
+ ..BoardCellType DiscreteOther
+ ..BoardCellType DiscreteRadial
+ ..BoardCellType EdgeConnector
+ ..BoardCellType EmbeddedPassive
+ ..BoardCellType General
+ ..BoardCellType Graphic
+ ..BoardCellType ICBareDie
+ ..BoardCellType ICBGA
+ ..BoardCellType ICDIP
+ ..BoardCellType ICFlipChip
+ ..BoardCellType ICLCC
+ ..BoardCellType ICOther
+ ..BoardCellType ICPGA
+ ..BoardCellType ICPLCC
+ ..BoardCellType ICSIP
+ ..BoardCellType ICSOIC
+ ..BoardCellType Jumper
+ ..BoardCellType Mechanical
+ ..BoardCellType TestPoint
+ ..UserLayer "Cartiglio"
+ ..UserLayer "Quote"
+
+.OutputVariants NO
+.VariantList "Master"
+
+.EzPrintConfigFilePath "C:\\SPB_Data\\mgc\\ezprint\\defaultEzPrintConfig.xml"

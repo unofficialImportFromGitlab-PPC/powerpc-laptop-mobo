@@ -1,0 +1,44 @@
+Record=TopLevelDocument|FileName=01 Page Listing.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=02 Block Diagram.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=03 DDR3.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=03B_DDR3_2.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=04 IFC.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=05 Flash.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=06 SPI&SDHC.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=07 SYS.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=08 EC&SD.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=09 USB.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=09A_USB_HUB.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=09B KEYBOARD.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=09C_KB_LED_AND_LED.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=10 UART&I2C.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=10B_WRAPPER.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=11 Proc Pwr1.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=12 Proc Pwr2.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=13 Proc Gnd.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=14 EC1 PHY.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=15_ETHERNET_CONN.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=16 SATA3 CONTROLLER.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=16B Sata Connectors.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=17 USB3 CONTROLLER.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=18 USB3_ports.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=18B_ETHERNET CARD.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=19 PCIE BRIDGE.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=19B WLAN_CONNECTOR.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=19C_3G_LTE_MODEM.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=20 PCIE BRIDGE POWER.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=21 MXM_PCIe.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=22 MXM_VIDEO_OUT.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=23 I2C WRAP.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=24 AUDIO CMEDIA.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=25 AUDIO_CONN.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=26 Clock 1.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=27 Clock 2.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=28 Core Pwr.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=29 Other Pwr 1.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=30A Other Pwr 2.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=30B Main Power.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=30C_battery_Charger.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=31 Pwr In.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=32 MEC.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01 Page Listing.SchDoc|FileName=33 Change List.SchDoc|SheetNumber= 

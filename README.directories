@@ -1,0 +1,21 @@
+The directory structure of this project is described below:
+
+powerpc-laptop-mobo/    top-level project directory
+	LICENSE			CERN Open Hardware Licence v1.2 which governs this project design
+
+	README.directories      This file - describes directory structure intent
+        README.tools            Describes ECAD tools included and their directory naming
+
+	Documentation/		Contains any documentation about the overall design, user-guide, OEM system docs, etc.
+
+	Assembly/		Data for the PCB assemblers - Bill Of Materials, Pick & Place etc.
+	Manufacturing/		Data for PCB manufacture (NOT assembly with components): Gerbers, ipc-2581, odb++ etc
+		Gerbers/	Gerber format layout data for manufacturing
+		IPC-2581/	IPC-2581 format data for manufacturing
+
+	AltiumDesigner/		Schematic/Layout/Libraries data in Altium Designer format (version 21)
+	KiCad/			Schematic/Layout/Libraries data in KiCad format
+	OrCad/			Schematic data in OrCad Capture format (version ...)
+	Xpedition/		PCB Layout/Libraries data in Xpedition format
+	PDF_design/		Schematics, drawings etc. in PDF format
+

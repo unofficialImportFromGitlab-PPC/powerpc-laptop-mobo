@@ -1,0 +1,140 @@
+{Program	Expedition GerbTool(tm)
+	{Version	8.1.2 X1}
+	{Created	Thu Feb 04 15:45:11 2021}
+}
+{Environment
+	{ViewMetric	Yes}
+}
+{Layers
+	{Layer  1
+		{File		O-Drill.gbr}
+		{LyrName	O-Drill}
+		{Visibility	On}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  2
+		{File		N-SolderPasteBot.gbr}
+		{LyrName	N-SolderPasteBot}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  3
+		{File		M-SolderPasteTop.gbr}
+		{LyrName	M-SolderPasteTop}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  4
+		{File		L-SoldermaskBottom.gbr}
+		{LyrName	L-SoldermaskBottom}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  5
+		{File		I-SoldermaskTop.gbr}
+		{LyrName	I-SoldermaskTop}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  6
+		{File		B-AssemblyBottom.gbr}
+		{LyrName	B-AssemblyBottom}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  7
+		{File		A-AssemblyTop.gbr}
+		{LyrName	A-AssemblyTop}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  8
+		{File		9-Internal8.gbr}
+		{LyrName	9-Internal8}
+		{Visibility	Off}
+		{Type		Plane}
+		{Ftype		Gerber}
+	}
+	{Layer  9
+		{File		8-Internal7.gbr}
+		{LyrName	8-Internal7}
+		{Visibility	Off}
+		{Type		Inner}
+		{Ftype		Gerber}
+	}
+	{Layer 10
+		{File		7-Internal6.gbr}
+		{LyrName	7-Internal6}
+		{Visibility	Off}
+		{Type		Inner}
+		{Ftype		Gerber}
+	}
+	{Layer 11
+		{File		6-Internal5.gbr}
+		{LyrName	6-Internal5}
+		{Visibility	Off}
+		{Type		Inner}
+		{Ftype		Gerber}
+	}
+	{Layer 12
+		{File		5-Internal4.gbr}
+		{LyrName	5-Internal4}
+		{Visibility	Off}
+		{Type		Plane}
+		{Ftype		Gerber}
+	}
+	{Layer 13
+		{File		4-Internal3.gbr}
+		{LyrName	4-Internal3}
+		{Visibility	Off}
+		{Type		Inner}
+		{Ftype		Gerber}
+	}
+	{Layer 14
+		{File		3-Internal2.gbr}
+		{LyrName	3-Internal2}
+		{Visibility	Off}
+		{Type		Inner}
+		{Ftype		Gerber}
+	}
+	{Layer 15
+		{File		2-Internal1.gbr}
+		{LyrName	2-Internal1}
+		{Visibility	Off}
+		{Type		Plane}
+		{Ftype		Gerber}
+	}
+	{Layer 16
+		{File		10-Bottom.gbr}
+		{LyrName	10-Bottom}
+		{Visibility	Off}
+		{Type		Bottom}
+		{Ftype		Gerber}
+	}
+	{Layer 17
+		{File		1-Top.gbr}
+		{LyrName	1-Top}
+		{Visibility	Off}
+		{Type		Top}
+		{Ftype		Gerber}
+	}
+}
+{Format Gerber
+	{Dialect		RS274X}
+	{m.n			2.4}
+	{Mode			Absolute}
+	{ZeroSuppression	Leading}
+	{Terminator		0x2a, 0xd, 0xa}
+	{Metric			Yes}
+	{Modal			Yes}
+	{CharSet		ASCII}
+	{Arcs360		No}
+	{ArcsModal		Yes}
+}

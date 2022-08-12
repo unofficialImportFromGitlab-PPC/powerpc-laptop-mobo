@@ -1,0 +1,21 @@
+.FILETYPE CCZ_EXPORT_SETTINGS
+.VERSION "VB99.1"
+.DATE "02/04/2021 15:28:05"
+
+!  This file contains settings for the most recent CCZ export session
+
+.OUTPUT_FILE "D:\\PD-Master\\Mas\\Mas100n1 ACB_0001_0\\Output\\Pick and Place\\Mas100n1 ACUBE_PORTABILE R_0.cce"
+.UNITS in
+
+.CELL_LIBRARY 1
+
+.HAZARDS 0
+
+.MATERIALS 1
+
+.UID 0
+
+.INSTANCE_SPECIFIC_CELLS 1
+
+.VARIANTS 1
+

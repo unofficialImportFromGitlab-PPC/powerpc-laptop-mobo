@@ -1,0 +1,74 @@
+\t (00:00:05) allegro 17.4 S029 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Sun Jul  3 00:06:31 2022
+\t (00:00:05)         Host=SKEETER User=billt Pid=56824 CPUs=8
+\t (00:00:05) CmdLine= C:\Apps\Cadence\SPB_17.4\tools\bin\allegro.exe -mpssession billt -proj F:\documents\billt\projects\openPPClaptop\powerpc-laptop-mobo\OrCAD\openPPClaptop.opj F:\documents\billt\projects\openPPClaptop\powerpc-laptop-mobo\OrCAD\importedfromaltium_174a_nosym.brd
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:08) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "importedfromaltium_174a_nosym"
+\d (00:00:08) Design opened: F:/documents/billt/projects/openPPClaptop/powerpc-laptop-mobo/OrCAD/importedfromaltium_174a_nosym.brd
+\i (00:00:09) trapsize 12883
+\i (00:00:09) trapsize 13462
+\i (00:00:09) trapsize 12883
+\i (00:00:09) trapsize 13981
+\i (00:00:09) trapsize 13981
+\t (00:00:11) > Sending response DoneOpenBoard
+\i (00:00:12) generaledit 
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 14344.89 5759.84
+\i (00:00:12) trapsize 27963
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 18354.23 5815.77
+\i (00:00:13) trapsize 55926
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 49169.19 12593.91
+\i (00:00:13) trapsize 82212
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 75994.02 24035.87
+\i (00:00:14) trapsize 82212
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 75994.02 24035.87
+\i (00:00:14) trapsize 41106
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 75994.02 24035.88
+\i (00:00:15) trapsize 20553
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 75994.02 24035.88
+\i (00:00:15) trapsize 10277
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 75994.02 24035.88
+\i (00:00:15) trapsize 5138
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 75994.03 24035.88
+\i (00:00:15) trapsize 2569
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 75994.03 24035.88
+\i (00:00:15) trapsize 1285
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 75988.90 24015.33
+\i (00:00:16) trapsize 642
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 75988.90 24015.33
+\i (00:00:16) trapsize 321
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 75988.90 24015.34
+\i (00:00:16) trapsize 161
+\i (00:00:21) zoom fit 
+\i (00:00:22) trapsize 7762
+\i (00:00:43) exit 
+\e (00:00:43) Do you want to save the changes you made to importedfromaltium_174a_nosym.brd?
+\i (00:00:46) fillin no 
+\t (00:00:46)     Journal end - Sun Jul  3 00:07:13 2022

@@ -1,0 +1,45 @@
+(ExpressProject "openPPClaptop"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S029 (4024845)  [4/15/2022]-[06/27/22]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (File ".\ppc_notebook_electrical_schematics_v0.7.dsn"
+      (Type "Schematic Design"))
+    ("Allegro Netlist Output Board File" ".\importedfromaltium_174a_nosym.brd"))
+  (Folder "Layout"
+    (File ".\importedfromaltium_174a_nosym.brd"
+      (Type "Board File")
+      (OutputBoard ".\importedfromaltium_174a_nosym.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1")))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Layout")
+      (Select "Layout" ".\importedfromaltium_174a_nosym.brd"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 521"))
+      (Tab 0)))
+  (MPSSessionName "billt"))

@@ -1,0 +1,14 @@
+.FILETYPE DXF_IMPORT_SETTINGS
+.VERSION "VB99.1"
+.DATE "03/17/2021 10:25:36"
+
+!  This file contains settings for the most recent DXF import session
+
+.DXF_INPUT_FILE "D:\\Pd-Master\\Mas\\Logo.dxf"
+.UNITS mm
+
+.SCALE 1
+
+.DXF_STYLE "STANDARD"
+ ..USER_FONT ""
+

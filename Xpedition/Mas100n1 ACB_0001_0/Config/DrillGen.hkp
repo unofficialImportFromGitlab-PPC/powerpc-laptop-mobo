@@ -1,0 +1,9 @@
+.FILETYPE NC_DRILL_GEN_FILE
+.VERSION "VB99.0"
+.DATE "Wednesday, January 22, 2003"
+
+.FormatFile "D:\\Programmi\\Mentor\\2000.5\\VBExpPCB\\config\\VBExpPCB\\NCDrillMetric.mmm"
+.SweepAxis Horizontal
+.SummaryUnits Metric
+.Bandwidth 2540000
+.MachineFileExt  ".ncd"

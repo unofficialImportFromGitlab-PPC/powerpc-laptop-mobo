@@ -1,0 +1,29 @@
+[2020.10.22 17:23:40] [0000m.16s.576ms] [0] WELCOME
+[2020.10.22 17:23:40] [0000m.16s.576ms] [1] iCDB Database ver.2.206, sKjdadGzu2gAkzr/leH5XQ, build:16282503 created 2020-04-17 04:46:17, sources stamp:sKjdadGzu2gAkzr/leH5XQ
+[2020.10.22 17:23:40] [0000m.16s.576ms] [1] Copyright 2020 Mentor Graphics Corporation.  All Rights Reserved.
+[2020.10.22 17:23:40] [0000m.16s.576ms] [1] Base flow version [VX.2.6]
+[2020.10.22 17:23:40] [0000m.16s.576ms] [1] Install Id [2043402], Flow Id [PADS Professional VX.2.6], Full Flow Name [PADS Pro Tools VX.2.6], Exact Access Date [2019/08/01]
+[2020.10.22 17:23:40] [0000m.16s.576ms] [1] UPDATE Install Info, Install Id [2237100], UPDATE Name [PADS Pro Tools VX.2.6 Update 11]
+[2020.10.22 17:23:40] [0000m.16s.577ms] [1] Machine [DESKTOP-CUVV7JD]  IP [127.0.0.1,192.168.1.159]  User [Shina]  PID [15520]
+[2020.10.22 17:23:40] [0000m.16s.577ms] [1] Operating system [Microsoft Windows 8 Business Edition, 64-bit (build 9200)]
+[2020.10.22 17:23:40] [0000m.16s.577ms] [1] Current working dir [D:\Pd-Master\Mas\Mas100n1 ACB_0001_0]
+[2020.10.22 17:23:40] [0000m.16s.577ms] [1] PATH [C:\MentorGraphics\PADSProVX.2.6\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSProVX.2.6\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSProVX.2.6\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSProVX.2.6\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSProVX.2.6\MGC_HOME.ixn\lib;C:\MentorGraphics\PADSProVX.2.6\SDD_HOME\wg\win32\lib;%MGC_HOME%\lib;C:\Windows\system32;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Cadence\SPB_16.6\tools\pcb\bin;C:\Cadence\SPB_16.6\tools\bin;C:\Cadence\SPB_16.6\tools\libutil\bin;C:\Cadence\SPB_16.6\tools\fet\bin;C:\Cadence\SPB_16.6\tools\specctra\bin;C:\Cadence\SPB_16.6\tools\pspice;C:\Cadence\SPB_16.6\tools\capture;C:\Cadence\SPB_16.6\openaccess\bin\win32\opt;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Windows;C:\Users\Shina\AppData\Local\Microsoft\WindowsApps;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSProVX.2.6\SDD_HOME\common3D\win32\lib]
+[2020.10.22 17:23:40] [0000m.16s.577ms] [1] SDD_HOME [C:\MentorGraphics\PADSProVX.2.6\SDD_HOME] on file system [NTFS]
+[2020.10.22 17:23:40] [0000m.16s.577ms] [1] SDD_PLATFORM [win32]
+[2020.10.22 17:23:40] [0000m.16s.577ms] [1] WDIR [C:\WDIR\PADSProVX.2.6;C:\MentorGraphics\PADSProVX.2.6\SDD_HOME\standard;]
+[2020.10.22 17:23:40] [0000m.16s.577ms] [1] Local iCDB working dir [C:\WDIR\PADSProVX.2.6\iCDB] on file system [NTFS]
+[2020.10.22 17:23:40] [0000m.16s.577ms] [3] File change time:        [2020-10-22 17.22.47]
+[2020.10.22 17:23:40] [0000m.16s.577ms] [3] File modification time:  [2020-10-22 17.22.47]
+[2020.10.22 17:23:40] [0000m.16s.577ms] [3] Last change time:        [2020-10-22 17.22.47]
+[2020.10.22 17:23:40] [0000m.16s.577ms] [3] Last database open information:
+[2020.10.22 17:23:40] [0000m.16s.577ms] [3] Time:             [2020-10-22 14.20.57]
+[2020.10.22 17:23:40] [0000m.16s.577ms] [3] Location:         [D:\Pd-Master\Mas\Mas100n1 ACB_0001_0 - Copia - Copia\keyin.icdb\icdb.dat]
+[2020.10.22 17:23:40] [0000m.16s.577ms] [3] Machine:          [DESKTOP-CUVV7JD]
+[2020.10.22 17:23:40] [0000m.16s.577ms] [3] User:             [Shina]
+[2020.10.22 17:23:40] [0000m.16s.577ms] [3] PID:              [13408]
+[2020.10.22 17:23:40] [0000m.16s.577ms] [3] Application:      [iCDB Server]
+[2020.10.22 17:23:40] [0000m.16s.577ms] [3] Operating system: [Microsoft Windows 10 Business Edition, 64-bit (build 19041)]
+[2020.10.22 17:23:40] [0000m.16s.577ms] [3] Database GUID must be regenerated
+[2020.10.22 17:23:40] [0000m.16s.577ms] [3] Previous database GUID [2317-1337-e1c2-0722-7297-19fc-2971-9f50-3884-4433-62ef-cf98]
+[2020.10.22 17:23:40] [0000m.16s.578ms] [3] Current database GUID  [9906-ff3d-70b5-199f-cf3a-19f1-04a1-9f50-fa74-4433-62ef-cf98]
+[2020.10.22 17:23:40] [0000m.16s.578ms] [0] .

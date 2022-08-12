@@ -1,0 +1,159 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\acube_portatile_0_162.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (Netlist_TAB "8")
+    (OTHER_Part_Value "{Value}")
+    (OTHER_Netlist_File "ACUBE_PORTATILE_0_162.KYN")
+    (OTHER_Netlist_File2 "ACUBE_PORTATILE_0_162.CMP")
+    (OTHER_View_Output "FALSE")
+    (OTHER_View_Output2 "FALSE")
+    (OTHER_Formatter "orIntergra.dll")
+    (OTHER_PCB_Footprint "{RSM}")
+    (OTHER_Switch0 "FALSE")
+    (OTHER_Switch1 "FALSE")
+    (OTHER_Switch2 "FALSE")
+    (OTHER_Switch3 "FALSE")
+    (OTHER_Switch4 "FALSE")
+    (OTHER_Switch5 "FALSE")
+    (OTHER_Switch6 "FALSE")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "0")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Outputs"
+    (File ".\acube_portatile_0_162.kyn"
+      (Type "Report"))
+    (File ".\acube_portatile_0_162.net"
+      (Type "Report"))
+    (File ".\prova.kyn"
+      (Type "Report"))
+    (File
+       "d:\pd-master\mas\mas100n1 acb_0001_0 - copia - copia\logic\acube_portatile_0_162.kyn"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\acube_portatile_0_162.dsn")
+      (Path "Design Resources" ".\acube_portatile_0_162.dsn" "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources" ".\acube_portatile_0_162.dsn" "SCHEMATIC1"
+         "01 Page Listing"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 0 473 -11 -45 0 1620 0 345"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -11 -45 26 1420 26 298")
+        (Scroll "7812 6473")
+        (Zoom "696")
+        (Occurrence "/"))
+      (Path
+         "D:\PD-MASTER\MAS\MAS100N1 ACB_0001_0\LOGIC\ACUBE_PORTATILE_0_162.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "31 Pwr In"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -11 -45 52 1446 52 324")
+        (Scroll "4918 4028")
+        (Zoom "464")
+        (Occurrence "/"))
+      (Path
+         "D:\PD-MASTER\MAS\MAS100N1 ACB_0001_0\LOGIC\ACUBE_PORTATILE_0_162.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "09B KEYBOARD"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1472 78 350")
+        (Scroll "746 1674")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path
+         "D:\PD-MASTER\MAS\MAS100N1 ACB_0001_0\LOGIC\ACUBE_PORTATILE_0_162.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "14 EC1 PHY"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1498 104 376")
+        (Scroll "750 670")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path
+         "D:\PD-MASTER\MAS\MAS100N1 ACB_0001_0\LOGIC\ACUBE_PORTATILE_0_162.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "09C_KB_LED_AND_LED"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1524 130 402")
+        (Scroll "161 91")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\PD-MASTER\MAS\MAS100N1 ACB_0001_0\LOGIC\ACUBE_PORTATILE_0_162.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "08 EC&SD"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1394 0 272")
+        (Scroll "-257 0")
+        (Zoom "50")
+        (Occurrence "/"))
+      (Path
+         "D:\PD-MASTER\MAS\MAS100N1 ACB_0001_0\LOGIC\ACUBE_PORTATILE_0_162.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "07 SYS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -11 -45 52 1446 52 324")
+        (Scroll "328 660")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path
+         "D:\PD-MASTER\MAS\MAS100N1 ACB_0001_0\LOGIC\ACUBE_PORTATILE_0_162.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "19C_3G_LTE_MODEM"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -11 -45 342 1293 342 1511")
+        (Scroll "0 -84")
+        (Zoom "94")
+        (Occurrence "/"))
+      (Path
+         "D:\PD-MASTER\MAS\MAS100N1 ACB_0001_0\LOGIC\ACUBE_PORTATILE_0_162.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "01 Page Listing")))
+  (MPSSessionName "Shina")
+  (LastUsedLibraryBrowseDirectory "J:\Librerie_Orcad\RSM_Capture")
+  (ISPCBBASICLICENSE "false"))

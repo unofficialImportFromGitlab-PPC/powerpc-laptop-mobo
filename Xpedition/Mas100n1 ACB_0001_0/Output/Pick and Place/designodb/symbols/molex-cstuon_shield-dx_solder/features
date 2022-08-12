@@ -1,0 +1,17 @@
+#
+#Units
+#
+U MM
+#
+#Layer features
+#
+S P 0
+OB -1.3 -1.65 I
+OS -1.3 1.65
+OS 1.3 1.65
+OS 1.3 -0.75
+OS 0.35 -0.75
+OS 0.35 -1.65
+OS -1.3 -1.65
+OE
+SE

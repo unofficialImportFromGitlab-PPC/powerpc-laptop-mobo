@@ -1,0 +1,71 @@
+[2020.10.22 14:20:57] [0000m.00s.140ms] [0] WELCOME
+[2020.10.22 14:20:57] [0000m.00s.141ms] [1] iCDB Diagnostic ver.2.206, sKjdadGzu2gAkzr/leH5XQ, build:16282503 created 2020-04-17 04:46:17, sources stamp:sKjdadGzu2gAkzr/leH5XQ
+[2020.10.22 14:20:57] [0000m.00s.141ms] [1] Copyright 2020 Mentor Graphics Corporation.  All Rights Reserved.
+[2020.10.22 14:20:57] [0000m.00s.141ms] [1] Base flow version [VX.2.6]
+[2020.10.22 14:20:57] [0000m.00s.141ms] [1] Install Id [2043402], Flow Id [PADS Professional VX.2.6], Full Flow Name [PADS Pro Tools VX.2.6], Exact Access Date [2019/08/01]
+[2020.10.22 14:20:57] [0000m.00s.141ms] [1] UPDATE Install Info, Install Id [2237100], UPDATE Name [PADS Pro Tools VX.2.6 Update 11]
+[2020.10.22 14:20:57] [0000m.00s.141ms] [1] Machine [DESKTOP-CUVV7JD]  IP [127.0.0.1,192.168.1.159]  User [Shina]  PID [13408]
+[2020.10.22 14:20:57] [0000m.00s.142ms] [1] Operating system [Microsoft Windows 10 Business Edition, 64-bit (build 19041)]
+[2020.10.22 14:20:57] [0000m.00s.142ms] [1] Current working dir [D:\Pd-Master\Mas\Mas100n1 ACB_0001_0 - Copia - Copia]
+[2020.10.22 14:20:57] [0000m.00s.142ms] [1] PATH [C:\MentorGraphics\PADSProVX.2.6\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSProVX.2.6\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSProVX.2.6\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSProVX.2.6\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSProVX.2.6\MGC_HOME.ixn\lib;C:\MentorGraphics\PADSProVX.2.6\SDD_HOME\wg\win32\lib;%MGC_HOME%\lib;C:\Windows\system32;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Cadence\SPB_16.6\tools\pcb\bin;C:\Cadence\SPB_16.6\tools\bin;C:\Cadence\SPB_16.6\tools\libutil\bin;C:\Cadence\SPB_16.6\tools\fet\bin;C:\Cadence\SPB_16.6\tools\specctra\bin;C:\Cadence\SPB_16.6\tools\pspice;C:\Cadence\SPB_16.6\tools\capture;C:\Cadence\SPB_16.6\openaccess\bin\win32\opt;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Windows;C:\Users\Shina\AppData\Local\Microsoft\WindowsApps;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSProVX.2.6\SDD_HOME\common3D\win32\lib]
+[2020.10.22 14:20:57] [0000m.00s.142ms] [1] SDD_HOME [C:\MentorGraphics\PADSProVX.2.6\SDD_HOME] on file system [NTFS]
+[2020.10.22 14:20:57] [0000m.00s.142ms] [1] SDD_PLATFORM [win32]
+[2020.10.22 14:20:57] [0000m.00s.142ms] [1] WDIR [C:\WDIR\PADSProVX.2.6;C:\MentorGraphics\PADSProVX.2.6\SDD_HOME\standard;]
+[2020.10.22 14:20:57] [0000m.00s.142ms] [1] Local iCDB working dir [C:\WDIR\PADSProVX.2.6\iCDB] on file system [NTFS]
+[2020.10.22 14:20:57] [0000m.00s.187ms] [2] Diagnostic: Checking snapshot [1:PCB] integrity
+[2020.10.22 14:20:57] [0000m.00s.187ms] [2] Diagnostic: SnapshotCheck: CDBImplBlock
+[2020.10.22 14:20:57] [0000m.00s.187ms] [2] Diagnostic: {[Block] [PCB] [2-1-5] [1] } --> No flags set...
+[2020.10.22 14:20:57] [0000m.00s.187ms] [2] Diagnostic: SnapshotCheck: CDBImplComp
+[2020.10.22 14:20:57] [0000m.00s.187ms] [2] Diagnostic: SnapshotCheck: CDBImplGroup
+[2020.10.22 14:20:57] [0000m.00s.187ms] [2] Diagnostic: SnapshotCheck: CDBImplPin (regular)
+[2020.10.22 14:20:57] [0000m.00s.187ms] [2] Diagnostic: SnapshotCheck: AttributesUtility (regular)
+[2020.10.22 14:20:57] [0000m.00s.187ms] [2] Diagnostic: SnapshotCheck: CDBImplPin (cached)
+[2020.10.22 14:20:57] [0000m.00s.187ms] [2] Diagnostic: SnapshotCheck: AttributesUtility (cached)
+[2020.10.22 14:20:57] [0000m.00s.187ms] [2] Diagnostic: Block: PCB
+[2020.10.22 14:20:57] [0000m.00s.187ms] [2] Diagnostic: BlockCheck: CDBImplNet
+[2020.10.22 14:20:57] [0000m.00s.187ms] [2] Diagnostic: BlockCheck: CDBImplBus
+[2020.10.22 14:20:57] [0000m.00s.187ms] [2] Diagnostic: BlockCheck: CDBImplPin
+[2020.10.22 14:20:57] [0000m.00s.187ms] [2] Diagnostic: BlockCheck: CDBImplPort
+[2020.10.22 14:20:57] [0000m.00s.187ms] [2] Diagnostic: BlockCheck: CDBImplComp
+[2020.10.22 14:20:57] [0000m.00s.187ms] [2] Diagnostic: BlockCheck: AttributesUtility
+[2020.10.22 14:20:57] [0000m.00s.187ms] [2] Diagnostic: CesConfigCheck: CesConstraint
+[2020.10.22 14:20:57] [0000m.00s.188ms] [2] Diagnostic: CesConfigCheck: CesPin
+[2020.10.22 14:20:57] [0000m.00s.192ms] [2] Diagnostic: CesConfigCheck: CesFromTo
+[2020.10.22 14:20:57] [0000m.00s.192ms] [2] Diagnostic: CesConfigCheck: CesPhysicalNet
+[2020.10.22 14:20:57] [0000m.00s.192ms] [2] Diagnostic: CesConfigCheck: CesPinPair
+[2020.10.22 14:20:57] [0000m.00s.192ms] [2] Diagnostic: CesConfigCheck: CesElectricalNet
+[2020.10.22 14:20:57] [0000m.00s.192ms] [2] Diagnostic: CesConfigCheck: CesDiffPair
+[2020.10.22 14:20:57] [0000m.00s.192ms] [2] Diagnostic: CesConfigCheck: CesComponent
+[2020.10.22 14:20:57] [0000m.00s.195ms] [2] Diagnostic: CesConfigCheck: CesPartPin
+[2020.10.22 14:20:57] [0000m.00s.196ms] [2] Diagnostic: CesConfigCheck: CesPartPinPair
+[2020.10.22 14:20:57] [0000m.00s.196ms] [2] Diagnostic: CesConfigCheck: CesPart
+[2020.10.22 14:20:57] [0000m.00s.196ms] [2] Diagnostic: CesConfigCheck: CesDesign
+[2020.10.22 14:20:57] [0000m.00s.196ms] [2] Diagnostic: CesConfigCheck: CesLayerClearRule
+[2020.10.22 14:20:57] [0000m.00s.196ms] [2] Diagnostic: CesConfigCheck: CesSchemeClearRule
+[2020.10.22 14:20:57] [0000m.00s.196ms] [2] Diagnostic: CesConfigCheck: CesViaAssign
+[2020.10.22 14:20:57] [0000m.00s.196ms] [2] Diagnostic: CesConfigCheck: CesLayerRule
+[2020.10.22 14:20:57] [0000m.00s.196ms] [2] Diagnostic: CesConfigCheck: CesSchemeNetClassRule
+[2020.10.22 14:20:57] [0000m.00s.196ms] [2] Diagnostic: CesConfigCheck: CesScheme
+[2020.10.22 14:20:57] [0000m.00s.196ms] [2] Diagnostic: CesConfigCheck: CesLayer
+[2020.10.22 14:20:57] [0000m.00s.196ms] [2] Diagnostic: CesConfigCheck: CesNetClass
+[2020.10.22 14:20:57] [0000m.00s.196ms] [2] Diagnostic: CesConfigCheck: CesClearRule
+[2020.10.22 14:20:57] [0000m.00s.196ms] [2] Diagnostic: CesConfigCheck: CesConstraintClass
+[2020.10.22 14:20:57] [0000m.00s.196ms] [2] Diagnostic: CesConfigCheck: CesViaSpan
+[2020.10.22 14:20:57] [0000m.00s.196ms] [2] Diagnostic: CesConfigCheck: CesGenClear
+[2020.10.22 14:20:57] [0000m.00s.197ms] [2] Diagnostic: CesConfigCheck: CesPartTech
+[2020.10.22 14:20:57] [0000m.00s.197ms] [2] Diagnostic: CesConfigCheck: CesConstVar
+[2020.10.22 14:20:57] [0000m.00s.197ms] [2] Diagnostic: CesConfigCheck: CesC2CClearRule
+[2020.10.22 14:20:57] [0000m.00s.197ms] [2] Diagnostic: CesConfigCheck: CesPkgTypeClearRule
+[2020.10.22 14:20:57] [0000m.00s.197ms] [2] Diagnostic: CesConfigCheck: CesP2PClearRule
+[2020.10.22 14:20:57] [0000m.00s.197ms] [2] Diagnostic: CesConfigCheck: CesParRuleSection
+[2020.10.22 14:20:57] [0000m.00s.197ms] [2] Diagnostic: CesConfigCheck: CesParRuleDef
+[2020.10.22 14:20:57] [0000m.00s.197ms] [2] Diagnostic: CesConfigCheck: CesNoiseRule
+[2020.10.22 14:20:57] [0000m.00s.197ms] [2] Diagnostic: CesConfigCheck: CesGenObj
+[2020.10.22 14:20:57] [0000m.00s.197ms] [2] Diagnostic: CesConfigCheck: CesGenCompObj
+[2020.10.22 14:20:57] [0000m.00s.197ms] [2] Diagnostic: CesConfigCheck: CesGenObjType
+[2020.10.22 14:20:57] [0000m.00s.197ms] [2] Diagnostic: CesConfigCheck: CesVia
+[2020.10.22 14:20:57] [0000m.00s.197ms] [2] Diagnostic: CesConfigCheck: CesZAxisLayerRule
+[2020.10.22 14:20:57] [0000m.00s.197ms] [2] Diagnostic: CesConfigCheck: CesZAxisClearRule
+[2020.10.22 14:20:57] [0000m.00s.197ms] [2] Diagnostic: Snapshot [1:PCB] integrity check PASSED in [9ms 645us]
+[2020.10.22 14:20:57] [0000m.00s.215ms] [0] Diagnostic: FINISH
+[2020.10.22 14:20:57] [0000m.00s.215ms] [0] .

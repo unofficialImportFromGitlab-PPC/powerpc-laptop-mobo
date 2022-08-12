@@ -1,0 +1,452 @@
+.FILETYPE GerberPlotSetupFile
+.VERSION "VB99.0"
+.CREATOR "Expedition PCB Gerber Output"
+.DATE "Friday, January 23, 2015 09:23 AM"
+
+.BaseUnits "1NM"
+
+.GerberOutputDir ".\\Output\\Gerber\\"
+
+.DataOffset 0 0
+.DataCopies 1 1
+ ..OriginOffset 0 0
+
+.GenerateMacro Yes 
+
+.VariantsOutput No 
+.DCodeToApertureFile "Sys: GerberD-Codes.dac"
+.GerberMachineFormatFile "D:\\Vb-Master\\Mas\\Mas52n1 LCD00000\\Config\\GerberMachineFile_Raster_mm.gmf"
+
+.GerberOutputFile "Q-xxx-Drill.gbr"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath ".\Output\Gerber\\\Q-xxx-Drill.gbr"
+ ..HeaderText
+   ...CommentLine "RSM MASTER DESIGN srl"
+ ..TrailerText
+   ...CommentLine "FORATURA"
+ ..BoardItem BoardOutline
+ ..BoardItem DrillDrawingThru
+ ..UserLayer "Cartiglio"
+ ..UserLayer "Quote"
+
+.GerberOutputFile "P-xxx-PasteBottom.gbr"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath ".\Output\Gerber\\\P-xxx-PasteBottom.gbr"
+ ..HeaderText
+   ...CommentLine "RSM MASTER DESIGN srl"
+ ..TrailerText
+   ...CommentLine "PASTA BOT"
+ ..BoardItem BoardOutline
+ ..BoardItem SolderpasteBottom
+ ..UserLayer "Cartiglio"
+
+.GerberOutputFile "O-xxx-PasteTop.gbr"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath ".\Output\Gerber\\\O-xxx-PasteTop.gbr"
+ ..HeaderText
+   ...CommentLine "RSM MASTER DESIGN srl"
+ ..TrailerText
+   ...CommentLine "PASTA TOP"
+ ..BoardItem BoardOutline
+ ..BoardItem SolderpasteTop
+ ..UserLayer "Cartiglio"
+
+.GerberOutputFile "N-xxx-SoldermaskBottom.gbr"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath ".\Output\Gerber\\\N-xxx-SoldermaskBottom.gbr"
+ ..HeaderText
+   ...CommentLine "RSM MASTER DESIGN srl"
+ ..TrailerText
+   ...CommentLine "SOLDER BOTTOM"
+ ..BoardItem BoardOutline
+ ..BoardItem SoldermaskBottom
+ ..UserLayer "Cartiglio"
+
+.GerberOutputFile "M-xxx-SoldermaskTop.gbr"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath ".\Output\Gerber\\\M-xxx-SoldermaskTop.gbr"
+ ..HeaderText
+   ...CommentLine "RSM MASTER DESIGN srl"
+ ..TrailerText
+   ...CommentLine "SOLDER TOP"
+ ..BoardItem BoardOutline
+ ..BoardItem SoldermaskTop
+ ..UserLayer "Cartiglio"
+
+.GerberOutputFile "L-xxx-Bottom.gbr"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath ".\Output\Gerber\\\L-xxx-Bottom.gbr"
+ ..HeaderText
+   ...CommentLine "RSM MASTER DESIGN srl"
+ ..TrailerText
+   ...CommentLine "LATO BOTTOM"
+ ..ConductiveLayer 8
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads Yes
+ ..BoardItem BoardOutline
+ ..CellType Buried
+ ..CellType Connector
+ ..CellType DiscreteAxial
+ ..CellType DiscreteChip
+ ..CellType DiscreteOther
+ ..CellType DiscreteRadial
+ ..CellType EdgeConnector
+ ..CellType EmbeddedPassive
+ ..CellType General
+ ..CellType Graphic
+ ..CellType ICBareDie
+ ..CellType ICBGA
+ ..CellType ICDIP
+ ..CellType ICFlipChip
+ ..CellType ICLCC
+ ..CellType ICOther
+ ..CellType ICPGA
+ ..CellType ICPLCC
+ ..CellType ICSIP
+ ..CellType ICSOIC
+ ..CellType Jumper
+ ..CellType Mechanical
+ ..CellType TestPoint
+ ..UserLayer "Cartiglio"
+ ..UserLayer "Logo-LS"
+
+.GerberOutputFile "I-xxx-Internal6.gbr"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath ".\Output\Gerber\\\I-xxx-Internal6.gbr"
+ ..HeaderText
+   ...CommentLine "RSM MASTER DESIGN srl"
+ ..TrailerText
+   ...CommentLine "INTERNO2 ALIMENTAZIONI"
+ ..ConductiveLayer 7
+   ...ConductiveItem EtchedText
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads No
+ ..BoardItem BoardOutline
+ ..CellType Buried
+ ..CellType Connector
+ ..CellType DiscreteAxial
+ ..CellType DiscreteChip
+ ..CellType DiscreteOther
+ ..CellType DiscreteRadial
+ ..CellType EdgeConnector
+ ..CellType EmbeddedPassive
+ ..CellType General
+ ..CellType Graphic
+ ..CellType ICBareDie
+ ..CellType ICBGA
+ ..CellType ICDIP
+ ..CellType ICFlipChip
+ ..CellType ICLCC
+ ..CellType ICOther
+ ..CellType ICPGA
+ ..CellType ICPLCC
+ ..CellType ICSIP
+ ..CellType ICSOIC
+ ..CellType Jumper
+ ..CellType Mechanical
+ ..CellType TestPoint
+ ..UserLayer "Cartiglio"
+
+.GerberOutputFile "H-xxx-Internal5.gbr"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath ".\Output\Gerber\\\H-xxx-Internal5.gbr"
+ ..HeaderText
+   ...CommentLine "RSM MASTER DESIGN srl"
+ ..TrailerText
+   ...CommentLine "INTERNO2 ALIMENTAZIONI"
+ ..ConductiveLayer 6
+   ...ConductiveItem EtchedText
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads No
+ ..BoardItem BoardOutline
+ ..CellType Buried
+ ..CellType Connector
+ ..CellType DiscreteAxial
+ ..CellType DiscreteChip
+ ..CellType DiscreteOther
+ ..CellType DiscreteRadial
+ ..CellType EdgeConnector
+ ..CellType EmbeddedPassive
+ ..CellType General
+ ..CellType Graphic
+ ..CellType ICBareDie
+ ..CellType ICBGA
+ ..CellType ICDIP
+ ..CellType ICFlipChip
+ ..CellType ICLCC
+ ..CellType ICOther
+ ..CellType ICPGA
+ ..CellType ICPLCC
+ ..CellType ICSIP
+ ..CellType ICSOIC
+ ..CellType Jumper
+ ..CellType Mechanical
+ ..CellType TestPoint
+ ..UserLayer "Cartiglio"
+
+.GerberOutputFile "G-xxx-Internal4.gbr"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath ".\Output\Gerber\\\G-xxx-Internal4.gbr"
+ ..HeaderText
+   ...CommentLine "RSM MASTER DESIGN srl"
+ ..TrailerText
+   ...CommentLine "INTERNO2 ALIMENTAZIONI"
+ ..ConductiveLayer 5
+   ...ConductiveItem EtchedText
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads No
+ ..BoardItem BoardOutline
+ ..CellType Buried
+ ..CellType Connector
+ ..CellType DiscreteAxial
+ ..CellType DiscreteChip
+ ..CellType DiscreteOther
+ ..CellType DiscreteRadial
+ ..CellType EdgeConnector
+ ..CellType EmbeddedPassive
+ ..CellType General
+ ..CellType Graphic
+ ..CellType ICBareDie
+ ..CellType ICBGA
+ ..CellType ICDIP
+ ..CellType ICFlipChip
+ ..CellType ICLCC
+ ..CellType ICOther
+ ..CellType ICPGA
+ ..CellType ICPLCC
+ ..CellType ICSIP
+ ..CellType ICSOIC
+ ..CellType Jumper
+ ..CellType Mechanical
+ ..CellType TestPoint
+ ..UserLayer "Cartiglio"
+
+.GerberOutputFile "F-xxx-Internal3.gbr"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath ".\Output\Gerber\\\F-xxx-Internal3.gbr"
+ ..HeaderText
+   ...CommentLine "RSM MASTER DESIGN srl"
+ ..TrailerText
+   ...CommentLine "INTERNO2 ALIMENTAZIONI"
+ ..ConductiveLayer 4
+   ...ConductiveItem EtchedText
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads No
+ ..BoardItem BoardOutline
+ ..CellType Buried
+ ..CellType Connector
+ ..CellType DiscreteAxial
+ ..CellType DiscreteChip
+ ..CellType DiscreteOther
+ ..CellType DiscreteRadial
+ ..CellType EdgeConnector
+ ..CellType EmbeddedPassive
+ ..CellType General
+ ..CellType Graphic
+ ..CellType ICBareDie
+ ..CellType ICBGA
+ ..CellType ICDIP
+ ..CellType ICFlipChip
+ ..CellType ICLCC
+ ..CellType ICOther
+ ..CellType ICPGA
+ ..CellType ICPLCC
+ ..CellType ICSIP
+ ..CellType ICSOIC
+ ..CellType Jumper
+ ..CellType Mechanical
+ ..CellType TestPoint
+ ..UserLayer "Cartiglio"
+
+.GerberOutputFile "E-xxx-Internal2.gbr"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath ".\Output\Gerber\\\E-xxx-Internal2.gbr"
+ ..DCodeMappingFile "(Automatic)"
+ ..HeaderText
+   ...CommentLine "RSM MASTER DESIGN srl"
+ ..TrailerText
+   ...CommentLine "INTERNO2 ALIMENTAZIONI"
+ ..ConductiveLayer 3
+   ...ConductiveItem EtchedText
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads No
+ ..BoardItem BoardOutline
+ ..UserLayer "Cartiglio"
+
+.GerberOutputFile "D-xxx-Internal1.gbr"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath ".\Output\Gerber\\\D-xxx-Internal1.gbr"
+ ..HeaderText
+   ...CommentLine "RSM MASTER DESIGN srl"
+ ..TrailerText
+   ...CommentLine "INTERNO1 MASSE"
+ ..ConductiveLayer 2
+   ...ConductiveItem EtchedText
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads No
+ ..BoardItem BoardOutline
+ ..UserLayer "Cartiglio"
+
+.GerberOutputFile "C-xxx-Top.gbr"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath ".\Output\Gerber\\\C-xxx-Top.gbr"
+ ..HeaderText
+   ...CommentLine "RSM MASTER DESIGN srl"
+ ..TrailerText
+   ...CommentLine "LATO COMPONENTI"
+ ..ConductiveLayer 1
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads Yes
+ ..BoardItem BoardOutline
+ ..CellType Buried
+ ..CellType Connector
+ ..CellType DiscreteAxial
+ ..CellType DiscreteChip
+ ..CellType DiscreteOther
+ ..CellType DiscreteRadial
+ ..CellType EdgeConnector
+ ..CellType EmbeddedPassive
+ ..CellType General
+ ..CellType Graphic
+ ..CellType ICBareDie
+ ..CellType ICBGA
+ ..CellType ICDIP
+ ..CellType ICFlipChip
+ ..CellType ICLCC
+ ..CellType ICOther
+ ..CellType ICPGA
+ ..CellType ICPLCC
+ ..CellType ICSIP
+ ..CellType ICSOIC
+ ..CellType Jumper
+ ..CellType Mechanical
+ ..CellType TestPoint
+ ..UserLayer "Cartiglio"
+
+.GerberOutputFile "B-xxx-SlkBottom.gbr"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath ".\Output\Gerber\\\B-xxx-SlkBottom.gbr"
+ ..HeaderText
+   ...CommentLine "RSM MASTER DESIGN srl"
+ ..TrailerText
+   ...CommentLine "Documentazione per il montaggio Bot"
+ ..BoardItem BoardOutline
+ ..CellType Buried
+ ..CellType Connector
+ ..CellType DiscreteAxial
+ ..CellType DiscreteChip
+ ..CellType DiscreteOther
+ ..CellType DiscreteRadial
+ ..CellType EdgeConnector
+ ..CellType General
+ ..CellType Graphic
+ ..CellType ICBareDie
+ ..CellType ICBGA
+ ..CellType ICDIP
+ ..CellType ICFlipChip
+ ..CellType ICLCC
+ ..CellType ICOther
+ ..CellType ICPGA
+ ..CellType ICPLCC
+ ..CellType ICSIP
+ ..CellType ICSOIC
+ ..CellType Jumper
+ ..CellType Mechanical
+ ..CellItemsSide Bottom
+   ...CellItemsLayer 8
+   ...CellItem SilkscreenOutline
+   ...CellItem SilkscreenReferenceDesignator
+ ..UserLayer "Cartiglio"
+ ..UserLayer "Logo-LS"
+
+.GerberOutputFile "A-xxx-SlkTop.gbr"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath ".\Output\Gerber\\\A-xxx-SlkTop.gbr"
+ ..HeaderText
+   ...CommentLine "RSM MASTER DESIGN srl"
+ ..TrailerText
+   ...CommentLine "Documentazione per il montaggio Top"
+ ..BoardItem BoardOutline
+ ..CellType Buried
+ ..CellType Connector
+ ..CellType DiscreteAxial
+ ..CellType DiscreteChip
+ ..CellType DiscreteOther
+ ..CellType DiscreteRadial
+ ..CellType EdgeConnector
+ ..CellType General
+ ..CellType Graphic
+ ..CellType ICBareDie
+ ..CellType ICBGA
+ ..CellType ICDIP
+ ..CellType ICFlipChip
+ ..CellType ICLCC
+ ..CellType ICOther
+ ..CellType ICPGA
+ ..CellType ICPLCC
+ ..CellType ICSIP
+ ..CellType ICSOIC
+ ..CellType Jumper
+ ..CellType Mechanical
+ ..CellType TestPoint
+ ..CellItemsSide Bottom
+   ...CellItemsLayer 1
+   ...CellItem SilkscreenOutline
+   ...CellItem SilkscreenReferenceDesignator
+ ..UserLayer "Cartiglio"
+ ..UserLayer "Logo-LC"

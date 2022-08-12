@@ -1,0 +1,25 @@
+; Version : LOCAL
+; Job     : D:\PD-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.pcb
+; User    : SHINA:Administrator
+; Date    : Thu Feb 04 15:44:56 2021
+; Format  : 2.4 / Absolute / Inch / Trailing
+; Contents: Thru / Mill / Plated
+M48
+INCH,LZ
+FMAT,2
+ICI,OFF
+T20C0.0276
+%
+M72
+G90
+G93X0Y0
+T20
+G00X111382Y020161
+M15
+G01X115709
+Y023937
+X111382
+Y020161
+M17
+T00
+M30

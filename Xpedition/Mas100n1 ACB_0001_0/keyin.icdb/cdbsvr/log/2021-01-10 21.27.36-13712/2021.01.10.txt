@@ -1,0 +1,113 @@
+[2021.01.10 21:27:36] [0000m.00s.014ms] [0] WELCOME
+[2021.01.10 21:27:36] [0000m.00s.014ms] [1] iCDB Server ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:17235852 created 2020-09-21 12:40:31, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2021.01.10 21:27:36] [0000m.00s.014ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2021.01.10 21:27:36] [0000m.00s.014ms] [1] Base flow version [VX.2.7]
+[2021.01.10 21:27:36] [0000m.00s.014ms] [1] Install Id [2125238], Flow Id [PADS Professional VX.2.7], Full Flow Name [PADS Pro Tools VX.2.7], Exact Access Date [2020/02/01]
+[2021.01.10 21:27:36] [0000m.00s.014ms] [1] UPDATE Install Info, Install Id [2239435], UPDATE Name [PADS Pro Tools VX.2.7 - Update 7]
+[2021.01.10 21:27:36] [0000m.00s.020ms] [1] Machine [SHINA]  IP [10.111.0.58,127.0.0.1,192.168.1.148]  User [Administrator]  PID [13712]
+[2021.01.10 21:27:36] [0000m.00s.021ms] [1] Operating system [Microsoft Windows 10 Home Premium Edition, 64-bit (build 19041)]
+[2021.01.10 21:27:36] [0000m.00s.021ms] [1] Current working dir [D:\PD-Master\Mas\Mas100n1 ACB_0001_0]
+[2021.01.10 21:27:36] [0000m.00s.021ms] [1] PATH [C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\bin;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\jre\default\bin;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSProVX.2.7\MGC_HOME.ixw\bin;C:\MentorGraphics\PADSProVX.2.7\MGC_HOME.ixw\lib;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\wg\win64\lib;C:\WINDOWS;%MGC_HOME%\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Cadence\SPB_16.6\tools\pcb\bin;C:\Cadence\SPB_16.6\tools\bin;C:\Cadence\SPB_16.6\tools\libutil\bin;C:\Cadence\SPB_16.6\tools\fet\bin;C:\Cadence\SPB_16.6\tools\specctra\bin;C:\Cadence\SPB_16.6\tools\pspice;C:\Cadence\SPB_16.6\tools\capture;C:\Cadence\SPB_16.6\openaccess\bin\win32\opt;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\Users\Administrator\AppData\Roaming\Dashlane\6.2021.0.35401\bin\Firefox_Extension\{442718d9-475e-452a-b3e1-fb1ee16b8e9f}\components;C:\Users\Administrator\AppData\Roaming\Dashlane\6.2021.0.35401\ucrt;C:\Users\Administrator\AppData\Roaming\Dashlane\6.2021.0.35401\bin\Qt;C:\Users\Administrator\AppData\Roaming\Dashlane\6.2021.0.35401\bin\Ssl;C:\Program Files (x86)\interCAD;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common3D\win64\lib]
+[2021.01.10 21:27:36] [0000m.00s.021ms] [1] SDD_HOME [C:\MentorGraphics\PADSProVX.2.7\SDD_HOME] on file system [NTFS]
+[2021.01.10 21:27:36] [0000m.00s.021ms] [1] SDD_PLATFORM [win64]
+[2021.01.10 21:27:36] [0000m.00s.021ms] [1] WDIR [C:\WDIR\PADSProVX.2.7;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\standard;]
+[2021.01.10 21:27:36] [0000m.00s.021ms] [1] Local iCDB working dir [C:\WDIR\PADSProVX.2.7\iCDB] on file system [NTFS]
+[2021.01.10 21:27:36] [0000m.00s.022ms] [1] S: Config file name [ServerWG.cfg]
+[2021.01.10 21:27:36] [0000m.00s.022ms] [2] S: Loading config files
+[2021.01.10 21:27:36] [0000m.00s.023ms] [1] Config file [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\keyin.icdb\cdbsvr\ServerWG.cfg] not found
+[2021.01.10 21:27:36] [0000m.00s.023ms] [1] Config: Non-default value [System.SingleUserMode] = [no]
+[2021.01.10 21:27:36] [0000m.00s.024ms] [3] S: Config loaded
+[2021.01.10 21:27:36] [0000m.00s.026ms] [0] S: Project path [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\keyin.icdb] on file system [NTFS]
+[2021.01.10 21:27:36] [0000m.00s.026ms] [0] S: Project file (.prj) path [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.prj] on file system [NTFS]
+[2021.01.10 21:27:36] [0000m.00s.026ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2021.01.10 21:27:36] [0000m.00s.026ms] [0] S: Multi-user mode (config)
+[2021.01.10 21:27:36] [0000m.00s.026ms] [0] S: Event polling mode autodetection
+[2021.01.10 21:27:36] [0000m.00s.026ms] [0] S: Started up automatically by iCDB Client: SHINA:Administrator:10060
+[2021.01.10 21:27:36] [0000m.00s.026ms] [0] S: Auto close mode
+[2021.01.10 21:27:36] [0000m.00s.026ms] [0] S: Database ID [16a6-9b0b-793d-f128-6f2b-9ffb-f2b9-ff50-616a-4603-c269-69c8]
+[2021.01.10 21:27:36] [0000m.00s.026ms] [0] PathTranslator: BEGIN dumping
+[2021.01.10 21:27:36] [0000m.00s.026ms] [0] PathTranslator: Local -> global path prefix list
+[2021.01.10 21:27:36] [0000m.00s.026ms] [0] PathTranslator: [HP LaserJet 5200 PCL6 Class Driver,LocalsplOnly] -> [\\SHINA\HP LaserJet 5200 PCL6 Class Driver]
+[2021.01.10 21:27:36] [0000m.00s.026ms] [0] PathTranslator: [C:\WINDOWS\system32\spool\drivers] -> [\\SHINA\print$]
+[2021.01.10 21:27:36] [0000m.00s.026ms] [0] PathTranslator: Global -> local path prefix list
+[2021.01.10 21:27:36] [0000m.00s.026ms] [0] PathTranslator: [\\SHINA\HP LaserJet 5200 PCL6 Class Driver] -> [HP LaserJet 5200 PCL6 Class Driver,LocalsplOnly]
+[2021.01.10 21:27:36] [0000m.00s.026ms] [0] PathTranslator: [\\SHINA\print$] -> [C:\WINDOWS\system32\spool\drivers]
+[2021.01.10 21:27:36] [0000m.00s.027ms] [0] PathTranslator: END dumping
+[2021.01.10 21:27:36] [0000m.00s.027ms] [0] S: START
+[2021.01.10 21:27:36] [0000m.00s.027ms] [0] S: Server startup lock file created
+[2021.01.10 21:27:36] [0000m.00s.027ms] [0] S: Listening for client connections on port [10001]
+[2021.01.10 21:27:36] [0000m.00s.028ms] [0] S: Server network ID [Shina:10.111.0.58,192.168.1.148,Shina:10001]
+[2021.01.10 21:27:36] [0000m.00s.028ms] [0] S: Server GUID [8ab3-baed-d610-5591-8336-bffd-336b-ff50-6aa7-a603-c269-69c8]
+[2021.01.10 21:27:36] [0000m.00s.028ms] [0] S: Project GUID [16a6-9b0b-793d-f128-6f2b-9ffb-f2b9-ff50-616a-4603-c269-69c8]
+[2021.01.10 21:27:36] [0000m.00s.029ms] [0] S: Wrote data to server address file
+[2021.01.10 21:27:36] [0000m.00s.029ms] [0] S: Server startup lock file removed
+[2021.01.10 21:27:36] [0000m.00s.029ms] [1] ProjectBackupManager: Setting project file (.prj) path: [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.prj]
+[2021.01.10 21:27:36] [0000m.00s.064ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2021.01.10 21:27:36] [0000m.00s.064ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\iCDB\win64\bin]
+[2021.01.10 21:27:36] [0000m.00s.064ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\bin]
+[2021.01.10 21:27:36] [0000m.00s.065ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2021.01.10 21:27:36] [0000m.00s.065ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2021.01.10 21:27:36] [0000m.00s.065ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2021.01.10 21:27:36] [0000m.00s.065ms] [0] S: Local disc access time: 31 us
+[2021.01.10 21:27:36] [0000m.00s.065ms] [0] S: File server access time: 24 us
+[2021.01.10 21:27:36] [0000m.00s.066ms] [0] Single file [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\keyin.icdb\icdb.dat] size [156360 (152.7 kB)]
+[2021.01.10 21:27:36] [0000m.00s.066ms] [1] Single file [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\keyin.icdb\icdb.dat] opened in read-write mode
+[2021.01.10 21:27:36] [0000m.00s.066ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.01.10 21:27:36] [0000m.00s.066ms] [0] Database GUARD OK: [156360]
+[2021.01.10 21:27:36] [0000m.00s.067ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.01.10 21:27:36] [0000m.00s.067ms] [0] Database GUARD OK: [156360]
+[2021.01.10 21:27:36] [0000m.00s.067ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.01.10 21:27:36] [0000m.00s.067ms] [0] Database GUARD OK: [156360]
+[2021.01.10 21:27:36] [0000m.00s.067ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.01.10 21:27:36] [0000m.00s.067ms] [0] Database GUARD OK: [156360]
+[2021.01.10 21:27:36] [0000m.00s.067ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.01.10 21:27:36] [0000m.00s.067ms] [0] Database GUARD OK: [156360]
+[2021.01.10 21:27:36] [0000m.00s.067ms] [0] SingleFile: [d63c-711a-3f40-6b41] SFI version check [1009] [1009]
+[2021.01.10 21:27:36] [0000m.00s.069ms] [0] SingleFile: [d63c-711a-3f40-6b41] Database SFI header has been read in [1ms 278us]
+[2021.01.10 21:27:36] [0000m.00s.071ms] [0] iCDB Server PI: Server & plugin session [424]
+[2021.01.10 21:27:36] [0000m.00s.071ms] [0] iCDB Server PI: Opening database [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\keyin.icdb]
+[2021.01.10 21:27:36] [0000m.00s.071ms] [0] iCDB Server PI: Database [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\keyin.icdb] opened
+[2021.01.10 21:27:36] [0000m.00s.086ms] [0] iCDB Database: Checking existence of constraint definitions
+[2021.01.10 21:27:36] [0000m.00s.086ms] [0] iCDB Database: Checking constraint definitions version
+[2021.01.10 21:27:36] [0000m.00s.104ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.69] up to date
+[2021.01.10 21:27:36] [0000m.00s.107ms] [0] iCDB Server PI: Initializing plugins
+[2021.01.10 21:27:36] [0000m.00s.107ms] [0] iCDB Server PI: Plugins initialized
+[2021.01.10 21:27:36] [0000m.00s.107ms] [0] S: iCDB database loaded
+[2021.01.10 21:27:36] [0000m.00s.108ms] [0] S: Starting threads
+[2021.01.10 21:27:36] [0000m.00s.108ms] [0] BT: Listening for broadcast messages on port [10000]
+[2021.01.10 21:27:36] [0000m.00s.109ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2021.01.10 21:27:36] [0000m.00s.109ms] [0] IT: Session [425] for host [Shina] user [Administrator] client type[0] clsvrPluginID[0] with process ID [10060] created
+[2021.01.10 21:27:36] [0000m.00s.111ms] [1] SC[425]: Registered sub-client [Expedition PE_2991437] with ID [1] for session ID [425] host [Shina] user [Administrator] process ID [10060]
+[2021.01.10 21:27:36] [0000m.00s.115ms] [0] MWT: WindowProc: WM_NCCREATE
+[2021.01.10 21:27:36] [0000m.00s.116ms] [0] IT: iCDB Server Monitor session [1] for host [Shina] user [Administrator] with process ID [1460] created
+[2021.01.10 21:27:36] [0000m.00s.116ms] [1] DMT: There are [1] iCDB Server Monitor connected now
+[2021.01.10 21:27:36] [0000m.00s.141ms] [1] SC[425]: Registered sub-client [ExpeditionCrossProber] with ID [2] for session ID [425] host [Shina] user [Administrator] process ID [10060]
+[2021.01.10 21:27:36] [0000m.00s.209ms] [1] CMT: There are [1] clients now: 425
+[2021.01.10 21:27:49] [0000m.13s.253ms] [1] SC[425]: UnRegistered sub-client [ExpeditionCrossProber] with ID [2] for session ID [425] host [Shina] user [Administrator] process ID [10060]
+[2021.01.10 21:27:51] [0000m.14s.898ms] [1] SC[425]: UnRegistered sub-client [Expedition PE_2991437] with ID [1] for session ID [425] host [Shina] user [Administrator] process ID [10060]
+[2021.01.10 21:27:51] [0000m.14s.995ms] [1] CMT: Removed client [425]
+[2021.01.10 21:27:51] [0000m.14s.995ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2021.01.10 21:27:51] [0000m.15s.338ms] [1] SDL: The last connected iCDB Server Monitor [1] is waiting for server close
+[2021.01.10 21:27:53] [0000m.16s.665ms] [0] CMT: Starting server auto-close
+[2021.01.10 21:27:53] [0000m.16s.727ms] [0] S: Closing server
+[2021.01.10 21:27:53] [0000m.16s.821ms] [0] iCDB Server PI: Closing plugins
+[2021.01.10 21:27:53] [0000m.16s.821ms] [0] iCDB Server PI: Plugins closed
+[2021.01.10 21:27:53] [0000m.16s.821ms] [0] iCDB Server PI: Unloading database
+[2021.01.10 21:27:53] [0000m.16s.821ms] [0] iCDB Server PI: Saving storage
+[2021.01.10 21:27:53] [0000m.16s.821ms] [0] iCDB Server PI: Closing database
+[2021.01.10 21:27:53] [0000m.16s.821ms] [1] Hole: zero line at 156332 of size 8 bytes.
+[2021.01.10 21:27:53] [0000m.16s.940ms] [1] iCDB Server PI: Stats: Database defragmentation: max[1] avg[1] holes[0%] data[99%]
+[2021.01.10 21:27:53] [0000m.16s.940ms] [1] iCDB Server PI: Stats: Database file size [156360 (152.7 kB)]
+[2021.01.10 21:27:53] [0000m.16s.940ms] [1] Hole: zero line at 156332 of size 8 bytes.
+[2021.01.10 21:27:53] [0000m.16s.979ms] [0] iCDB Server PI: Database closed
+[2021.01.10 21:27:53] [0000m.16s.979ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [139] ticks
+[2021.01.10 21:27:53] [0000m.16s.979ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [13] microseconds
+[2021.01.10 21:27:53] [0000m.16s.979ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [1]
+[2021.01.10 21:27:53] [0000m.16s.979ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [71942] commands per second
+[2021.01.10 21:27:53] [0000m.16s.979ms] [1] iCDB Server PI: Stats: Mem[11685888]
+[2021.01.10 21:27:53] [0000m.16s.979ms] [1] iCDB Server PI: Stats: MemPeak[32886784]
+[2021.01.10 21:27:53] [0000m.16s.979ms] [0] Single file [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\keyin.icdb\icdb.dat] closed with size [156360 (152.7 kB)]
+[2021.01.10 21:27:53] [0000m.17s.041ms] [1] SD[1]: Removing the last connected iCDB Server Monitor [1]
+[2021.01.10 21:27:53] [0000m.17s.165ms] [0] MWT: Destroy the shutdown block reason.
+[2021.01.10 21:27:53] [0000m.17s.168ms] [0] MWT: STOP
+[2021.01.10 21:27:53] [0000m.17s.168ms] [0] S: STOP

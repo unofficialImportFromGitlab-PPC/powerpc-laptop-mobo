@@ -1,0 +1,11 @@
+The contract designer created the schematic design using Cadence OrCad Capture.
+
+The contract designer created the PCB layout using Siemens/Mentor Xpedition.
+
+Altium Designer 21 was used to read the provided Xpedition PCB layout data, 
+and also to read the OrCad Capture schematics into a single Altium project.
+
+KiCad was used to import the Altium PCB layout, and at some point is expected
+to import the Altium schematic as well. KiCad is the intended destination for
+this design to then proceed as an easily accessible "open-source" hardware design.
+

@@ -1,0 +1,5 @@
+This directory is for data to be delivered to the PCB fab house, to manufacture the bare PCB boards.
+
+This is not for any assembly data, not for Bill of Materials, not for anything that an Assembly house might use, 
+not even if the board manufacturer also is the assembler.
+

@@ -1,0 +1,144 @@
+[2021.01.27 10:32:11] [0000m.00s.015ms] [0] WELCOME
+[2021.01.27 10:32:11] [0000m.00s.016ms] [1] iCDB Server ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:17235852 created 2020-09-21 12:40:31, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2021.01.27 10:32:11] [0000m.00s.016ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2021.01.27 10:32:11] [0000m.00s.016ms] [1] Base flow version [VX.2.7]
+[2021.01.27 10:32:11] [0000m.00s.016ms] [1] Install Id [2125238], Flow Id [PADS Professional VX.2.7], Full Flow Name [PADS Pro Tools VX.2.7], Exact Access Date [2020/02/01]
+[2021.01.27 10:32:11] [0000m.00s.016ms] [1] UPDATE Install Info, Install Id [2239435], UPDATE Name [PADS Pro Tools VX.2.7 - Update 7]
+[2021.01.27 10:32:11] [0000m.00s.023ms] [1] Machine [SHINA]  IP [10.46.0.22,127.0.0.1,192.168.1.148]  User [Administrator]  PID [12312]
+[2021.01.27 10:32:11] [0000m.00s.023ms] [1] Operating system [Microsoft Windows 10 Home Premium Edition, 64-bit (build 19042)]
+[2021.01.27 10:32:11] [0000m.00s.023ms] [1] Current working dir [D:\PD-Master\Mas\Mas100n1 ACB_0001_0]
+[2021.01.27 10:32:11] [0000m.00s.023ms] [1] PATH [C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\bin;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\jre\default\bin;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSProVX.2.7\MGC_HOME.ixw\bin;C:\MentorGraphics\PADSProVX.2.7\MGC_HOME.ixw\lib;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\wg\win64\lib;C:\Windows;%MGC_HOME%\lib;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Cadence\SPB_16.6\tools\pcb\bin;C:\Cadence\SPB_16.6\tools\bin;C:\Cadence\SPB_16.6\tools\libutil\bin;C:\Cadence\SPB_16.6\tools\fet\bin;C:\Cadence\SPB_16.6\tools\specctra\bin;C:\Cadence\SPB_16.6\tools\pspice;C:\Cadence\SPB_16.6\tools\capture;C:\Cadence\SPB_16.6\openaccess\bin\win32\opt;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\Users\Administrator\AppData\Roaming\Dashlane\6.2021.0.35401\bin\Firefox_Extension\{442718d9-475e-452a-b3e1-fb1ee16b8e9f}\components;C:\Users\Administrator\AppData\Roaming\Dashlane\6.2021.0.35401\ucrt;C:\Users\Administrator\AppData\Roaming\Dashlane\6.2021.0.35401\bin\Qt;C:\Users\Administrator\AppData\Roaming\Dashlane\6.2021.0.35401\bin\Ssl;C:\Program Files (x86)\interCAD;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common3D\win64\lib]
+[2021.01.27 10:32:11] [0000m.00s.023ms] [1] SDD_HOME [C:\MentorGraphics\PADSProVX.2.7\SDD_HOME] on file system [NTFS]
+[2021.01.27 10:32:11] [0000m.00s.023ms] [1] SDD_PLATFORM [win64]
+[2021.01.27 10:32:11] [0000m.00s.023ms] [1] WDIR [C:\WDIR\PADSProVX.2.7;C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\standard;]
+[2021.01.27 10:32:11] [0000m.00s.023ms] [1] Local iCDB working dir [C:\WDIR\PADSProVX.2.7\iCDB] on file system [NTFS]
+[2021.01.27 10:32:11] [0000m.00s.023ms] [1] S: Config file name [ServerWG.cfg]
+[2021.01.27 10:32:11] [0000m.00s.023ms] [2] S: Loading config files
+[2021.01.27 10:32:11] [0000m.00s.025ms] [1] Config file [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\keyin.icdb\cdbsvr\ServerWG.cfg] not found
+[2021.01.27 10:32:11] [0000m.00s.025ms] [1] Config: Non-default value [System.SingleUserMode] = [no]
+[2021.01.27 10:32:11] [0000m.00s.026ms] [3] S: Config loaded
+[2021.01.27 10:32:11] [0000m.00s.034ms] [0] S: Project path [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\keyin.icdb] on file system [NTFS]
+[2021.01.27 10:32:11] [0000m.00s.034ms] [0] S: Project file (.prj) path [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.prj] on file system [NTFS]
+[2021.01.27 10:32:11] [0000m.00s.034ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2021.01.27 10:32:11] [0000m.00s.034ms] [0] S: Multi-user mode (config)
+[2021.01.27 10:32:11] [0000m.00s.034ms] [0] S: Event polling mode autodetection
+[2021.01.27 10:32:11] [0000m.00s.034ms] [0] S: Started up automatically by iCDB Client: SHINA:Administrator:2484
+[2021.01.27 10:32:11] [0000m.00s.034ms] [0] S: Auto close mode
+[2021.01.27 10:32:11] [0000m.00s.034ms] [0] S: Database ID [35ad-3f26-2d31-096a-47f2-110a-7f21-1060-e938-2333-1339-89a8]
+[2021.01.27 10:32:11] [0000m.00s.034ms] [0] PathTranslator: BEGIN dumping
+[2021.01.27 10:32:11] [0000m.00s.034ms] [0] PathTranslator: Local -> global path prefix list
+[2021.01.27 10:32:11] [0000m.00s.034ms] [0] PathTranslator: [HP LaserJet 5200 PCL6 Class Driver,LocalsplOnly] -> [\\SHINA\HP LaserJet 5200 PCL6 Class Driver]
+[2021.01.27 10:32:11] [0000m.00s.034ms] [0] PathTranslator: [C:\WINDOWS\system32\spool\drivers] -> [\\SHINA\print$]
+[2021.01.27 10:32:11] [0000m.00s.034ms] [0] PathTranslator: [J:\] -> [\\192.168.1.81\Librerie\]
+[2021.01.27 10:32:11] [0000m.00s.034ms] [0] PathTranslator: [K:\] -> [\\192.168.1.81\Commesse\]
+[2021.01.27 10:32:11] [0000m.00s.034ms] [0] PathTranslator: [L:\] -> [\\192.168.1.81\Software\]
+[2021.01.27 10:32:11] [0000m.00s.034ms] [0] PathTranslator: [M:\] -> [\\192.168.1.81\Amministrazione\]
+[2021.01.27 10:32:11] [0000m.00s.034ms] [0] PathTranslator: [N:\] -> [\\192.168.1.81\Gestione Informatica\]
+[2021.01.27 10:32:11] [0000m.00s.034ms] [0] PathTranslator: [O:\] -> [\\192.168.1.81\ArchiviGestionale\]
+[2021.01.27 10:32:11] [0000m.00s.034ms] [0] PathTranslator: [P:\] -> [\\192.168.1.81\Privato\]
+[2021.01.27 10:32:11] [0000m.00s.034ms] [0] PathTranslator: [Q:\] -> [\\192.168.1.81\Cancelleria\]
+[2021.01.27 10:32:11] [0000m.00s.034ms] [0] PathTranslator: [Y:\] -> [\\192.168.1.81\ArchiviGestionale\]
+[2021.01.27 10:32:11] [0000m.00s.034ms] [0] PathTranslator: Global -> local path prefix list
+[2021.01.27 10:32:11] [0000m.00s.035ms] [0] PathTranslator: [\\SHINA\HP LaserJet 5200 PCL6 Class Driver] -> [HP LaserJet 5200 PCL6 Class Driver,LocalsplOnly]
+[2021.01.27 10:32:11] [0000m.00s.035ms] [0] PathTranslator: [\\192.168.1.81\Gestione Informatica\] -> [N:\]
+[2021.01.27 10:32:11] [0000m.00s.035ms] [0] PathTranslator: [\\192.168.1.81\ArchiviGestionale\] -> [O:\]
+[2021.01.27 10:32:11] [0000m.00s.035ms] [0] PathTranslator: [\\192.168.1.81\ArchiviGestionale\] -> [Y:\]
+[2021.01.27 10:32:11] [0000m.00s.035ms] [0] PathTranslator: [\\192.168.1.81\Amministrazione\] -> [M:\]
+[2021.01.27 10:32:11] [0000m.00s.035ms] [0] PathTranslator: [\\192.168.1.81\Cancelleria\] -> [Q:\]
+[2021.01.27 10:32:11] [0000m.00s.035ms] [0] PathTranslator: [\\192.168.1.81\Librerie\] -> [J:\]
+[2021.01.27 10:32:11] [0000m.00s.035ms] [0] PathTranslator: [\\192.168.1.81\Commesse\] -> [K:\]
+[2021.01.27 10:32:11] [0000m.00s.035ms] [0] PathTranslator: [\\192.168.1.81\Software\] -> [L:\]
+[2021.01.27 10:32:11] [0000m.00s.035ms] [0] PathTranslator: [\\192.168.1.81\Privato\] -> [P:\]
+[2021.01.27 10:32:11] [0000m.00s.035ms] [0] PathTranslator: [\\SHINA\print$] -> [C:\WINDOWS\system32\spool\drivers]
+[2021.01.27 10:32:11] [0000m.00s.035ms] [0] PathTranslator: END dumping
+[2021.01.27 10:32:11] [0000m.00s.035ms] [0] S: START
+[2021.01.27 10:32:11] [0000m.00s.035ms] [0] S: Server startup lock file created
+[2021.01.27 10:32:11] [0000m.00s.035ms] [0] S: Listening for client connections on port [10000]
+[2021.01.27 10:32:11] [0000m.00s.036ms] [0] S: Server network ID [Shina:10.46.0.22,192.168.1.148,Shina:10000]
+[2021.01.27 10:32:11] [0000m.00s.036ms] [0] S: Server GUID [1a1c-d146-0939-9e7e-b133-1101-2331-1060-296b-2333-1339-89a8]
+[2021.01.27 10:32:11] [0000m.00s.036ms] [0] S: Project GUID [35ad-3f26-2d31-096a-47f2-110a-7f21-1060-e938-2333-1339-89a8]
+[2021.01.27 10:32:11] [0000m.00s.037ms] [0] S: Wrote data to server address file
+[2021.01.27 10:32:11] [0000m.00s.037ms] [0] S: Server startup lock file removed
+[2021.01.27 10:32:11] [0000m.00s.037ms] [1] ProjectBackupManager: Setting project file (.prj) path: [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.prj]
+[2021.01.27 10:32:11] [0000m.00s.093ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2021.01.27 10:32:11] [0000m.00s.093ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\iCDB\win64\bin]
+[2021.01.27 10:32:11] [0000m.00s.093ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\PADSProVX.2.7\SDD_HOME\common\win64\bin]
+[2021.01.27 10:32:11] [0000m.00s.094ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2021.01.27 10:32:11] [0000m.00s.094ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2021.01.27 10:32:11] [0000m.00s.094ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2021.01.27 10:32:11] [0000m.00s.094ms] [0] S: Local disc access time: 30 us
+[2021.01.27 10:32:11] [0000m.00s.094ms] [0] S: File server access time: 25 us
+[2021.01.27 10:32:11] [0000m.00s.095ms] [0] Single file [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\keyin.icdb\icdb.dat] size [158912 (155.2 kB)]
+[2021.01.27 10:32:11] [0000m.00s.095ms] [1] Single file [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\keyin.icdb\icdb.dat] opened in read-write mode
+[2021.01.27 10:32:11] [0000m.00s.095ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.01.27 10:32:11] [0000m.00s.095ms] [0] Database GUARD OK: [158912]
+[2021.01.27 10:32:11] [0000m.00s.096ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.01.27 10:32:11] [0000m.00s.096ms] [0] Database GUARD OK: [158912]
+[2021.01.27 10:32:11] [0000m.00s.096ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.01.27 10:32:11] [0000m.00s.096ms] [0] Database GUARD OK: [158912]
+[2021.01.27 10:32:11] [0000m.00s.096ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.01.27 10:32:11] [0000m.00s.096ms] [0] Database GUARD OK: [158912]
+[2021.01.27 10:32:11] [0000m.00s.096ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.01.27 10:32:11] [0000m.00s.096ms] [0] Database GUARD OK: [158912]
+[2021.01.27 10:32:11] [0000m.00s.096ms] [0] SingleFile: [ecaf-b783-6ba0-3096] SFI version check [1009] [1009]
+[2021.01.27 10:32:11] [0000m.00s.097ms] [0] SingleFile: [ecaf-b783-6ba0-3096] Database SFI header has been read in [1ms 238us]
+[2021.01.27 10:32:11] [0000m.00s.100ms] [0] iCDB Server PI: Server & plugin session [664]
+[2021.01.27 10:32:11] [0000m.00s.100ms] [0] iCDB Server PI: Opening database [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\keyin.icdb]
+[2021.01.27 10:32:11] [0000m.00s.101ms] [0] iCDB Server PI: Database [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\keyin.icdb] opened
+[2021.01.27 10:32:11] [0000m.00s.146ms] [0] iCDB Database: Checking existence of constraint definitions
+[2021.01.27 10:32:11] [0000m.00s.146ms] [0] iCDB Database: Checking constraint definitions version
+[2021.01.27 10:32:11] [0000m.00s.168ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.69] up to date
+[2021.01.27 10:32:12] [0000m.00s.464ms] [0] iCDB Server PI: Initializing plugins
+[2021.01.27 10:32:12] [0000m.00s.465ms] [0] iCDB Server PI: Plugins initialized
+[2021.01.27 10:32:12] [0000m.00s.465ms] [0] S: iCDB database loaded
+[2021.01.27 10:32:12] [0000m.00s.466ms] [0] S: Starting threads
+[2021.01.27 10:32:12] [0000m.00s.466ms] [0] BT: Listening for broadcast messages on port [10000]
+[2021.01.27 10:32:12] [0000m.00s.466ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2021.01.27 10:32:12] [0000m.00s.467ms] [0] IT: Session [665] for host [Shina] user [Administrator] client type[0] clsvrPluginID[0] with process ID [2484] created
+[2021.01.27 10:32:12] [0000m.00s.469ms] [1] SC[665]: Registered sub-client [Expedition PE_178877031] with ID [1] for session ID [665] host [Shina] user [Administrator] process ID [2484]
+[2021.01.27 10:32:12] [0000m.00s.472ms] [0] MWT: WindowProc: WM_NCCREATE
+[2021.01.27 10:32:12] [0000m.00s.518ms] [1] SC[665]: Registered sub-client [EEVM_EEVM_383276912] with ID [2] for session ID [665] host [Shina] user [Administrator] process ID [2484]
+[2021.01.27 10:32:12] [0000m.00s.519ms] [1] SC[665]: UnRegistered sub-client [EEVM_EEVM_383276912] with ID [2] for session ID [665] host [Shina] user [Administrator] process ID [2484]
+[2021.01.27 10:32:12] [0000m.00s.571ms] [1] CMT: There are [1] clients now: 665
+[2021.01.27 10:32:13] [0000m.01s.633ms] [1] SC[665]: Registered sub-client [JobPrefsDBPI_178878812] with ID [3] for session ID [665] host [Shina] user [Administrator] process ID [2484]
+[2021.01.27 10:32:13] [0000m.01s.640ms] [1] SC[665]: UnRegistered sub-client [JobPrefsDBPI_178878812] with ID [3] for session ID [665] host [Shina] user [Administrator] process ID [2484]
+[2021.01.27 10:32:16] [0000m.04s.467ms] [1] SC[665]: Registered sub-client [JobPrefsDBPI_178881656] with ID [4] for session ID [665] host [Shina] user [Administrator] process ID [2484]
+[2021.01.27 10:32:16] [0000m.04s.472ms] [1] SC[665]: UnRegistered sub-client [JobPrefsDBPI_178881656] with ID [4] for session ID [665] host [Shina] user [Administrator] process ID [2484]
+[2021.01.27 10:32:19] [0000m.08s.131ms] [1] SC[665]: Registered sub-client [JobPrefsDBPI_178885312] with ID [5] for session ID [665] host [Shina] user [Administrator] process ID [2484]
+[2021.01.27 10:32:19] [0000m.08s.166ms] [1] SC[665]: UnRegistered sub-client [JobPrefsDBPI_178885312] with ID [5] for session ID [665] host [Shina] user [Administrator] process ID [2484]
+[2021.01.27 10:32:23] [0000m.11s.819ms] [1] SC[665]: Registered sub-client [JobPrefsDBPI_178889000] with ID [6] for session ID [665] host [Shina] user [Administrator] process ID [2484]
+[2021.01.27 10:32:23] [0000m.11s.854ms] [1] SC[665]: UnRegistered sub-client [JobPrefsDBPI_178889000] with ID [6] for session ID [665] host [Shina] user [Administrator] process ID [2484]
+[2021.01.27 10:32:23] [0000m.11s.930ms] [1] SC[665]: Registered sub-client [ExpeditionCrossProber] with ID [7] for session ID [665] host [Shina] user [Administrator] process ID [2484]
+[2021.01.27 10:32:23] [0000m.11s.932ms] [1] SC[665]: Registered sub-client [StartServerClient4648] with ID [8] for session ID [665] host [Shina] user [Administrator] process ID [2484]
+[2021.01.27 10:32:23] [0000m.11s.933ms] [1] SC[665]: UnRegistered sub-client [StartServerClient4648] with ID [8] for session ID [665] host [Shina] user [Administrator] process ID [2484]
+[2021.01.27 10:32:41] [0000m.29s.978ms] [0] DFAMT: File server access time: 50 us
+[2021.01.27 14:16:44] [0224m.32s.483ms] [0] PrjBackupEngine: Failed to create backup:  BackupGUID[2158-b69b-bb3a-1d50-5b76-110b-b761-1060-a8ea-2333-1339-89a8] CreationTime[Wednesday, January 27, 2021 13:16:37] Type[Autosave] Creator[iCDB Server (2021-01-27 10.32.11-12312)] ApplicationName[iCDB Server (2021-01-27 10.32.11-12312)] UserName[Administrator] MachineName[SHINA] Description[Autosave] FullFlowName[PADS Pro Tools VX.2.7; PADS Pro Tools VX.2.7 - Update 7] FlowId[PADSProVX.2.7] GBSInstallId[2125238; 2239435] GBSBuildId[17235852] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[D:\PD-Master\Mas\Mas100n1 ACB_0001_0\ProjectBackup\backups\2021-01-27 14.16.37 - auto.zip] BackupFileSize[0] Persistent[FALSE]: Core Exception: Category[CORE] Error[PRJ_BACKUP_CREATE_FAILED] Description[Cannot create Project Backup file] Message[Could not add file [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\Logic\~$bom_portatile.ods] to archive [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\ProjectBackup\backups\2021-01-27 14.16.37 - auto.zip] - error trying to open file]
+[2021.01.27 14:16:48] [0224m.36s.655ms] [0] PrjBackupEngine: Failed to create backup:  BackupGUID[66ff-bfc0-8356-e639-cb76-1102-c761-1060-a8ea-2333-1339-89a8] CreationTime[Wednesday, January 27, 2021 13:16:44] Type[Autosave] Creator[iCDB Server (2021-01-27 10.32.11-12312)] ApplicationName[iCDB Server (2021-01-27 10.32.11-12312)] UserName[Administrator] MachineName[SHINA] Description[Autosave] FullFlowName[PADS Pro Tools VX.2.7; PADS Pro Tools VX.2.7 - Update 7] FlowId[PADSProVX.2.7] GBSInstallId[2125238; 2239435] GBSBuildId[17235852] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[D:\PD-Master\Mas\Mas100n1 ACB_0001_0\ProjectBackup\backups\2021-01-27 14.16.44 - auto.zip] BackupFileSize[0] Persistent[FALSE]: Core Exception: Category[CORE] Error[PRJ_BACKUP_CREATE_FAILED] Description[Cannot create Project Backup file] Message[Could not add file [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\Logic\~$bom_portatile.ods] to archive [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\ProjectBackup\backups\2021-01-27 14.16.44 - auto.zip] - error trying to open file]
+[2021.01.27 14:17:12] [0225m.01s.356ms] [0] PrjBackupEngine: Failed to create backup:  BackupGUID[67cf-9594-7def-1443-5d76-110b-d761-1060-a8ea-2333-1339-89a8] CreationTime[Wednesday, January 27, 2021 13:17:09] Type[Autosave] Creator[iCDB Server (2021-01-27 10.32.11-12312)] ApplicationName[iCDB Server (2021-01-27 10.32.11-12312)] UserName[Administrator] MachineName[SHINA] Description[Autosave] FullFlowName[PADS Pro Tools VX.2.7; PADS Pro Tools VX.2.7 - Update 7] FlowId[PADSProVX.2.7] GBSInstallId[2125238; 2239435] GBSBuildId[17235852] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[D:\PD-Master\Mas\Mas100n1 ACB_0001_0\ProjectBackup\backups\2021-01-27 14.17.09 - auto.zip] BackupFileSize[0] Persistent[FALSE]: Core Exception: Category[CORE] Error[PRJ_BACKUP_CREATE_FAILED] Description[Cannot create Project Backup file] Message[Could not add file [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\Logic\~$bom_portatile.ods] to archive [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\ProjectBackup\backups\2021-01-27 14.17.09 - auto.zip] - error trying to open file]
+[2021.01.27 14:19:17] [0227m.06s.225ms] [0] PrjBackupEngine: Failed to create backup:  BackupGUID[f522-31fc-879c-c288-2586-1108-5861-1060-a8ea-2333-1339-89a8] CreationTime[Wednesday, January 27, 2021 13:19:14] Type[Autosave] Creator[iCDB Server (2021-01-27 10.32.11-12312)] ApplicationName[iCDB Server (2021-01-27 10.32.11-12312)] UserName[Administrator] MachineName[SHINA] Description[Autosave] FullFlowName[PADS Pro Tools VX.2.7; PADS Pro Tools VX.2.7 - Update 7] FlowId[PADSProVX.2.7] GBSInstallId[2125238; 2239435] GBSBuildId[17235852] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[D:\PD-Master\Mas\Mas100n1 ACB_0001_0\ProjectBackup\backups\2021-01-27 14.19.14 - auto.zip] BackupFileSize[0] Persistent[FALSE]: Core Exception: Category[CORE] Error[PRJ_BACKUP_CREATE_FAILED] Description[Cannot create Project Backup file] Message[Could not add file [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\Logic\~$bom_portatile.ods] to archive [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\ProjectBackup\backups\2021-01-27 14.19.14 - auto.zip] - error trying to open file]
+[2021.01.27 14:29:43] [0237m.31s.487ms] [0] PrjBackupEngine: Failed to create backup:  BackupGUID[7e8f-2ed5-4bb6-91f5-3ca6-1109-ca61-1060-a8ea-2333-1339-89a8] CreationTime[Wednesday, January 27, 2021 13:29:39] Type[Autosave] Creator[iCDB Server (2021-01-27 10.32.11-12312)] ApplicationName[iCDB Server (2021-01-27 10.32.11-12312)] UserName[Administrator] MachineName[SHINA] Description[Autosave] FullFlowName[PADS Pro Tools VX.2.7; PADS Pro Tools VX.2.7 - Update 7] FlowId[PADSProVX.2.7] GBSInstallId[2125238; 2239435] GBSBuildId[17235852] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[D:\PD-Master\Mas\Mas100n1 ACB_0001_0\ProjectBackup\backups\2021-01-27 14.29.39 - auto.zip] BackupFileSize[0] Persistent[FALSE]: Core Exception: Category[CORE] Error[PRJ_BACKUP_CREATE_FAILED] Description[Cannot create Project Backup file] Message[Could not add file [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\Logic\~$bom_portatile.ods] to archive [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\ProjectBackup\backups\2021-01-27 14.29.39 - auto.zip] - error trying to open file]
+[2021.01.27 15:21:48] [0289m.36s.544ms] [0] PrjBackupEngine: Failed to create backup:  BackupGUID[1a1d-68dc-fb8b-3aa7-8f67-110e-f671-1060-a8ea-2333-1339-89a8] CreationTime[Wednesday, January 27, 2021 14:21:44] Type[Autosave] Creator[iCDB Server (2021-01-27 10.32.11-12312)] ApplicationName[iCDB Server (2021-01-27 10.32.11-12312)] UserName[Administrator] MachineName[SHINA] Description[Autosave] FullFlowName[PADS Pro Tools VX.2.7; PADS Pro Tools VX.2.7 - Update 7] FlowId[PADSProVX.2.7] GBSInstallId[2125238; 2239435] GBSBuildId[17235852] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[D:\PD-Master\Mas\Mas100n1 ACB_0001_0\ProjectBackup\backups\2021-01-27 15.21.44 - auto.zip] BackupFileSize[0] Persistent[FALSE]: Core Exception: Category[CORE] Error[PRJ_BACKUP_CREATE_FAILED] Description[Cannot create Project Backup file] Message[Could not add file [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\Logic\~$bom_portatile.ods] to archive [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\ProjectBackup\backups\2021-01-27 15.21.44 - auto.zip] - error trying to open file]
+[2021.01.27 17:13:05] [0400m.53s.501ms] [1] SC[665]: UnRegistered sub-client [ExpeditionCrossProber] with ID [7] for session ID [665] host [Shina] user [Administrator] process ID [2484]
+[2021.01.27 17:13:07] [0400m.55s.500ms] [1] SC[665]: UnRegistered sub-client [Expedition PE_178877031] with ID [1] for session ID [665] host [Shina] user [Administrator] process ID [2484]
+[2021.01.27 17:13:07] [0400m.55s.608ms] [1] CMT: Removed client [665]
+[2021.01.27 17:13:07] [0400m.55s.610ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2021.01.27 17:13:09] [0400m.57s.247ms] [0] CMT: Starting server auto-close
+[2021.01.27 17:13:09] [0400m.57s.278ms] [0] S: Closing server
+[2021.01.27 17:13:09] [0400m.57s.407ms] [0] iCDB Server PI: Closing plugins
+[2021.01.27 17:13:09] [0400m.57s.412ms] [0] iCDB Server PI: Plugins closed
+[2021.01.27 17:13:09] [0400m.57s.412ms] [0] iCDB Server PI: Unloading database
+[2021.01.27 17:13:09] [0400m.57s.413ms] [0] iCDB Server PI: Saving storage
+[2021.01.27 17:13:09] [0400m.57s.413ms] [0] iCDB Server PI: Closing database
+[2021.01.27 17:13:09] [0400m.57s.520ms] [1] iCDB Server PI: Stats: Database defragmentation: max[3] avg[1] holes[0%] data[99%]
+[2021.01.27 17:13:09] [0400m.57s.520ms] [1] iCDB Server PI: Stats: Database file size [159440 (155.7 kB)]
+[2021.01.27 17:13:09] [0400m.57s.564ms] [0] iCDB Server PI: Database closed
+[2021.01.27 17:13:09] [0400m.57s.564ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [443328] ticks
+[2021.01.27 17:13:09] [0400m.57s.564ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [44332] microseconds
+[2021.01.27 17:13:09] [0400m.57s.564ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [123]
+[2021.01.27 17:13:09] [0400m.57s.564ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [2774] commands per second
+[2021.01.27 17:13:09] [0400m.57s.564ms] [1] iCDB Server PI: Stats: Mem[13942784]
+[2021.01.27 17:13:09] [0400m.57s.564ms] [1] iCDB Server PI: Stats: MemPeak[33484800]
+[2021.01.27 17:13:09] [0400m.57s.565ms] [0] Single file [D:\PD-Master\Mas\Mas100n1 ACB_0001_0\keyin.icdb\icdb.dat] closed with size [159440 (155.7 kB)]
+[2021.01.27 17:13:09] [0400m.57s.774ms] [0] MWT: Destroy the shutdown block reason.
+[2021.01.27 17:13:09] [0400m.57s.776ms] [0] MWT: STOP
+[2021.01.27 17:13:09] [0400m.57s.777ms] [0] S: STOP

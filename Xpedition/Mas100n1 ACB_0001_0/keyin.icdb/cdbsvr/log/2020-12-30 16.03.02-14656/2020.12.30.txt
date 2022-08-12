@@ -1,0 +1,114 @@
+[2020.12.30 16:03:02] [0000m.00s.010ms] [0] WELCOME
+[2020.12.30 16:03:02] [0000m.00s.011ms] [1] iCDB Server ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:17235852 created 2020-09-21 12:40:31, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2020.12.30 16:03:02] [0000m.00s.011ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2020.12.30 16:03:02] [0000m.00s.011ms] [1] Base flow version [VX.2.7]
+[2020.12.30 16:03:02] [0000m.00s.011ms] [1] Install Id [2125238], Flow Id [PADS Professional VX.2.7], Full Flow Name [PADS Pro Tools VX.2.7], Exact Access Date [2020/02/01]
+[2020.12.30 16:03:02] [0000m.00s.011ms] [1] UPDATE Install Info, Install Id [2239435], UPDATE Name [PADS Pro Tools VX.2.7 - Update 7]
+[2020.12.30 16:03:02] [0000m.00s.015ms] [1] Machine [DESKTOP-CUVV7JD]  IP [127.0.0.1,192.168.1.159]  User [Shina]  PID [14656]
+[2020.12.30 16:03:02] [0000m.00s.016ms] [1] Operating system [Microsoft Windows 10 Business Edition, 64-bit (build 19041)]
+[2020.12.30 16:03:02] [0000m.00s.016ms] [1] Current working dir [D:\Pd-Master\1 Lavori\Mas\Mas100n1 ACB_0001_0]
+[2020.12.30 16:03:02] [0000m.00s.016ms] [1] PATH [C:\MentorGraphics64\PADSProVX.2.7\SDD_HOME\common\win64\bin;C:\MentorGraphics64\PADSProVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics64\PADSProVX.2.7\SDD_HOME\common\win64\jre\default\bin;C:\MentorGraphics64\PADSProVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics64\PADSProVX.2.7\MGC_HOME.ixw\bin;C:\MentorGraphics64\PADSProVX.2.7\MGC_HOME.ixw\lib;C:\MentorGraphics64\PADSProVX.2.7\SDD_HOME\wg\win64\lib;%MGC_HOME%\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Cadence\SPB_16.6\tools\pcb\bin;C:\Cadence\SPB_16.6\tools\bin;C:\Cadence\SPB_16.6\tools\libutil\bin;C:\Cadence\SPB_16.6\tools\fet\bin;C:\Cadence\SPB_16.6\tools\specctra\bin;C:\Cadence\SPB_16.6\tools\pspice;C:\Cadence\SPB_16.6\tools\capture;C:\Cadence\SPB_16.6\openaccess\bin\win32\opt;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Windows;C:\Users\Shina\AppData\Local\Microsoft\WindowsApps;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\Program Files (x86)\interCAD;C:\MentorGraphics64\PADSProVX.2.7\SDD_HOME\common3D\win64\lib]
+[2020.12.30 16:03:02] [0000m.00s.016ms] [1] SDD_HOME [C:\MentorGraphics64\PADSProVX.2.7\SDD_HOME] on file system [NTFS]
+[2020.12.30 16:03:02] [0000m.00s.016ms] [1] SDD_PLATFORM [win64]
+[2020.12.30 16:03:02] [0000m.00s.016ms] [1] WDIR [C:\WDIR\PADSProVX.2.7;C:\MentorGraphics64\PADSProVX.2.7\SDD_HOME\standard;]
+[2020.12.30 16:03:02] [0000m.00s.016ms] [1] Local iCDB working dir [C:\WDIR\PADSProVX.2.7\iCDB] on file system [NTFS]
+[2020.12.30 16:03:02] [0000m.00s.016ms] [1] S: Config file name [ServerWG.cfg]
+[2020.12.30 16:03:02] [0000m.00s.016ms] [2] S: Loading config files
+[2020.12.30 16:03:02] [0000m.00s.018ms] [1] Config file [D:\Pd-Master\1 Lavori\Mas\Mas100n1 ACB_0001_0\keyin.icdb\cdbsvr\ServerWG.cfg] not found
+[2020.12.30 16:03:02] [0000m.00s.018ms] [1] Config: Non-default value [System.SingleUserMode] = [no]
+[2020.12.30 16:03:02] [0000m.00s.019ms] [3] S: Config loaded
+[2020.12.30 16:03:02] [0000m.00s.023ms] [0] S: Project path [D:\Pd-Master\1 Lavori\Mas\Mas100n1 ACB_0001_0\keyin.icdb] on file system [NTFS]
+[2020.12.30 16:03:02] [0000m.00s.023ms] [0] S: Project file (.prj) path [D:\Pd-Master\1 Lavori\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.prj] on file system [NTFS]
+[2020.12.30 16:03:02] [0000m.00s.024ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2020.12.30 16:03:02] [0000m.00s.024ms] [0] S: Multi-user mode (config)
+[2020.12.30 16:03:02] [0000m.00s.024ms] [0] S: Event polling mode autodetection
+[2020.12.30 16:03:02] [0000m.00s.024ms] [0] S: Started up automatically by iCDB Client: DESKTOP-CUVV7JD:Shina:7496
+[2020.12.30 16:03:02] [0000m.00s.024ms] [0] S: Auto close mode
+[2020.12.30 16:03:02] [0000m.00s.024ms] [0] S: Database ID [1805-a7f8-66df-3e91-3fdd-aef8-fdda-ef50-71a7-4433-62ef-cf98]
+[2020.12.30 16:03:02] [0000m.00s.024ms] [0] PathTranslator: BEGIN dumping
+[2020.12.30 16:03:02] [0000m.00s.024ms] [0] PathTranslator: Local -> global path prefix list
+[2020.12.30 16:03:02] [0000m.00s.024ms] [0] PathTranslator: [HP Universal Printing PCL 6,LocalsplOnly] -> [\\DESKTOP-CUVV7JD\HP Universal Printing PCL 6]
+[2020.12.30 16:03:02] [0000m.00s.024ms] [0] PathTranslator: [C:\Windows\system32\spool\drivers] -> [\\DESKTOP-CUVV7JD\print$]
+[2020.12.30 16:03:02] [0000m.00s.024ms] [0] PathTranslator: [J:\] -> [\\QNAP-TS420\Librerie\]
+[2020.12.30 16:03:02] [0000m.00s.024ms] [0] PathTranslator: [K:\] -> [\\QNAP-TS420\Commesse\]
+[2020.12.30 16:03:02] [0000m.00s.024ms] [0] PathTranslator: [M:\] -> [\\QNAP-TS420\Amministrazione\]
+[2020.12.30 16:03:02] [0000m.00s.024ms] [0] PathTranslator: Global -> local path prefix list
+[2020.12.30 16:03:02] [0000m.00s.024ms] [0] PathTranslator: [\\DESKTOP-CUVV7JD\HP Universal Printing PCL 6] -> [HP Universal Printing PCL 6,LocalsplOnly]
+[2020.12.30 16:03:02] [0000m.00s.024ms] [0] PathTranslator: [\\QNAP-TS420\Amministrazione\] -> [M:\]
+[2020.12.30 16:03:02] [0000m.00s.024ms] [0] PathTranslator: [\\DESKTOP-CUVV7JD\print$] -> [C:\Windows\system32\spool\drivers]
+[2020.12.30 16:03:02] [0000m.00s.024ms] [0] PathTranslator: [\\QNAP-TS420\Librerie\] -> [J:\]
+[2020.12.30 16:03:02] [0000m.00s.024ms] [0] PathTranslator: [\\QNAP-TS420\Commesse\] -> [K:\]
+[2020.12.30 16:03:02] [0000m.00s.024ms] [0] PathTranslator: END dumping
+[2020.12.30 16:03:02] [0000m.00s.024ms] [0] S: START
+[2020.12.30 16:03:02] [0000m.00s.024ms] [0] S: Server startup lock file created
+[2020.12.30 16:03:02] [0000m.00s.025ms] [0] S: Listening for client connections on port [10002]
+[2020.12.30 16:03:02] [0000m.00s.025ms] [0] S: Server network ID [DESKTOP-CUVV7JD:192.168.1.159,DESKTOP-CUVV7JD:10002]
+[2020.12.30 16:03:02] [0000m.00s.025ms] [0] S: Server GUID [d08a-14bf-3294-1704-6a69-cefb-a69c-ef50-33b5-4433-62ef-cf98]
+[2020.12.30 16:03:02] [0000m.00s.025ms] [0] S: Project GUID [1805-a7f8-66df-3e91-3fdd-aef8-fdda-ef50-71a7-4433-62ef-cf98]
+[2020.12.30 16:03:02] [0000m.00s.026ms] [0] S: Wrote data to server address file
+[2020.12.30 16:03:02] [0000m.00s.026ms] [0] S: Server startup lock file removed
+[2020.12.30 16:03:02] [0000m.00s.026ms] [1] ProjectBackupManager: Setting project file (.prj) path: [D:\Pd-Master\1 Lavori\Mas\Mas100n1 ACB_0001_0\Mas100n1 ACUBE_PORTABILE R_0.prj]
+[2020.12.30 16:03:02] [0000m.00s.057ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2020.12.30 16:03:02] [0000m.00s.057ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics64\PADSProVX.2.7\SDD_HOME\iCDB\win64\bin]
+[2020.12.30 16:03:02] [0000m.00s.057ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics64\PADSProVX.2.7\SDD_HOME\common\win64\bin]
+[2020.12.30 16:03:02] [0000m.00s.058ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2020.12.30 16:03:02] [0000m.00s.058ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2020.12.30 16:03:02] [0000m.00s.058ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2020.12.30 16:03:02] [0000m.00s.058ms] [0] S: Local disc access time: 19 us
+[2020.12.30 16:03:02] [0000m.00s.058ms] [0] S: File server access time: 53 us
+[2020.12.30 16:03:02] [0000m.00s.059ms] [0] Single file [D:\Pd-Master\1 Lavori\Mas\Mas100n1 ACB_0001_0\keyin.icdb\icdb.dat] size [155384 (151.7 kB)]
+[2020.12.30 16:03:02] [0000m.00s.059ms] [1] Single file [D:\Pd-Master\1 Lavori\Mas\Mas100n1 ACB_0001_0\keyin.icdb\icdb.dat] opened in read-write mode
+[2020.12.30 16:03:02] [0000m.00s.059ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2020.12.30 16:03:02] [0000m.00s.059ms] [0] Database GUARD OK: [155384]
+[2020.12.30 16:03:02] [0000m.00s.060ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2020.12.30 16:03:02] [0000m.00s.060ms] [0] Database GUARD OK: [155384]
+[2020.12.30 16:03:02] [0000m.00s.060ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2020.12.30 16:03:02] [0000m.00s.060ms] [0] Database GUARD OK: [155384]
+[2020.12.30 16:03:02] [0000m.00s.060ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2020.12.30 16:03:02] [0000m.00s.060ms] [0] Database GUARD OK: [155384]
+[2020.12.30 16:03:02] [0000m.00s.060ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2020.12.30 16:03:02] [0000m.00s.060ms] [0] Database GUARD OK: [155384]
+[2020.12.30 16:03:02] [0000m.00s.060ms] [0] SingleFile: [b88a-9a25-c69a-fd9a] SFI version check [1009] [1009]
+[2020.12.30 16:03:02] [0000m.00s.061ms] [0] SingleFile: [b88a-9a25-c69a-fd9a] Database SFI header has been read in [717us]
+[2020.12.30 16:03:02] [0000m.00s.064ms] [0] iCDB Server PI: Server & plugin session [309]
+[2020.12.30 16:03:02] [0000m.00s.064ms] [0] iCDB Server PI: Opening database [D:\Pd-Master\1 Lavori\Mas\Mas100n1 ACB_0001_0\keyin.icdb]
+[2020.12.30 16:03:02] [0000m.00s.064ms] [0] iCDB Server PI: Database [D:\Pd-Master\1 Lavori\Mas\Mas100n1 ACB_0001_0\keyin.icdb] opened
+[2020.12.30 16:03:02] [0000m.00s.078ms] [0] iCDB Database: Checking existence of constraint definitions
+[2020.12.30 16:03:02] [0000m.00s.078ms] [0] iCDB Database: Checking constraint definitions version
+[2020.12.30 16:03:02] [0000m.00s.095ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.69] up to date
+[2020.12.30 16:03:02] [0000m.00s.098ms] [0] iCDB Server PI: Initializing plugins
+[2020.12.30 16:03:02] [0000m.00s.098ms] [0] iCDB Server PI: Plugins initialized
+[2020.12.30 16:03:02] [0000m.00s.098ms] [0] S: iCDB database loaded
+[2020.12.30 16:03:02] [0000m.00s.098ms] [0] S: Starting threads
+[2020.12.30 16:03:02] [0000m.00s.099ms] [0] BT: Listening for broadcast messages on port [10000]
+[2020.12.30 16:03:02] [0000m.00s.099ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2020.12.30 16:03:02] [0000m.00s.099ms] [0] IT: Session [310] for host [DESKTOP-CUVV7JD] user [Shina] client type[0] clsvrPluginID[0] with process ID [7496] created
+[2020.12.30 16:03:02] [0000m.00s.101ms] [1] SC[310]: Registered sub-client [Expedition PE_1313255703] with ID [1] for session ID [310] host [DESKTOP-CUVV7JD] user [Shina] process ID [7496]
+[2020.12.30 16:03:02] [0000m.00s.103ms] [0] MWT: WindowProc: WM_NCCREATE
+[2020.12.30 16:03:02] [0000m.00s.139ms] [1] SC[310]: Registered sub-client [EEVM_EEVM_938139440] with ID [2] for session ID [310] host [DESKTOP-CUVV7JD] user [Shina] process ID [7496]
+[2020.12.30 16:03:02] [0000m.00s.139ms] [1] SC[310]: UnRegistered sub-client [EEVM_EEVM_938139440] with ID [2] for session ID [310] host [DESKTOP-CUVV7JD] user [Shina] process ID [7496]
+[2020.12.30 16:03:02] [0000m.00s.214ms] [1] CMT: There are [1] clients now: 310
+[2020.12.30 16:03:03] [0000m.00s.839ms] [1] SC[310]: Registered sub-client [JobPrefsDBPI_1313256656] with ID [3] for session ID [310] host [DESKTOP-CUVV7JD] user [Shina] process ID [7496]
+[2020.12.30 16:03:03] [0000m.00s.844ms] [1] SC[310]: UnRegistered sub-client [JobPrefsDBPI_1313256656] with ID [3] for session ID [310] host [DESKTOP-CUVV7JD] user [Shina] process ID [7496]
+[2020.12.30 16:03:05] [0000m.03s.078ms] [1] SC[310]: Registered sub-client [JobPrefsDBPI_1313258906] with ID [4] for session ID [310] host [DESKTOP-CUVV7JD] user [Shina] process ID [7496]
+[2020.12.30 16:03:05] [0000m.03s.080ms] [1] SC[310]: UnRegistered sub-client [JobPrefsDBPI_1313258906] with ID [4] for session ID [310] host [DESKTOP-CUVV7JD] user [Shina] process ID [7496]
+[2020.12.30 16:03:06] [0000m.04s.184ms] [1] PrjBackupMgr: Successfully created Project Backup [D:\Pd-Master\1 Lavori\Mas\Mas100n1 ACB_0001_0\ProjectBackup\backups\2020-12-30 16.03.02 - auto.zip] with GUID [3dcb-2124-7acf-6003-6a69-cefb-a69c-ef50-f627-4433-62ef-cf98]
+[2020.12.30 16:03:06] [0000m.04s.184ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[3dcb-2124-7acf-6003-6a69-cefb-a69c-ef50-f627-4433-62ef-cf98] CreationTime[Wednesday, December 30, 2020 15:03:02] Type[Autosave] Creator[iCDB Server (2020-12-30 16.03.02-14656)] ApplicationName[iCDB Server (2020-12-30 16.03.02-14656)] UserName[Shina] MachineName[DESKTOP-CUVV7JD] Description[Autosave] FullFlowName[PADS Pro Tools VX.2.7; PADS Pro Tools VX.2.7 - Update 7] FlowId[PADSProVX.2.7] GBSInstallId[2125238; 2239435] GBSBuildId[17235852] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[D:\Pd-Master\1 Lavori\Mas\Mas100n1 ACB_0001_0\ProjectBackup\backups\2020-12-30 16.03.02 - auto.zip] BackupFileSize[89299839] Persistent[FALSE]
+[2020.12.30 16:03:14] [0000m.12s.152ms] [1] SC[310]: Registered sub-client [JobPrefsDBPI_1313267968] with ID [5] for session ID [310] host [DESKTOP-CUVV7JD] user [Shina] process ID [7496]
+[2020.12.30 16:03:14] [0000m.12s.165ms] [1] SC[310]: UnRegistered sub-client [JobPrefsDBPI_1313267968] with ID [5] for session ID [310] host [DESKTOP-CUVV7JD] user [Shina] process ID [7496]
+[2020.12.30 16:03:14] [0000m.12s.318ms] [1] SC[310]: Registered sub-client [JobPrefsDBPI_1313268140] with ID [6] for session ID [310] host [DESKTOP-CUVV7JD] user [Shina] process ID [7496]
+[2020.12.30 16:03:14] [0000m.12s.332ms] [1] SC[310]: UnRegistered sub-client [JobPrefsDBPI_1313268140] with ID [6] for session ID [310] host [DESKTOP-CUVV7JD] user [Shina] process ID [7496]
+[2020.12.30 16:03:14] [0000m.12s.392ms] [1] SC[310]: Registered sub-client [ExpeditionCrossProber] with ID [7] for session ID [310] host [DESKTOP-CUVV7JD] user [Shina] process ID [7496]
+[2020.12.30 16:03:14] [0000m.12s.394ms] [1] SC[310]: Registered sub-client [StartServerClient5ad4] with ID [8] for session ID [310] host [DESKTOP-CUVV7JD] user [Shina] process ID [7496]
+[2020.12.30 16:03:14] [0000m.12s.394ms] [1] SC[310]: UnRegistered sub-client [StartServerClient5ad4] with ID [8] for session ID [310] host [DESKTOP-CUVV7JD] user [Shina] process ID [7496]
+[2020.12.30 16:03:31] [0000m.29s.294ms] [0] DFAMT: File server access time: 96 us
+[2020.12.30 16:08:47] [0005m.45s.619ms] [1] SC[310]: Registered sub-client [Shina (Stackup Editor)] with ID [9] for session ID [310] host [DESKTOP-CUVV7JD] user [Shina] process ID [7496]
+[2020.12.30 16:08:48] [0005m.45s.738ms] [1] SC[310]: Registered sub-client [JobPrefsDBPI_1313601562] with ID [10] for session ID [310] host [DESKTOP-CUVV7JD] user [Shina] process ID [7496]
+[2020.12.30 16:08:48] [0005m.45s.740ms] [1] SC[310]: UnRegistered sub-client [JobPrefsDBPI_1313601562] with ID [10] for session ID [310] host [DESKTOP-CUVV7JD] user [Shina] process ID [7496]
+[2020.12.30 16:09:11] [0006m.09s.056ms] [1] SC[310]: Registered sub-client [JobPrefsDBPI_1313624875] with ID [11] for session ID [310] host [DESKTOP-CUVV7JD] user [Shina] process ID [7496]
+[2020.12.30 16:09:11] [0006m.09s.058ms] [1] SC[310]: UnRegistered sub-client [JobPrefsDBPI_1313624875] with ID [11] for session ID [310] host [DESKTOP-CUVV7JD] user [Shina] process ID [7496]
+[2020.12.30 16:09:11] [0006m.09s.088ms] [1] SC[310]: Registered sub-client [JobPrefsDBPI_1313624906] with ID [12] for session ID [310] host [DESKTOP-CUVV7JD] user [Shina] process ID [7496]
+[2020.12.30 16:09:11] [0006m.09s.090ms] [1] SC[310]: UnRegistered sub-client [JobPrefsDBPI_1313624906] with ID [12] for session ID [310] host [DESKTOP-CUVV7JD] user [Shina] process ID [7496]
+[2020.12.30 16:09:11] [0006m.09s.269ms] [1] SC[310]: UnRegistered sub-client [Shina (Stackup Editor)] with ID [9] for session ID [310] host [DESKTOP-CUVV7JD] user [Shina] process ID [7496]
+[2020.12.30 20:03:06] [0240m.04s.088ms] [1] PrjBackupMgr: Successfully created Project Backup [D:\Pd-Master\1 Lavori\Mas\Mas100n1 ACB_0001_0\ProjectBackup\backups\2020-12-30 20.03.02 - auto.zip] with GUID [e8d1-b7a4-4036-0364-6eec-cefb-eecc-ef50-f627-4433-62ef-cf98]
+[2020.12.30 20:03:06] [0240m.04s.088ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[e8d1-b7a4-4036-0364-6eec-cefb-eecc-ef50-f627-4433-62ef-cf98] CreationTime[Wednesday, December 30, 2020 19:03:02] Type[Autosave] Creator[iCDB Server (2020-12-30 16.03.02-14656)] ApplicationName[iCDB Server (2020-12-30 16.03.02-14656)] UserName[Shina] MachineName[DESKTOP-CUVV7JD] Description[Autosave] FullFlowName[PADS Pro Tools VX.2.7; PADS Pro Tools VX.2.7 - Update 7] FlowId[PADSProVX.2.7] GBSInstallId[2125238; 2239435] GBSBuildId[17235852] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[D:\Pd-Master\1 Lavori\Mas\Mas100n1 ACB_0001_0\ProjectBackup\backups\2020-12-30 20.03.02 - auto.zip] BackupFileSize[89277947] Persistent[FALSE]

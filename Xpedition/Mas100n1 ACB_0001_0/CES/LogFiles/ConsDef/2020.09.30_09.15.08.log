@@ -1,0 +1,28 @@
+Wed Sep 30 09:15:08 2020
+
+Project path: D:\Vb-master\Mas\Mas100n1 ACB_0001_0\keyin.icdb
+
+Env. WDIR: C:\WDIR\7.9.5EE;C:\MentorGraphics\7.9.5EE\SDD_HOME\standard
+WDIRs: 
+	C:\WDIR\7.9.5EE
+	C:\MentorGraphics\7.9.5EE\SDD_HOME\standard
+
+Loaded cns files: 
+	C:\WDIR\7.9.5EE\user.cns=7008-29a1-6bfb-d5ac-8689-76ed-6897-6e50-ffa2-4000-cf46-86c5
+	C:\MentorGraphics\7.9.5EE\SDD_HOME\standard\ce_ee.cns=7.10.24 (read-only)
+
+Loaded cns - data stored in database: C:\WDIR\7.9.5EE\user.cns=7008-29a1-6bfb-d5ac-8689-76ed-6897-6e50-ffa2-4000-cf46-86c5;C:\MentorGraphics\7.9.5EE\SDD_HOME\standard\ce_ee.cns=7.10.24
+Before global upgrade from version: 7.10.24 to version: 7.10.24
+
+BeforeGlobalUpgrade took 11ms, 0s
+
+Upgrade snapshot PCB
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot PCB_Layout_Temp
+UpgradeSnapshot took 0ms, 0s
+
+After global upgrade
+Set database cns file versions: ce_ee.cns=7.10.24;user.cns=7008-29a1-6bfb-d5ac-8689-76ed-6897-6e50-ffa2-4000-cf46-86c5
+AfterGlobalUpgrade took 0ms, 0s
+
